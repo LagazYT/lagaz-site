@@ -93,20 +93,75 @@ async function imagemDaPagina(link) {
   } catch { return ""; }
 }
 
-// Vídeos do canal: feed público oficial do YouTube (traz os 15 mais recentes, com visualizações).
-async function lerVideos() {
-  const r = await fetch(`https://www.youtube.com/feeds/videos.xml?channel_id=${CANAL_ID}`, { headers: UA, signal: AbortSignal.timeout(20000) });
-  if (!r.ok) throw new Error(`HTTP ${r.status}`);
-  const xml = await r.text();
+// Vídeos do canal. Ordem de tentativas:
+// 1) API oficial do YouTube (só se existir a chave YOUTUBE_API_KEY; traz também os mais vistos de todos os tempos)
+// 2) feed do canal  3) feed da lista de envios (o YouTube às vezes dá 404 para um e funciona no outro)
+const linkVideo = (id) => `https://www.youtube.com/watch?v=${id}`;
+const imgVideo = (id) => `https://i.ytimg.com/vi/${id}/hqdefault.jpg`;
+const esperar = (ms) => new Promise((ok) => setTimeout(ok, ms));
+
+async function baixaFeed(url) {
+  let ultimo;
+  for (let i = 0; i < 2; i++) {
+    try {
+      const r = await fetch(url, {
+        headers: { ...UA, Accept: "application/atom+xml,text/xml,*/*", "Accept-Language": "pt-BR,pt;q=0.9" },
+        signal: AbortSignal.timeout(20000),
+      });
+      if (r.ok) return await r.text();
+      ultimo = new Error(`HTTP ${r.status}`);
+    } catch (e) { ultimo = e; }
+    await esperar(2000);
+  }
+  throw ultimo;
+}
+
+function videosDoFeed(xml) {
   return (xml.match(/<entry[\s\S]*?<\/entry>/gi) || []).map((b) => {
     const id = limpa(pega(b, "yt:videoId"));
     return {
       id, t: limpa(pega(b, "title")), data: limpa(pega(b, "published")),
       views: Number((b.match(/<media:statistics[^>]*views="(\d+)"/i) || [])[1] || 0),
-      img: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
-      link: `https://www.youtube.com/watch?v=${id}`,
+      img: imgVideo(id), link: linkVideo(id),
     };
   }).filter((v) => /^[\w-]{11}$/.test(v.id) && v.t);
+}
+
+async function videosPelaApi(chave) {
+  const base = "https://www.googleapis.com/youtube/v3";
+  const q = async (u) => {
+    const r = await fetch(u, { signal: AbortSignal.timeout(20000) });
+    if (!r.ok) throw new Error(`API HTTP ${r.status}`);
+    return r.json();
+  };
+  const busca = (ordem) => q(`${base}/search?part=snippet&channelId=${CANAL_ID}&order=${ordem}&type=video&maxResults=15&key=${chave}`);
+  const [recentes, populares] = [await busca("date"), await busca("viewCount")];
+  const ids = [...new Set([...recentes.items, ...populares.items].map((i) => i.id && i.id.videoId).filter(Boolean))];
+  const det = await q(`${base}/videos?part=snippet,statistics&id=${ids.join(",")}&key=${chave}`);
+  return det.items.map((v) => ({
+    id: v.id, t: v.snippet.title, data: v.snippet.publishedAt,
+    views: Number(v.statistics.viewCount || 0), img: imgVideo(v.id), link: linkVideo(v.id),
+  })).sort((a, b) => b.data.localeCompare(a.data));
+}
+
+async function lerVideos() {
+  const chave = process.env.YOUTUBE_API_KEY;
+  if (chave) {
+    try { return await videosPelaApi(chave); }
+    catch (e) { console.log(`AVISO API do YouTube: ${e.message}; tentando os feeds.`); }
+  }
+  let erro;
+  for (const url of [
+    `https://www.youtube.com/feeds/videos.xml?channel_id=${CANAL_ID}`,
+    `https://www.youtube.com/feeds/videos.xml?playlist_id=UU${CANAL_ID.slice(2)}`,
+  ]) {
+    try {
+      const v = videosDoFeed(await baixaFeed(url));
+      if (v.length) return v;
+      erro = new Error("feed vazio");
+    } catch (e) { erro = e; }
+  }
+  throw erro;
 }
 
 const regras = [
