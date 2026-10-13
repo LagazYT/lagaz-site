@@ -164,6 +164,45 @@ async function lerVideos() {
   throw erro;
 }
 
+// Próximos lançamentos (IGDB, via Twitch). Precisa de TWITCH_CLIENT_ID e TWITCH_CLIENT_SECRET.
+const PLATAFORMAS = { win: "PC", ps5: "PS5", "series-x-s": "Xbox", xboxone: "Xbox", switch: "Switch", "switch-2": "Switch 2" };
+async function igdb(token, clientId, endpoint, corpo) {
+  const r = await fetch(`https://api.igdb.com/v4/${endpoint}`, {
+    method: "POST",
+    headers: { "Client-ID": clientId, Authorization: `Bearer ${token}`, "Content-Type": "text/plain" },
+    body: corpo, signal: AbortSignal.timeout(20000),
+  });
+  if (!r.ok) throw new Error(`IGDB HTTP ${r.status}`);
+  return r.json();
+}
+async function lerLancamentos(clientId, segredo) {
+  const t = await fetch(
+    `https://id.twitch.tv/oauth2/token?client_id=${encodeURIComponent(clientId)}&client_secret=${encodeURIComponent(segredo)}&grant_type=client_credentials`,
+    { method: "POST", signal: AbortSignal.timeout(20000) },
+  );
+  if (!t.ok) throw new Error(`Twitch HTTP ${t.status} (confira o Client ID e o Secret)`);
+  const token = (await t.json()).access_token;
+  const slugs = Object.keys(PLATAFORMAS).map((x) => `"${x}"`).join(",");
+  const plats = await igdb(token, clientId, "platforms", `fields id,name,slug; where slug = (${slugs}); limit 30;`);
+  const rotulo = new Map(plats.filter((p) => PLATAFORMAS[p.slug]).map((p) => [p.id, PLATAFORMAS[p.slug]]));
+  console.log(`Plataformas encontradas: ${[...new Set(plats.map((p) => p.slug))].join(", ") || "nenhuma"}`);
+  if (!rotulo.size) throw new Error("nenhuma plataforma encontrada");
+  const agora = Math.floor(Date.now() / 1000);
+  const ate = agora + 270 * 86400;
+  const jogos = await igdb(token, clientId, "games",
+    `fields name,first_release_date,hypes,cover.image_id,platforms,url; ` +
+    `where first_release_date > ${agora} & first_release_date < ${ate} & platforms = (${[...rotulo.keys()].join(",")}) & hypes > 1 & version_parent = null; ` +
+    `sort first_release_date asc; limit 150;`);
+  return jogos.filter((g) => g.name && g.cover && g.cover.image_id).map((g) => ({
+    t: g.name,
+    data: new Date(g.first_release_date * 1000).toISOString().slice(0, 10),
+    plats: [...new Set((g.platforms || []).map((p) => rotulo.get(p)).filter(Boolean))],
+    img: `https://images.igdb.com/igdb/image/upload/t_cover_big/${g.cover.image_id}.jpg`,
+    hype: g.hypes || 0,
+    link: /^https:\/\//.test(g.url || "") ? g.url : "",
+  })).slice(0, 60);
+}
+
 const regras = [
   ["Ofertas", /promo|desconto|oferta|de graça|gratuito|grátis|black friday/i],
   ["PC", /\bpc\b|nvidia|rtx|\bamd\b|steam|placa de v[ií]deo|\bfps\b|dlss|fsr/i],
@@ -253,12 +292,26 @@ try {
   console.log(`ERRO Canal Lagaz (YouTube): ${e.message} (mantendo os vídeos anteriores)`);
 }
 
+let lancamentos = dadosAntigos.lancamentos || [];
+const idTwitch = process.env.TWITCH_CLIENT_ID, segredoTwitch = process.env.TWITCH_CLIENT_SECRET;
+if (idTwitch && segredoTwitch) {
+  try {
+    const novos = await lerLancamentos(idTwitch, segredoTwitch);
+    if (novos.length) lancamentos = novos;
+    console.log(`OK   Lançamentos (IGDB): ${novos.length} jogos`);
+  } catch (e) {
+    console.log(`ERRO Lançamentos (IGDB): ${e.message} (mantendo os anteriores)`);
+  }
+} else {
+  console.log("AVISO Lançamentos: TWITCH_CLIENT_ID e TWITCH_CLIENT_SECRET não configurados; pulando.");
+}
+
 if (!noticias.length) {
   console.log("Nenhuma notícia encontrada; mantendo o noticias.json atual.");
   process.exit(1);
 }
 await writeFile(
   new URL("noticias.json", raiz),
-  JSON.stringify({ atualizadoEm: new Date().toISOString(), noticias, videos }, null, 2),
+  JSON.stringify({ atualizadoEm: new Date().toISOString(), noticias, videos, lancamentos }, null, 2),
 );
 console.log(`Gravadas ${noticias.length} notícias.`);
