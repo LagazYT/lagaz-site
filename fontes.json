@@ -1,0 +1,10 @@
+[
+  {
+    "nome": "Google Notícias – Games",
+    "url": "https://news.google.com/rss/search?q=games+OR+videogames+OR+PlayStation+OR+Xbox+OR+Nintendo&hl=pt-BR&gl=BR&ceid=BR:pt-419"
+  },
+  {
+    "nome": "Google Notícias – Jogos de PC",
+    "url": "https://news.google.com/rss/search?q=jogos+de+PC+OR+Steam+OR+placa+de+v%C3%ADdeo+games&hl=pt-BR&gl=BR&ceid=BR:pt-419"
+  }
+]
