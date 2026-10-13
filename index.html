@@ -91,6 +91,7 @@ footer{margin-top:56px;border-top:1px solid var(--line);padding:26px 0;color:var
 footer::before{content:"";display:block;width:64px;height:3px;background:var(--y);margin-bottom:14px}
 @media (max-width:760px){.hero{grid-template-columns:1fr;padding-top:32px}nav a{padding:6px 6px}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+.mes{margin:30px 0 14px;font:400 .95rem "Share Tech Mono",monospace;letter-spacing:.14em;text-transform:uppercase;color:var(--y)}.mes::before{content:"> ";color:var(--r)}.dia{background:var(--y);color:#000;font:700 .95rem "Share Tech Mono",monospace;letter-spacing:.08em;padding:7px 12px}
 </style>
 </head>
 <body>
@@ -129,7 +130,7 @@ footer::before{content:"";display:block;width:64px;height:3px;background:var(--y
     <h2>Próximos lançamentos</h2>
     <div class="chips" id="chips-lanc" role="group" aria-label="Filtrar por plataforma"></div>
   </div>
-  <div class="grid lanc" id="lanc-grid"></div>
+  <div id="lanc-grid"></div>
   <p class="fonte">As datas podem mudar. Dados e capas: <a href="https://www.igdb.com" target="_blank" rel="noopener">IGDB.com</a>.</p>
 </section>
 
@@ -175,21 +176,32 @@ function desenhaNoticias(){
   document.getElementById("noticias-grid").innerHTML=NOTICIAS.filter(function(n){return atual==="Todas"||n.c===atual}).map(function(n){
     return cartao(n)}).join("")||'<p>Nenhuma notícia por aqui ainda. O robô busca novidades a cada 3 horas.</p>';
 }
-var LANC=[];var platLanc="Todas";
+var LANC=[];var platLanc="Todas";var limiteLanc=40;
+var MESES=["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"];
 function desenhaChipsLanc(){
   var el=document.getElementById("chips-lanc");
   if(!LANC.length){el.innerHTML="";return}
   el.innerHTML=["Todas","PC","Xbox","PS5","Switch","Switch 2"].map(function(c){return '<button type="button" aria-pressed="'+(c===platLanc)+'" data-c="'+c+'">'+c+'</button>'}).join("");
-  el.querySelectorAll("button").forEach(function(b){b.onclick=function(){platLanc=b.dataset.c;desenhaChipsLanc();desenhaLanc()}});
+  el.querySelectorAll("button").forEach(function(b){b.onclick=function(){platLanc=b.dataset.c;limiteLanc=40;desenhaChipsLanc();desenhaLanc()}});
 }
 function desenhaLanc(){
-  var lista=LANC.filter(function(g){return platLanc==="Todas"||(g.plats||[]).indexOf(platLanc)>-1});
-  document.getElementById("lanc-grid").innerHTML=lista.map(function(g){
-    var d=new Date(g.data),quando=isNaN(d)?"":d.toLocaleDateString("pt-BR",{day:"2-digit",month:"long",year:"numeric",timeZone:"UTC"});
+  var lista=LANC.filter(function(g){return platLanc==="Todas"||(g.plats||[]).indexOf(platLanc)>-1}).sort(function(a,b){return String(a.data).localeCompare(String(b.data))});
+  var vis=lista.slice(0,limiteLanc),html="",mes="",aberto=false;
+  vis.forEach(function(g){
+    var d=new Date(g.data+"T00:00:00Z"),ok=!isNaN(d);
+    var m=ok?MESES[d.getUTCMonth()]+" de "+d.getUTCFullYear():"data a confirmar";
+    if(m!==mes){if(aberto)html+='</div>';mes=m;aberto=true;html+='<h3 class="mes">'+esc(m)+'</h3><div class="grid lanc">'}
+    var dia=ok?String(d.getUTCDate()).padStart(2,"0")+" "+MESES[d.getUTCMonth()].slice(0,3).toUpperCase()+" "+d.getUTCFullYear():"EM BREVE";
     var img=/^https:\/\//.test(g.img||"")?'<img class="thumbl" loading="lazy" referrerpolicy="no-referrer" alt="" src="'+esc(g.img)+'" onerror="this.remove()">':"";
     var tags=(g.plats||[]).map(function(p){return '<span class="tag">'+esc(p)+'</span>'}).join(" ");
-    var corpo='<div>'+'<h3>'+esc(g.t)+'</h3><span class="fonte">'+esc(quando)+'</span><div class="tags">'+tags+'</div></div>';
-    return /^https:\/\//.test(g.link||"")?'<a class="card vid" target="_blank" rel="noopener" href="'+esc(g.link)+'">'+img+corpo+'</a>':'<article class="card vid">'+img+corpo+'</article>'}).join("")||'<p>Os próximos lançamentos aparecem aqui assim que o robô buscar.</p>';
+    var corpo='<div class="dia">'+esc(dia)+'</div>'+img+'<div><h3>'+esc(g.t)+'</h3><div class="tags">'+tags+'</div></div>';
+    html+=/^https:\/\//.test(g.link||"")?'<a class="card vid" target="_blank" rel="noopener" href="'+esc(g.link)+'">'+corpo+'</a>':'<article class="card vid">'+corpo+'</article>';
+  });
+  if(aberto)html+='</div>';
+  if(lista.length>vis.length)html+='<p style="margin-top:24px"><button type="button" class="btn" id="mais-lanc" style="border:0;cursor:pointer;font:inherit;font-weight:700">Ver mais jogos ('+(lista.length-vis.length)+')</button></p>';
+  document.getElementById("lanc-grid").innerHTML=html||'<p>Os próximos lançamentos aparecem aqui assim que o robô buscar.</p>';
+  var mais=document.getElementById("mais-lanc");
+  if(mais)mais.onclick=function(){limiteLanc+=40;desenhaLanc()};
 }
 var modoVideos="recentes";
 function porViews(a,b){return (b.views||0)-(a.views||0)}
