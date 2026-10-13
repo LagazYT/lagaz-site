@@ -1,93 +1,55 @@
 {
-  "atualizadoEm": "2026-10-13T00:32:50.145Z",
+  "atualizadoEm": "2026-10-13T00:40:31.309Z",
   "noticias": [
+    {
+      "t": "Nintendo vai na contramão da Sony e toma decisão importante sobre o futuro do Switch 2",
+      "d": "&nbsp;&nbsp; Terra",
+      "link": "https://www.terra.com.br/byte/nintendo-vai-na-contramao-da-sony-e-toma-decisao-importante-sobre-o-futuro-do-switch-2,dfd49504003d872828f606980509475dvyijzt3x.html",
+      "fonte": "Terra",
+      "data": "2026-10-13T00:30:00.000Z",
+      "c": "Consoles",
+      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/13/1309755399-nintendoswitch-oled.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUE5PZHBkNFNPdWY4dG95Q2F6SEpEaG9oUWl1eEJGRlRtaEVicHFLNkI3b1JNbXZWTWd3aEZNNjFjbldfWFBWLXlLQ2hvODB4aVpfclQ0OWFPUGNpeWZ6eEJGd3RDOGJTR3psN2dxRHphVnpVMDREMWJzSjQyR1hERnFtcllXU2w4TUdsM1dKRWtlTkJ2bXRVZVVGbkVCeWpiRnowNEpFcmhmMlA1ZVB4T1M0QzdwVDZhU2hjdG9UN2VNaWtVeEZhNDhvczlWc1JOM2IzR2Jnc1lydUM2LWN4THhRV3g5RVZ3aVBVQWFhSTRLcjdO?oc=5"
+    },
     {
       "t": "Chivalware chega ao Nintendo Switch 2 e PC em novembro",
       "d": "&nbsp;&nbsp; jwave.com.br",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmxzTm9lZzdMaWZBTUUzQ3BIeGdxTnJSUTB3NXhaUnh3TlNnM1R5dkl6dE5ONDA0cDVERk9ZZlFZcjBnV1pzMTQ4RnQ2cXlsRGdMVGxmU1I0QVlRTEFlTTRsRVFwdUF6Q0RQUTJhTGJzSEFTTS1MR2hRei12V2R4Uk5DdjRKU0lfMVVPTGlXT2EtUQ?oc=5",
+      "link": "https://www.jwave.com.br/2026/10/chivalware-chega-ao-nintendo-switch-2-e-pc-em-novembro/",
       "fonte": "jwave.com.br",
       "data": "2026-10-12T23:50:03.000Z",
-      "c": "PC"
+      "c": "PC",
+      "img": "https://www.jwave.com.br/wp-content/uploads/2026/10/Chivalware.png",
+      "orig": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmxzTm9lZzdMaWZBTUUzQ3BIeGdxTnJSUTB3NXhaUnh3TlNnM1R5dkl6dE5ONDA0cDVERk9ZZlFZcjBnV1pzMTQ4RnQ2cXlsRGdMVGxmU1I0QVlRTEFlTTRsRVFwdUF6Q0RQUTJhTGJzSEFTTS1MR2hRei12V2R4Uk5DdjRKU0lfMVVPTGlXT2EtUQ?oc=5"
     },
     {
       "t": "Xbox não sobrevive só com franquias antigas, avisa a CEO Asha Sharma",
       "d": "&nbsp;&nbsp; OtakuPT",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcDVRY0pBRVp3X0ZJQnBucTR5cjJjY0NaYnZpVGR6RzRWandtaDVIVkJ4SV9jVEVDcFgzcVJJSlQ2ek1tOGdsLUpJTlE0a0t2bnhVUGtDSVlrZFFiUEk3UTVaMEZzOGhnZW5RVFBoZ2J0TTM0cmhIS0tQWDVadk81bnRMYWI3Z1J5NFE?oc=5",
+      "link": "https://www.otakupt.com/jogos/xbox-nao-sobrevive-so-franquias-antigas-asha-sharma/",
       "fonte": "OtakuPT",
       "data": "2026-10-12T23:16:49.000Z",
-      "c": "Consoles"
+      "c": "Consoles",
+      "img": "https://www.otakupt.com/wp-content/uploads/2026/02/Asha-Sharma-screenshot-Microsoft-.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcDVRY0pBRVp3X0ZJQnBucTR5cjJjY0NaYnZpVGR6RzRWandtaDVIVkJ4SV9jVEVDcFgzcVJJSlQ2ek1tOGdsLUpJTlE0a0t2bnhVUGtDSVlrZFFiUEk3UTVaMEZzOGhnZW5RVFBoZ2J0TTM0cmhIS0tQWDVadk81bnRMYWI3Z1J5NFE?oc=5"
     },
     {
       "t": "Jogos de PC em oferta na Steam durante o Festival Gastronômico",
       "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNanYwRjQ2c0V0VlZHc3h4OElvVXI0QldZRnl5cjZNakhTd2VIc2xVTHpxUEI4QS1yY2dKZDQweEV5cTlsc3Q4SC1mcEczajZKaFJBM3BlMjQ1cGJWcktja3FBZFdqdUxobzkzWWpwVUVVME4wbjNxYl8xX2U1WnFremZ4WWk3cWRkck1GSVVLYl9SVEVWWl80X1UxX25pNVZSSEU0enJGdi1BbHVy?oc=5",
+      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-na-steam-durante-o-festival-gastronomico/",
       "fonte": "Adrenaline",
       "data": "2026-10-12T23:15:00.000Z",
-      "c": "Ofertas"
+      "c": "Ofertas",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNanYwRjQ2c0V0VlZHc3h4OElvVXI0QldZRnl5cjZNakhTd2VIc2xVTHpxUEI4QS1yY2dKZDQweEV5cTlsc3Q4SC1mcEczajZKaFJBM3BlMjQ1cGJWcktja3FBZFdqdUxobzkzWWpwVUVVME4wbjNxYl8xX2U1WnFremZ4WWk3cWRkck1GSVVLYl9SVEVWWl80X1UxX25pNVZSSEU0enJGdi1BbHVy?oc=5"
     },
     {
       "t": "Nintendo Switch 2 manterá cartuchos físicos conforme executivo",
       "d": "&nbsp;&nbsp; Última Ficha",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tQUxVS1pFUFZqdE9Ya0N0dmJvT200S1NicjFWREZfcDA4dHduQ0ZHaVZucElFM2c5WnZfaXdkYUlYTGttQmo4X1FGeDhQRlMyVTJOcDVMTnRNZEZkWkg5RTJDVm9Wa1VjMFdOTDUtR21Tb1Y1N1dEMQ?oc=5",
+      "link": "https://ultimaficha.com.br/2026/10/12/nintendo-switch-2-midia-fisica/",
       "fonte": "Última Ficha",
       "data": "2026-10-12T22:59:03.000Z",
-      "c": "Consoles"
-    },
-    {
-      "t": "ABSURDO! XBOX SERIES S E X VÃO GANHAR MUITO MAIS PODER COM FSR 4.1!",
-      "d": "&nbsp;&nbsp; Xboxers",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWVhKTE1iUjgtb1JBczY1bFpBNkotbk1Tcm4yTXMyYmtaVU9qaGs5N0NlaTk1SVc4dFJvUFI1YkQwcW9fajE4LVp6SGVmWllKSEthMDE1ODFUVHpPUTl6bnd4VGpsR0Q2Q21sZUFlZnpKSVFmdERtby1CWGxPMFdPb3RYR3ZITXhHU1owUUd2bmdFR2M?oc=5",
-      "fonte": "Xboxers",
-      "data": "2026-10-12T22:50:57.000Z",
-      "c": "PC"
-    },
-    {
-      "t": "Novo shooter da Epic Games com a Disney será desenvolvido inteiro usando IA",
-      "d": "&nbsp;&nbsp; PSX Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnlrSDN5OU1RSU1SZ3RGQ2l6VXFHajZpamROQmZSUFdBUnNDZk9uYjdlSWFpY2s3QUU2RHl3N0tlZ3YtUjVxVDBjVWdIX2JIRDRZbnBVUWNzRGZOSkNZQmVFZ0M1eTRReHdwOUdVcnhTMzBES1J1ZXllVVpxVWVDQ1JOQmdqSDdEOWViY09SemF3UjBFS3NGVVYwQTd0SnJRRlNz?oc=5",
-      "fonte": "PSX Brasil",
-      "data": "2026-10-12T22:33:42.000Z",
-      "c": "Geral"
-    },
-    {
-      "t": "Dupla acreana conquista duas medalhas no vôlei de praia no Master Games Brasil, no RJ",
-      "d": "&nbsp;&nbsp; ge",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZktzT1hrVVFiWGVaNEZfTnFsLWZPZ2liU1pJOG9CQTQ1YTRPVVJ6SWFJcUNDYmlvUExhWkl6UTV0cHdVTldXTEtwZ2hBOFpaYW9IN016QXd3M05KNzlJamlfRHlmd2lCOU5nbVM3dEN5MVdubWJTWDZIekQ5dDdQTmpLdUhkX2lVOHZNcS0xcE5ZQzhyV3I2RGlFM2lYM2ZOVUZhaE1rZXdqb2Q1eDVKU3lHU2lGTUVVVkl6cHVHWXp2YVR5eFpzUzRfVFNOUdIB3AFBVV95cUxNNnp1aFlMMmpvcVVoWkRLWEI3cjl1QS1zbEN1VUt0ZE1relhqLUs0dnpqbktleDNsQ0pjNnZ2WVRPQnJfYWtBZ3RqcHgxM19SV3dDWlNXWmNSNWJYMzVhNGRDWWwwWE1wZUUzamU4MGVOUV9lbVpiYUEtOVZKYTNGT295cGxXOHRhZnR5RjdoZGcwUWdDMzg1MkVaeVR0ZFVUcnZsYlhOWEIwVGlfRUlxZ3lkamx2cGppakYtQ0hXRDdLd213eUEzME9aZHZhVVI3aGhVMG5kd2tpLTNu?oc=5",
-      "fonte": "ge",
-      "data": "2026-10-12T22:33:38.000Z",
-      "c": "Geral"
-    },
-    {
-      "t": "Sem novas IP a Xbox não sobrevive, avisa Asha Sharma",
-      "d": "&nbsp;&nbsp; Eurogamer.pt",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWWd4MTkzcXNjUDNZcXFpeGdZR0xtaUN4RUtnckF2RlpxN0RXUUJ3Rlk4QmZoaHNrOXY0YlZxcGV3Q1FxLXhnaXJhcktaMUtwb0V5VlloSXVLSGJmZDJOdXdxNTBXdVk0eHJPaTg1SjRyYWhoM1JWRFlGRkhwZUVudW1n?oc=5",
-      "fonte": "Eurogamer.pt",
-      "data": "2026-10-12T22:24:48.000Z",
-      "c": "Consoles"
-    },
-    {
-      "t": "Chivalware: Roguelite ganha data no PC e Nintendo Switch 2",
-      "d": "&nbsp;&nbsp; Última Ficha",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYWFHZERiZU8zYnd1RVdZQTBaWGVBV18wU0htcG92TW5mM201ZXBLVGM0MmtXYXl4U1BBcWxIRTIyOG1PSjlvbHk2UFlWTnhLZlpRT0FncTlaM1F2TE1naDZtaWZrdWF5cUo3Uk80Z0IxcDNtelJuWnJ6cG1DNXc0YzFKQQ?oc=5",
-      "fonte": "Última Ficha",
-      "data": "2026-10-12T22:24:16.000Z",
-      "c": "PC"
-    },
-    {
-      "t": "Epic Games teria adiado jogo da Disney e ampliado uso de inteligência artificial no desenvolvimento",
-      "d": "&nbsp;&nbsp; Combo Infinito",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSm00S0d1NjBTWkRTakJSbm5GMkVjTFFPaDlwSzRGN25zZnFfd2RVMnNRWjBlWmlYbEtYUkE1bkRiWUp1QTFFbGJTMUFhaDM2elozOFU2UFk5VzIyUzJsTENtU2V5cU9fVXNiQVJ0SEZvSmFVQ2VWWkxGN09xTDAyZnBpak5xWEZ4VS03TE9HRmc2UkYxaHNnYXA3QXVPbWhBbHVZ?oc=5",
-      "fonte": "Combo Infinito",
-      "data": "2026-10-12T21:38:55.000Z",
-      "c": "Geral"
-    },
-    {
-      "t": "CEO da Epic Games confirma “grande guinada” para reestruturar equipes em torno da IA",
-      "d": "&nbsp;&nbsp; Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQlBORnhzSVdnakMwa0xuZFVRYk16T2Y5VDJGbDBYeko1dXpZcFZMV2RJa3FTeXBKT2UtN09qWU91TXVObVhkLUxaeGk2MEt0WUVJSmg2RUNrUFN4ZE1FVmZSenpUVzdyVXRTbUhsMzloM1lVSlVMSXBwNDhVcWxGeTBsMWhvRzZCbHc?oc=5",
-      "fonte": "Unite.AI",
-      "data": "2026-10-12T21:23:28.000Z",
-      "c": "Geral"
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tQUxVS1pFUFZqdE9Ya0N0dmJvT200S1NicjFWREZfcDA4dHduQ0ZHaVZucElFM2c5WnZfaXdkYUlYTGttQmo4X1FGeDhQRlMyVTJOcDVMTnRNZEZkWkg5RTJDVm9Wa1VjMFdOTDUtR21Tb1Y1N1dEMQ?oc=5"
     },
     {
       "t": "Cartão de memória de Nintendo Switch 2 fica R$ 800 mais barato em versão sem o Mario na caixa",
@@ -95,151 +57,224 @@
       "link": "https://www.estadao.com.br/tecmundo/voxel/cartao-de-memoria-de-nintendo-switch-2-fica-r-800-mais-barato-em-versao-sem-o-mario-na-caixa/",
       "fonte": "TecMundo",
       "data": "2026-10-12T21:15:00.000Z",
-      "c": "Consoles"
+      "c": "Consoles",
+      "img": "https://www.estadao.com.br/resizer/v2/UVVCOVZFN5GMTIO7XI4IZABKXY.jpg?quality=80&auth=e9cd128c01afe81e387c77473ed41dae1f9a983f02870919a4bc239dd3dea2d5&width=710"
     },
     {
-      "t": "Poly Fighter | Preview (BGS 2026)",
-      "d": "&nbsp;&nbsp; Alternativa Nerd",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rU2VwSGJ1a183N05na05BU1FqTkVBZEoyTWpWVk9XckZpSDhaU2hjUGFYaGY0UnI0V3pZZVRyOVBXYnUzNzdjUUNDMGxfb2ZJZHBmVUg4UzlfOTgxYnBpVzNGVjdjMk96ZE14dFdBa0tHTUNHdXc?oc=5",
-      "fonte": "Alternativa Nerd",
-      "data": "2026-10-12T21:13:59.000Z",
-      "c": "Eventos"
-    },
-    {
-      "t": "Jogos de PlayStation por menos de R$ 20 em oferta especial",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWpuMjFqdm1YUDNyNjlIM0pIMHlpRG05YXE3cHJCZEZyTHQ3UXlYRjl1ZXBHb3lOU3lMa3QzdFNpV2dURzgwOVFtYWp0TGszekt4MFFiaER2Y2pjTXltX0JvNnBFeGVnMG9sWF9fQ3N1UWVFeUdzaVNNM3FTNUsyUXhXWENiLVRxd0dFLWMzbWFTNWowc1J0NElMaVVDdWNhZlhISXkyMDR6Zw?oc=5",
-      "fonte": "Adrenaline",
-      "data": "2026-10-12T21:00:00.000Z",
-      "c": "Ofertas"
-    },
-    {
-      "t": "MUDANÇA NECESSÁRIA! GEARS OF WAR E DAY EXPÔS O MAIOR DESAFIO DO XBOX!",
-      "d": "&nbsp;&nbsp; Xboxers",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVDIyblp0M2F5SXVEWC1ZZ0VvY2xNaHRlbUhnRzJ1ZHZfeGJPbHV3Sm9qalNaX1g1Q1I5UVdIV2ZJYmN2YjlQeDl1MUVMajc0WTdacXJGU1A1OXhDVVBWUWlObF96OEpXc1R6aGZSRFgtVDNWbEV2RmtsaXVCMHhlZTJ0cnViV0k2OS11T2pzZ0RUVEFiUEE?oc=5",
-      "fonte": "Xboxers",
-      "data": "2026-10-12T20:59:48.000Z",
-      "c": "Consoles"
-    },
-    {
-      "t": "Epic Games força uso de IA em novo shooter em parceria com a Disney",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONzR6TzdIMFJ2NUlqQXM1TVQ0RWJYRmlaUGQ1SEl5Wk15aHc2MFhkM0JJRHZOM2FaRmdJU1pOdmoydGVOblJDSF9HM1dEQU5fVGphSzl6RlRLYVJ5ZUljOTBmUlhmSUhvQTRQWkx5cGdfd2R4ZzNsbTROR2Y5d2xEUmszVWZsTjBKV0RESUJMbzZOdGVYU21WNXJSVlVDLTZoR2ZJdlZKVQ?oc=5",
-      "fonte": "Adrenaline",
-      "data": "2026-10-12T20:45:00.000Z",
-      "c": "Geral"
-    },
-    {
-      "t": "Epic Games teria adiado shooter de Star Wars e Marvel para focar em IA",
-      "d": "&nbsp;&nbsp; Última Ficha",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN251T1Q4ODNkWkNRTnpVVU5hSkt5OXBidkVydlRCZTJaU2xiMXNwQW1pSXpNa0NtN3lsNlpEVkFkU25WUi1oZ1RQdmh4Q1F2a1FJVVhaQzQ5TWNocjRTay1ZZHk2S0NFVGxRLTd0Z2xnMVFLcC1pT2o3VlFkdXA3cDFWVFExTGhnV0E?oc=5",
-      "fonte": "Última Ficha",
-      "data": "2026-10-12T20:17:24.000Z",
-      "c": "Geral"
-    },
-    {
-      "t": "Xbox testa novo sistema de Streak para jogadores no Dashboard",
-      "d": "&nbsp;&nbsp; Última Ficha",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LOWNwR25tLWNuX1ZaNlVwdW9mNW5ibHkwc3N1dE9EbEM4ZDhpOEJVSmwwSEhnMENQTm9jakFkVzl5djFfV0ZmT0ZrXzR6YjEyTWhScC12am5LcXp3azdpMnd2TmtGTExHcEFzZzF2aGR0cUduQmFn?oc=5",
-      "fonte": "Última Ficha",
-      "data": "2026-10-12T20:11:15.000Z",
-      "c": "Consoles"
-    },
-    {
-      "t": "Nova política da Anthropic proíbe você de ser ‘cruel’ com o Claude",
+      "t": "Loja nos EUA obriga cliente a assinar termo concordando em não exportar GPU RTX 5090",
       "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/nova-politica-da-anthropic-proibe-voce-de-ser-cruel-com-o-claude/",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/loja-nos-eua-obriga-cliente-a-assinar-termo-concordando-em-nao-exportar-gpu-rtx-5090/",
       "fonte": "TecMundo",
-      "data": "2026-10-12T20:00:00.000Z",
-      "c": "Geral"
+      "data": "2026-10-12T18:01:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/HYT5YG34RBMV5HA646EPBKWARE.jpg?quality=80&auth=8dc0a75848b34b0e58737efbfff2d39e8f1db00fe94bdd818281e9b0d3b86d76&width=1150"
     },
     {
-      "t": "Esquete do Saturday Night Live de Elon Musk como Wario não foi bem recebida pela Nintendo, dizem ex-funcionários",
-      "d": "&nbsp;&nbsp; Omelete",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSm94LUpQTVZVYVBueURiZkhIZGxFTlBYVnJjaFhhZVV1MWlLaVVHZjFSNEM0bHJPdkJ6U24tYXk4N19JcU5ZaXRVVlBFaHUtOVI4ZC1Manc0RFVoV292VF84dU9uT1diR29uaHkwa3dDVEhVWEJlalA2RlRrQjRjXzBwR3pldG03N3RTWkJNT3VDNTVIajhBTnhUZVczN2k4S1Y0Q0ZIVjV3Zw?oc=5",
-      "fonte": "Omelete",
-      "data": "2026-10-12T19:57:00.000Z",
-      "c": "Consoles"
+      "t": "Novo mouse na área! Razer apresenta a linha Basilisk V4",
+      "d": "Saiba tudo sobre o novo mouse gamer Razer Basilisk V4 Pro",
+      "link": "https://flowgames.gg/razer-basilisk-v4-novo-mouse-gamer-release/",
+      "fonte": "Flow Games",
+      "data": "2026-10-12T18:00:30.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/10/razer-basikisk-v4.jpg"
     },
     {
-      "t": "Mafia III ganha versão de PS5 e Xbox Series de graça para quem já tem o jogo",
-      "d": "&nbsp;&nbsp; Diário da Manhã",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMDcxZExILXE0VVdnaTMyUi1IN2Zkck1PM01EUzJvemtkVnRydHZKS3hHRVJzRkZsNkRrdlZ1QVlMQzBUTFRKNEJ1RmtDQkZfTnBIMWptakpBNnhSZmJNRUdmbjVWT01DcUU4eDYtbDBhVVlfT19SazIyVFh2OFFOT1hoVXhyRmlXMzl4ZmhuLXZCRTJneUVZSmdWUHN1STYtQkdXMXF3UkM?oc=5",
-      "fonte": "Diário da Manhã",
-      "data": "2026-10-12T19:56:00.000Z",
-      "c": "Ofertas"
-    },
-    {
-      "t": "Epic Games adia título da Disney em aposta no modelo \"IA em primeiro lugar\"",
-      "d": "&nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOWYzaHhWUVdzOEd2Qi1ubkhhWGJtaWN6b19yWU0xOVFXMDZnZE44M0dYanZOei10Q1pyQzJjTGpnUG8wakV3bks0N1NKRWFIeGctXy1DTlR2ek9ndXZKa3ZTRkxzUVBFR0Y2Tl9KdHMxcks3TTNvRmR6bjNodXByNFRKYm5aSUZLTF9NM2ZvZE5NeWV0cmpFMHdkYzVMUk5jZ1RDSFNvajJjS3dSV0kwTzMxNXlhc21QbjF2RjhKaHNyUVV4VGZveQ?oc=5",
-      "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "data": "2026-10-12T19:55:00.000Z",
-      "c": "Geral"
-    },
-    {
-      "t": "Review | Woodo",
-      "d": "&nbsp;&nbsp; NintendoBoy",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9obXhHbjNRWUcxOWgzcmFjSE40Z2l6d1hyZG1ydmFNRTNpVXV5NkFJX2ZzclpEVHVnRjVNNThwNjBZX25GRGRBeFpvb2VkSEpHS21HWDFWM2VRdllv?oc=5",
-      "fonte": "NintendoBoy",
-      "data": "2026-10-12T19:40:29.000Z",
-      "c": "Consoles"
-    },
-    {
-      "t": "‘He-Man and the Masters of the Universe: Dragon Pearl of Destruction’ apela para nostalgia em beat ‘em up estilo retrô",
-      "d": "&nbsp;&nbsp; NintendoBoy",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVGprOUpvYkJmSTVmYWZGRUs0VG1OMGliSVZ2TlFoemhTV3BRNG96Ykk1UXlNaFJQUWcxVU51RTFhQVB6YS04UDNoa3RJMzdMaVpob0tQaGZnS29ZakJiSVhrd2NBaHFwYmZTa0RhaHVjQWFwLXFBMV84aHNlRGJPNU9BUkxqNjM2WEFDYjlhbG9BaHRpazJFUXRpREw2R25JdVBkRWtvTjJjU29HVWYtT2lleEkxN0FqQnR2b2Etd09LVzcwMm9NMHhGczZtTi11MW9fdU1ISWZSVDZRS21jTFdOaVU?oc=5",
-      "fonte": "NintendoBoy",
-      "data": "2026-10-12T19:40:29.000Z",
-      "c": "Consoles"
-    },
-    {
-      "t": "Epic Games coloca a IA a criar todo o código",
-      "d": "&nbsp;&nbsp; Eurogamer.pt",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiajlNX0QweHI3SHBfYW41RF9GS3NBeWx0d1B3RjVOMHMtNDFONFRsTGNwRGNWazVyX2g0TmF3cGJHU1hJaEpqUUNsUUtHaF9tS1ZiME9id0ZGbnNqR0VRUzVIZXYwOUEyWXV2aFU0cUFtV1daLUN5bQ?oc=5",
-      "fonte": "Eurogamer.pt",
-      "data": "2026-10-12T19:39:44.000Z",
-      "c": "Geral"
-    },
-    {
-      "t": "PROMOÇÃO NA STEAM: jogos em oferta com até 95% de desconto nesta semana",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQlU3OFROYmhiSVptLUN2S0IyVmdxaDlyLU9GYUFnNEJUYmpLNHEtMTM3UTFuQTNXa2R1UGk3WXJEazlpVS1XWUp5NS00WWhpbUFxaF9nWmZVMHdRbHJqdlNyTzk1bWN3WEVpQ21KdmlwY1dYU0VDaTV0YWczT0ZncEx0Wm9YU3d3cFRKNlc4U3hKY0tnVlE2ZXhYNXpHSjFNV3FCdFFxS056WFBHTldGN29VMWZ1Zw?oc=5",
-      "fonte": "Adrenaline",
-      "data": "2026-10-12T19:37:00.000Z",
-      "c": "Ofertas"
-    },
-    {
-      "t": "Nintendo afirma que não pretende abandonar mídia física e tranquiliza fãs",
-      "d": "&nbsp;&nbsp; Proddigital POP",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQUdIV2ZQdnBueklwZ2ttcmttRkY5ZTFDbXBtTmdHY0E1OTBza2Q3V25JbmFKRXlCclEyM1pWdUNId1I0VF81aWhodlNIRE91TTlqc0JBQ21HZEl0UU93RXhzTTlZajIyWTYzM0t4OE1XVVZmV1pyTHVaWXktZVhZeTBYR19NMEt3U2xHWXpaX2FfNENnTi1QdzFoUm5uNy0zZ09DR1haVkpGclZJcjh0YUJRdG43V0lnUXZrYmdfZXJQVS1GVlJjcVRpSQ?oc=5",
-      "fonte": "Proddigital POP",
-      "data": "2026-10-12T19:29:10.000Z",
-      "c": "Consoles"
-    },
-    {
-      "t": "Epic Games cancelou jogo em colaboração com a Disney e vai usar IA generativa em todo o processo",
-      "d": "&nbsp;&nbsp; Omelete",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcEI1aE5ocFlLODllc0JzaWhjZGdxU2hiSDZqamFqblJtbjFwNlRRdUJtLWoyWGkyTExVcEliMUVxcTFSbEpmdUFrMHpmaXhLaU80MFMtSnp3YXRpUlZuaWxRYl85c25ROVJVYmZDTndNbm5Bb285TTZYd0owUm9sc3dfZS1OT3BJeTEwNmVYbWRCcTMzMkRLSjMwNzI2VVdHWk5oYW5B?oc=5",
-      "fonte": "Omelete",
-      "data": "2026-10-12T19:21:00.000Z",
-      "c": "Geral"
-    },
-    {
-      "t": "Basilisk V4 Pro: novo mouse da Razer traz sensor de 50K, 14 botões e muita bateria",
+      "t": "7 jogos online para crianças de 7 anos",
       "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/basilisk-v4-pro-novo-mouse-da-razer-traz-sensor-de-50k-14-botoes-e-muita-bateria/",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/7-jogos-online-para-criancas-de-7-anos/",
       "fonte": "TecMundo",
-      "data": "2026-10-12T19:15:00.000Z",
-      "c": "Geral"
+      "data": "2026-10-12T17:15:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/GCRD3ULMPFBVJL3HCQPPRRY7LA.jpeg?quality=80&auth=32ecf7277239b6ec112392bdfa2b07258163fc55ae1450c84d57475cccb14cf7&width=710"
     },
     {
-      "t": "BGS 2026: entrevistamos Pilar Pueblida sobre Nintendo Switch Sports Resort, Zelda e localização de jogos no Brasil",
-      "d": "&nbsp;&nbsp; Nintendo Blast",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTzlUcnY0ck1lVmQ1X04tY214b2hEbnJKbk56Ung0SlB5LUJsVU56UE10Q1Y5T00zcXVOV1A4cDlNZHdKWVd3cG5sQnNrckFQU0k4dEtZMVU4WVlpYjdaakZFMmlyYVZiTDBGaVpFODVoNGY3NXFtOXRZVXpwTVNLMnBZWjAybHlKcWlZ?oc=5",
-      "fonte": "Nintendo Blast",
-      "data": "2026-10-12T19:01:25.000Z",
-      "c": "Consoles"
+      "t": "Uma sequência do novo filme de “Street Fighter” já está sendo desenvolvida, mas há um porém",
+      "d": "“Com certeza temos muitas ideias\" O diretor Kitao Sakurai confirmou que já está trabalhando intensamente na roteirização de uma sequência para seu próximo filme de Street Fighter, mas a realização...",
+      "link": "https://br.ign.com/street-fighter-2026/156781/uma-sequencia-do-novo-filme-de-street-fighter-ja-esta-sendo-desenvolvida-mas-ha-um-porem",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-12T16:50:26.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/a/a-street-f/a-street-fighter-movie-sequel-is-already-being-written-but-t_crnu.png"
+    },
+    {
+      "t": "Konami planeja uma “segunda e terceira onda” de novos jogos da série Silent Hill",
+      "d": "Nosso lugar especial A Konami está planejando uma “segunda e terceira onda” de novos jogos da série Silent Hill, segundo o produtor Motoi Okamoto. Okamoto deu uma visão um tanto nebulosa sobre o...",
+      "link": "https://br.ign.com/silent-hill-f/156779/konami-planeja-uma-segunda-e-terceira-onda-de-novos-jogos-da-serie-silent-hill",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-12T16:47:02.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/k/konami-pla/konami-planning-second-and-third-waves-of-new-silent-hill-ga_pxf4.jpg"
+    },
+    {
+      "t": "Nicolas Cage afirma que “provavelmente não trabalhará com” a Amazon novamente após recusar a renúncia à IA de “Spider-Noir”",
+      "d": "“Não faço parte do clube deles” Nicolas Cage afirmou que “provavelmente não trabalhará com” a Amazon novamente, após se recusar a assinar um termo de renúncia para o uso de IA na série...",
+      "link": "https://br.ign.com/spider-man-noir-series/156778/nicolas-cage-afirma-que-provavelmente-nao-trabalhara-com-a-amazon-novamente-apos-recusar-a-renuncia",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-12T16:39:41.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/n/nicolas-ca/nicolas-cage-says-hell-probably-not-work-with-amazon-again-a_myn6.jpg"
+    },
+    {
+      "t": "Teasers de Naruto revelam novo mangá Shadow Rising e crossover com anime",
+      "d": "Rasengan! Naruto está vivo e bem, já que o autor Masashi Kishimoto anunciou um novo mangá chamado Shadow Rising – e uma nova série de anime crossover também está a caminho. Ambos os projetos de...",
+      "link": "https://br.ign.com/naruto-2/156777/teasers-de-naruto-revelam-novo-manga-shadow-rising-e-crossover-com-anime",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-12T16:34:18.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/news/n/naruto-tea/naruto-teasers-reveal-new-shadow-rising-manga-and-anime-cros_f1gx.jpg"
+    },
+    {
+      "t": "Novo FPS da NetEase gera acusações de ser “cópia” de Warzone, mas alguns fãs de Call of Duty estão felizes com o lançamento",
+      "d": "ECC: Redline Os fãs de Call of Duty estão divididos em relação ao ECC: Redline, da NetEase Games, um novo FPS que muitos têm chamado de “cópia descarada”, mas que tem o potencial de preencher a...",
+      "link": "https://br.ign.com/call-of-duty-warzone/156776/novo-fps-da-netease-gera-acusacoes-de-ser-copia-de-warzone-mas-alguns-fas-de-call-of-duty-estao-feli",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-12T16:31:17.000Z",
+      "c": "PC",
+      "img": "https://sm.ign.com/ign_br/news/n/new-neteas/new-netease-fps-sparks-warzone-rip-off-claims-but-some-call_exeu.jpg"
+    },
+    {
+      "t": "Novo vídeo vazado do GTA 6 mostra Lucia totalmente nua, o que desperta ceticismo entre os fãs",
+      "d": "Cheats ligados? Cyberleek teria cumprido sua ameaça de divulgar um vídeo intitulado “Lucia closeup 4k” e, mais uma vez, está vinculando novos vazamentos a metas de capitalização de mercado de...",
+      "link": "https://br.ign.com/grand-theft-auto-vi/156775/novo-video-vazado-do-gta-6-mostra-lucia-totalmente-nua-o-que-desperta-ceticismo-entre-os-fas",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-12T16:26:29.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/l/latest-lea/latest-leaked-gta-6-video-shows-lucia-fully-naked-sparks-fan_ruxr.jpg"
+    },
+    {
+      "t": "Haunted Chocolatier é \"mais um RPG de ação\" em comparação com Stardew Valley, afirma ConcernedApe",
+      "d": "É para quem gosta de ir nas minas Eric Barone, também conhecido como ConcernedApe, falou brevemente sobre a diferença entre seu jogo indie de enorme sucesso, Stardew Valley, e seu tão aguardado...",
+      "link": "https://br.ign.com/haunted-chocolatier/156773/haunted-chocolatier-e-mais-um-rpg-de-acao-em-comparacao-com-stardew-valley-afirma-concernedape",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-12T16:21:13.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/h/haunted-ch/haunted-chocolatier-more-of-an-action-rpg-compared-to-starde_mdg5.jpg"
+    },
+    {
+      "t": "Stardew Valley Cookbook Preview",
+      "d": "",
+      "link": "https://br.ign.com/gallery/154183/stardew-valley-cookbook-preview",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-12T16:21:13.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/gallery/s/stardew-va/stardew-valley-cookbook-preview_s2mm.jpg"
+    },
+    {
+      "t": "Stardew Valley: Como fazer o Rice Pudding do jogo na vida real? Veja o passo a passo",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/stardew-valley-como-fazer-o-rice-pudding-do-jogo-na-vida-real-veja-o-passo-a-passo/",
+      "fonte": "TecMundo",
+      "data": "2026-10-12T15:15:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/DOWGHP263JCPJF7BW5GE5G65CI.jpg?quality=80&auth=227db5256dba861d4013ff364730a7e8d06bcfb49521c2af6cf99c4febba7592&width=710"
+    },
+    {
+      "t": "AION 2 tem estreia impressionante na Steam",
+      "d": "AION 2 registrou número recorde de jogadores, com quase 400 mil simultâneos",
+      "link": "https://flowgames.gg/aion-2-tem-estreia-impressionante-na-steam/",
+      "fonte": "Flow Games",
+      "data": "2026-10-12T15:00:14.000Z",
+      "c": "PC",
+      "img": "https://www.youtube.com/embed/IZ_zw2GksRY"
+    },
+    {
+      "t": "Jogo brasileiro Deep Dish Dungeon traz mergulho nas sombras com gameplay viciante",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/jogo-brasileiro-deep-dish-dungeon-traz-mergulho-nas-sombras-com-gameplay-viciante/",
+      "fonte": "TecMundo",
+      "data": "2026-10-12T14:00:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/LTEA2MMQARFYXPYYSQJ2XUWW7A.png?quality=80&auth=ef87c9a0f4c5786af38dd3aedd96818b5c40f95d5f28735e3eebc7f61c06c6dc&width=710"
+    },
+    {
+      "t": "PS5 desbloqueado consegue rodar jogos de PS2 em mídia física via emulador",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/ps5-desbloqueado-consegue-rodar-jogos-de-ps2-em-midia-fisica-via-emulador/",
+      "fonte": "TecMundo",
+      "data": "2026-10-12T13:34:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.estadao.com.br/resizer/v2/YAWMIF63TVOS7JXI37LEVR4HHM.jpg?quality=80&auth=6ac655d40786bf9d87085c9835f5cca5b04c5403deebcd5b852d06d414fca37d&width=710"
+    },
+    {
+      "t": "Need for Speed Underground 2 está sendo portado para o PSP",
+      "d": "Um fã está portando o Need for Speed Underground 2 para o PSP. Confira como está o seu trabalho!",
+      "link": "https://flowgames.gg/need-for-speed-underground-2-sendo-portado-para-o-psp/",
+      "fonte": "Flow Games",
+      "data": "2026-10-12T13:00:27.000Z",
+      "c": "Geral",
+      "img": "https://www.youtube.com/embed/y-cDEKQbwGo"
+    },
+    {
+      "t": "Shift em Disney Lorcana: quando transformar um personagem",
+      "d": "Entenda como funciona Shift em Disney Lorcana, o que acontece com a base e quando transformar um personagem realmente vale a pena.",
+      "link": "https://flowgames.gg/shift-disney-lorcana-quando-transformar-personagem/",
+      "fonte": "Flow Games",
+      "data": "2026-10-12T12:08:53.000Z",
+      "c": "Geral",
+      "img": "https://static.dotgg.gg/lorcana/cards/P3-011.webp"
+    },
+    {
+      "t": "Uma das melhores fantasias cozy de 2022 chega em novo formato: o pedido perfeito para amantes do gênero",
+      "d": "Cafés & Lendas é adaptado para graphic novel Cafés & Lendas , um dos maiores sucessos do gênero \"cozy\" de 2022, vai ganhar um novo lançamento em formato de graphic novel. A obra de Travis Baldree...",
+      "link": "https://br.ign.com/livros/156690/uma-das-melhores-fantasias-cozy-de-2022-chega-em-novo-formato-o-pedido-perfeito-para-amantes-do-gene",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-12T12:00:20.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/ll_jpew.jpg"
+    },
+    {
+      "t": "Sempre nos esquecemos de que existe uma adaptação mais fiel de O Senhor dos Anéis do que os filmes de Peter Jackson",
+      "d": "Até Christopher Tolkien participou e aprovou todos os roteiros dessa versão histórica, que também contou com Ian Holm no elenco principal",
+      "link": "https://br.ign.com/o-senhor-dos-aneis/156732/sempre-nos-esquecemos-de-que-existe-uma-adaptacao-mais-fiel-de-o-senhor-dos-aneis-do-que-os-filmes-d",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-12T10:00:24.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/blob_fk3e.png"
+    },
+    {
+      "t": "Valor Mortis, Enshrouded, Castlevania Belmonts Curse e mais! Veja os lançamentos de games da semana",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/valor-mortis-enshrouded-castlevania-belmonts-curse-e-mais-veja-os-lancamentos-de-games-da-semana/",
+      "fonte": "TecMundo",
+      "data": "2026-10-11T22:30:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.estadao.com.br/resizer/v2/CLX2VEKT6BBHDEM7WVGMXC4XRM.jpg?quality=80&auth=847d8ae9543841d0cff3bfaaa7c7ca9c226b50949276acd805573031bdfb0086&width=710"
+    },
+    {
+      "t": "Spider-Man: conheça os 6 principais jogos do Homem-Aranha",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/homem-aranha-6-jogos-que-marcaram-a-historia-do-heroi/",
+      "fonte": "TecMundo",
+      "data": "2026-10-11T22:15:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/GBD7XMNKT5HVBHMDE5GYOWUKWY.jpg?quality=80&auth=4e930f3d9b9bb1c6110d8beb14efd3b5fdc8de26899656d26d44729cf23f3a8f&width=710"
+    },
+    {
+      "t": "Diablo 1 vira FPS clássico com mod",
+      "d": "Um modder, com a ajuda da IA, conseguiu transformar o Diablo 1 em FPS. Veja como ficou!",
+      "link": "https://flowgames.gg/diablo-1-vira-fps-classico-com-mod/",
+      "fonte": "Flow Games",
+      "data": "2026-10-11T20:00:18.000Z",
+      "c": "PC",
+      "img": "https://www.youtube.com/embed/xkpLG9keQF0"
+    },
+    {
+      "t": "Into the Wind, é novo indie à la Death Stranding que chegará ao PC",
+      "d": "Jogo une jogabilidade de entregas com visual fofo das animações do Studio Ghibli",
+      "link": "https://flowgames.gg/into-the-wind-entregas-visual-a-la-studio-ghibli/",
+      "fonte": "Flow Games",
+      "data": "2026-10-11T19:00:38.000Z",
+      "c": "PC",
+      "img": "https://www.youtube.com/embed/YisxuAfgUMA"
+    },
+    {
+      "t": "Review: Young Ladies Don’t Play Fighting Games traz FGC aos animes",
+      "d": "Lutinhas e anime se encontram na temporada 1 de Young Ladies Don't Play Fighting Games",
+      "link": "https://flowgames.gg/young-ladies-dont-play-fighting-games-review-season-1/",
+      "fonte": "Flow Games",
+      "data": "2026-10-11T17:53:40.000Z",
+      "c": "Geral",
+      "img": "https://www.youtube.com/embed/ZgMYw4_noII"
     }
   ]
 }
