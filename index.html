@@ -52,6 +52,7 @@ footer{border-top:1px solid var(--line);margin-top:30px;padding:28px 0;color:var
 .wrap{overflow-x:hidden}
 .card a.ler{font-weight:700;color:var(--ink);text-underline-offset:3px}.fonte{font-size:.9rem;color:var(--mut)}
 .card{overflow:hidden}.capa{display:block;width:calc(100% + 40px);max-width:none;margin:-20px -20px 4px;aspect-ratio:16/9;object-fit:cover;background:var(--line)}
+.thumbv{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;background:var(--line)}.vid>div{padding:16px 20px 20px}.feat.foto{background-size:cover;background-position:center}.feat.foto::before{display:none}
 </style>
 </head>
 <body>
@@ -84,7 +85,7 @@ footer{border-top:1px solid var(--line);margin-top:30px;padding:28px 0;color:var
 </section>
 
 <section id="videos">
-  <div class="head"><h2>Vídeos do canal</h2></div>
+  <div class="head"><h2>Vídeos do canal</h2><div class="chips" id="chips-videos" role="group" aria-label="Ordenar vídeos"></div></div>
   <div class="grid" id="videos-grid"></div>
 </section>
 
@@ -105,11 +106,7 @@ footer{border-top:1px solid var(--line);margin-top:30px;padding:28px 0;color:var
 var LINK_CANAL = "https://www.youtube.com/@lagazoficial";
 function url(u){return u&&u!=="#"?u:LINK_CANAL} // coloque o link do seu canal
 var NOTICIAS = []; // preenchido pelo robô (noticias.json)
-var VIDEOS = [
-  {t:"God of War 3 rodando nativo no PC com RTX 5070",cor:"linear-gradient(135deg,#e8336d,#7a1d4a)",u:"#"},
-  {t:"Teste de desempenho: quantos FPS sua placa entrega?",cor:"linear-gradient(135deg,#2f5bff,#12296b)",u:"#"},
-  {t:"Os melhores jogos para jogar neste mês",cor:"linear-gradient(135deg,#d99a00,#7a4a00)",u:"#"}
-];
+var VIDEOS = []; // preenchido pelo robô (vídeos do canal)
 // ======================
 var cats=["Todas"];
 var atual="Todas";
@@ -129,16 +126,34 @@ function desenhaNoticias(){
   document.getElementById("noticias-grid").innerHTML=NOTICIAS.filter(function(n){return atual==="Todas"||n.c===atual}).map(function(n){
     return cartao(n)}).join("")||'<p>Nenhuma notícia por aqui ainda. O robô busca novidades a cada 3 horas.</p>';
 }
-document.getElementById("videos-grid").innerHTML=VIDEOS.map(function(v){
-  return '<a class="card vid" target="_blank" rel="noopener" href="'+url(v.u)+'"><div class="thumb" style="background:'+v.cor+'">▶</div><div><h3>'+esc(v.t)+'</h3></div></a>'}).join("");
-document.getElementById("destaque-titulo").textContent=VIDEOS[0].t;
-document.getElementById("destaque").href=url(VIDEOS[0].u);
+var modoVideos="recentes";
+function porViews(a,b){return (b.views||0)-(a.views||0)}
+function desenhaChipsVideos(){
+  var el=document.getElementById("chips-videos");
+  if(!VIDEOS.length){el.innerHTML="";return}
+  el.innerHTML=[["recentes","Mais recentes"],["vistos","Mais vistos"]].map(function(m){return '<button type="button" aria-pressed="'+(m[0]===modoVideos)+'" data-m="'+m[0]+'">'+m[1]+'</button>'}).join("");
+  el.querySelectorAll("button").forEach(function(b){b.onclick=function(){modoVideos=b.dataset.m;desenhaChipsVideos();desenhaVideos()}});
+}
+function desenhaVideos(){
+  var lista=VIDEOS.slice();
+  if(modoVideos==="vistos")lista.sort(porViews);
+  lista=lista.slice(0,6);
+  document.getElementById("videos-grid").innerHTML=lista.map(function(v){
+    return '<a class="card vid" target="_blank" rel="noopener" href="'+esc(v.link)+'"><img class="thumbv" loading="lazy" referrerpolicy="no-referrer" alt="" src="'+esc(v.img)+'"><div><h3>'+esc(v.t)+'</h3>'+(v.views?'<span class="fonte">'+v.views.toLocaleString("pt-BR")+' visualizações</span>':'')+'</div></a>'}).join("")||'<p>Os vídeos do canal aparecem aqui assim que o robô buscar. <a href="'+LINK_CANAL+'" target="_blank" rel="noopener">Ver no YouTube</a></p>';
+  var d=document.getElementById("destaque"),t=document.getElementById("destaque-titulo");
+  if(VIDEOS.length){
+    var top=VIDEOS.slice().sort(porViews)[0];
+    t.textContent=top.t;d.href=top.link;
+    if(/^https:\/\/i\.ytimg\.com\//.test(top.img)){d.classList.add("foto");d.style.backgroundImage='linear-gradient(to top,rgba(0,0,0,.78),rgba(0,0,0,.05)),url("'+top.img+'")'}
+  }else{t.textContent="Vídeos novos no canal Lagaz";d.href=LINK_CANAL}
+}
 document.getElementById("link-canal").href=LINK_CANAL;
 fetch("noticias.json",{cache:"no-store"}).then(function(r){return r.json()}).then(function(d){
   NOTICIAS=d.noticias||[];
+  VIDEOS=d.videos||[];
   cats=["Todas"].concat(NOTICIAS.map(function(n){return n.c}).filter(function(v,i,a){return a.indexOf(v)===i}));
   if(d.atualizadoEm){document.getElementById("atualizado").textContent="Atualizado automaticamente em "+new Date(d.atualizadoEm).toLocaleString("pt-BR")+".";}
-}).catch(function(){}).then(function(){desenhaChips();desenhaNoticias()});
+}).catch(function(){}).then(function(){desenhaChips();desenhaNoticias();desenhaChipsVideos();desenhaVideos()});
 </script>
 </body>
 </html>
