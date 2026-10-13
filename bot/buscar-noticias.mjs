@@ -188,11 +188,11 @@ async function lerLancamentos(clientId, segredo) {
   console.log(`Plataformas encontradas: ${[...new Set(plats.map((p) => p.slug))].join(", ") || "nenhuma"}`);
   if (!rotulo.size) throw new Error("nenhuma plataforma encontrada");
   const agora = Math.floor(Date.now() / 1000);
-  const ate = agora + 270 * 86400;
+  const ate = agora + 400 * 86400;
   const jogos = await igdb(token, clientId, "games",
     `fields name,first_release_date,hypes,cover.image_id,platforms,url; ` +
-    `where first_release_date > ${agora} & first_release_date < ${ate} & platforms = (${[...rotulo.keys()].join(",")}) & hypes > 1 & version_parent = null; ` +
-    `sort first_release_date asc; limit 150;`);
+    `where first_release_date > ${agora} & first_release_date < ${ate} & platforms = (${[...rotulo.keys()].join(",")}) & hypes > 0 & version_parent = null; ` +
+    `sort first_release_date asc; limit 500;`);
   return jogos.filter((g) => g.name && g.cover && g.cover.image_id).map((g) => ({
     t: g.name,
     data: new Date(g.first_release_date * 1000).toISOString().slice(0, 10),
@@ -200,7 +200,7 @@ async function lerLancamentos(clientId, segredo) {
     img: `https://images.igdb.com/igdb/image/upload/t_cover_big/${g.cover.image_id}.jpg`,
     hype: g.hypes || 0,
     link: /^https:\/\//.test(g.url || "") ? g.url : "",
-  })).slice(0, 60);
+  })).slice(0, 400);
 }
 
 const regras = [
