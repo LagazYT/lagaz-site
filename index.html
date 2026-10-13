@@ -3,70 +3,109 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Lagaz – notícias de games e vídeos do canal</title>
-<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;800&family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+<meta name="color-scheme" content="dark">
+<title>LAGAZ // notícias de games, lançamentos e vídeos</title>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#ecebf5;--card:#fff;--ink:#1b1b3a;--mut:#5b5b7d;--pink:#e8336d;--blue:#2f5bff;--yel:#ffc93c;--line:#d5d3e8;
-box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#181832;--card:#23234a;--ink:#f1f0ff;--mut:#a9a8d0;--line:#34346a}}
-:root[data-theme="dark"]{--bg:#181832;--card:#23234a;--ink:#f1f0ff;--mut:#a9a8d0;--line:#34346a}
-html{scroll-padding-top:env(safe-area-inset-top,0px)}
+:root{--bg:#0e0f11;--panel:#17181b;--panel2:#1f2125;--line:#2e3035;--ink:#eceded;--mut:#9a9da6;--y:#fcee0a;--r:#ff2b3d;
+color-scheme:dark;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+html{scroll-padding-top:70px;scroll-behavior:smooth}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 "Atkinson Hyperlegible",system-ui,sans-serif}
-h1,h2,h3,.logo{font-family:"Bricolage Grotesque",system-ui,sans-serif;margin:0;line-height:1.05}
+body{margin:0;background-color:var(--bg);color:var(--ink);font:400 17px/1.55 "Chakra Petch",system-ui,sans-serif;
+background-image:linear-gradient(rgba(252,238,10,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(252,238,10,.035) 1px,transparent 1px);background-size:44px 44px}
+body::after{content:"";position:fixed;inset:0;pointer-events:none;z-index:50;background:repeating-linear-gradient(to bottom,transparent 0,transparent 2px,rgba(0,0,0,.13) 3px)}
+h1,h2,h3,.logo{margin:0;line-height:1.05}
 a{color:inherit}
-:focus-visible{outline:3px solid var(--blue);outline-offset:3px}
-.wrap{max-width:1100px;margin:0 auto;padding:0 20px}
-header{display:flex;justify-content:space-between;align-items:center;padding:20px 0}
-.logo{font-size:2rem;font-weight:800;text-decoration:none;letter-spacing:-.02em}
-.logo b{color:var(--pink)}
-nav a{margin-left:18px;text-decoration:none;font-weight:700}
-nav a:hover{color:var(--pink)}
-.hero{display:grid;grid-template-columns:1.1fr 1fr;gap:36px;align-items:center;padding:28px 0 48px}
-.hero h1{font-size:clamp(2.4rem,6vw,4.4rem);font-weight:800;letter-spacing:-.03em}
-.hero p{color:var(--mut);max-width:34ch;margin:18px 0 24px}
-.btn{display:inline-block;background:var(--pink);color:#fff;padding:13px 22px;border-radius:999px;font-weight:700;text-decoration:none}
-.btn:hover{background:var(--blue)}
-.feat{position:relative;aspect-ratio:16/10;border-radius:22px;background:linear-gradient(135deg,var(--blue),var(--pink));overflow:hidden;display:flex;align-items:flex-end;padding:20px;color:#fff;text-decoration:none}
-.feat::before{content:"";position:absolute;right:-40px;top:-40px;width:200px;height:200px;border-radius:50%;background:var(--yel);opacity:.9}
-.play{position:absolute;left:50%;top:44%;transform:translate(-50%,-50%);width:74px;height:74px;border-radius:50%;background:#fff;display:grid;place-items:center}
-.play::after{content:"";border-left:22px solid var(--pink);border-top:13px solid transparent;border-bottom:13px solid transparent;margin-left:6px}
-.feat span{position:relative;font:800 1.3rem/1.15 "Bricolage Grotesque",sans-serif;max-width:20ch}
-section{padding:36px 0}
-.head{display:flex;justify-content:space-between;align-items:end;gap:16px;flex-wrap:wrap;margin-bottom:22px}
-h2{font-size:2.1rem;font-weight:800;letter-spacing:-.02em}
+:focus-visible{outline:2px solid var(--y);outline-offset:3px}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px;overflow-x:hidden}
+.mono,.fonte,.note,.tag,.chips button,nav a,.eyebrow,footer{font-family:"Share Tech Mono",ui-monospace,monospace}
+
+header{display:flex;justify-content:space-between;align-items:center;padding:18px 0;border-bottom:1px solid var(--line)}
+.logo{font-size:1.9rem;font-weight:700;letter-spacing:.14em;text-decoration:none;text-transform:uppercase;text-shadow:2px 0 var(--r)}
+.logo b{color:var(--y);font-weight:700}
+nav{display:flex;gap:6px;flex-wrap:wrap}
+nav a{text-decoration:none;text-transform:uppercase;letter-spacing:.1em;font-size:.85rem;color:var(--mut);padding:6px 10px;border:1px solid transparent}
+nav a::before{content:"> ";color:var(--r)}
+nav a:hover{color:var(--y);border-color:var(--line)}
+
+.hero{display:grid;grid-template-columns:1.05fr 1fr;gap:40px;align-items:center;padding:48px 0 40px}
+.eyebrow{display:flex;align-items:center;gap:10px;font-size:.85rem;letter-spacing:.14em;text-transform:uppercase;color:var(--mut);margin:0 0 18px}
+.eyebrow::before,.note::before{content:"";width:9px;height:9px;background:var(--r);border-radius:50%;animation:pisca 1.4s steps(2,jump-none) infinite;flex:none}
+@keyframes pisca{50%{opacity:.15}}
+.hero h1{font-size:clamp(2.3rem,6vw,4.3rem);font-weight:700;text-transform:uppercase;letter-spacing:-.01em}
+.hero h1 em{font-style:normal;color:var(--y);text-shadow:3px 0 var(--r)}
+.hero p.sub{color:var(--mut);max-width:38ch;margin:20px 0 28px}
+.btn{display:inline-block;background:var(--y);color:#000;padding:13px 26px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;text-decoration:none;
+clip-path:polygon(0 0,100% 0,100% calc(100% - 12px),calc(100% - 12px) 100%,0 100%);transition:background .15s,color .15s}
+.btn:hover{background:var(--r);color:#fff}
+
+.feat{position:relative;display:flex;align-items:flex-end;aspect-ratio:16/9;padding:22px;color:#fff;text-decoration:none;
+background:linear-gradient(135deg,#2a2c31,#141518);box-shadow:inset 0 0 0 1px var(--line);
+clip-path:polygon(0 0,calc(100% - 24px) 0,100% 24px,100% 100%,24px 100%,0 calc(100% - 24px))}
+.feat::after{content:"DESTAQUE // MAIS VISTO";position:absolute;left:0;top:0;background:var(--y);color:#000;font:400 .75rem "Share Tech Mono",monospace;letter-spacing:.12em;padding:5px 12px}
+.feat.foto{background-size:cover;background-position:center}
+.play{position:absolute;left:50%;top:46%;transform:translate(-50%,-50%);width:70px;height:70px;background:var(--r);display:grid;place-items:center;
+clip-path:polygon(24% 0,100% 0,100% 76%,76% 100%,0 100%,0 24%);transition:background .15s}
+.play::after{content:"";border-left:20px solid #fff;border-top:12px solid transparent;border-bottom:12px solid transparent;margin-left:5px}
+.feat:hover .play{background:var(--y)}
+.feat:hover .play::after{border-left-color:#000}
+.feat span{position:relative;font-weight:700;font-size:1.25rem;line-height:1.15;max-width:24ch;text-transform:uppercase;text-shadow:0 2px 12px rgba(0,0,0,.8)}
+.faixa{height:10px;background:repeating-linear-gradient(135deg,var(--y) 0 14px,var(--bg) 14px 28px);opacity:.9}
+
+section{padding:48px 0 8px}
+.head{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap;margin-bottom:24px;padding-bottom:14px;border-bottom:1px solid var(--line)}
+h2{font-size:1.8rem;font-weight:700;text-transform:uppercase;letter-spacing:.04em;border-left:6px solid var(--y);padding-left:14px}
+h2::before{content:"// ";color:var(--r)}
 .chips{display:flex;gap:8px;flex-wrap:wrap}
-.chips button{font:inherit;font-weight:700;border:2px solid var(--ink);background:transparent;color:var(--ink);padding:6px 16px;border-radius:999px;cursor:pointer}
-.chips button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:20px}
-.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px;display:flex;flex-direction:column;gap:10px}
-.card h3{font-size:1.3rem}
-.card p{margin:0;color:var(--mut)}
-.tag{align-self:flex-start;font-size:.85rem;font-weight:700;background:var(--yel);color:#1b1b3a;padding:2px 10px;border-radius:999px}
-.vid{padding:0;overflow:hidden;text-decoration:none}
-.thumb{aspect-ratio:16/9;display:grid;place-items:center;color:#fff;font:800 1.6rem "Bricolage Grotesque",sans-serif}
-.vid div+div{padding:16px 20px 20px}
-.note{background:var(--card);border:1px dashed var(--mut);border-radius:12px;padding:12px 16px;color:var(--mut);font-size:.95rem;margin-bottom:22px}
-footer{border-top:1px solid var(--line);margin-top:30px;padding:28px 0;color:var(--mut)}
-@media (max-width:760px){.hero{grid-template-columns:1fr}nav a{margin-left:12px}}
-.wrap{overflow-x:hidden}
-.card a.ler{font-weight:700;color:var(--ink);text-underline-offset:3px}.fonte{font-size:.9rem;color:var(--mut)}
-.card{overflow:hidden}.capa{display:block;width:calc(100% + 40px);max-width:none;margin:-20px -20px 4px;aspect-ratio:16/9;object-fit:cover;background:var(--line)}
-.thumbv{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;background:var(--line)}.vid>div{padding:16px 20px 20px}.feat.foto{aspect-ratio:16/9;background-size:cover;background-position:center}.feat.foto::before{display:none}
+.chips button{font-size:.82rem;text-transform:uppercase;letter-spacing:.08em;background:transparent;color:var(--mut);border:1px solid var(--line);padding:7px 14px;cursor:pointer;
+clip-path:polygon(0 0,calc(100% - 8px) 0,100% 8px,100% 100%,8px 100%,0 calc(100% - 8px));transition:color .15s,border-color .15s}
+.chips button:hover{color:var(--ink);border-color:var(--y)}
+.chips button[aria-pressed="true"]{background:var(--y);color:#000;border-color:var(--y)}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:20px}
+.grid.lanc{grid-template-columns:repeat(auto-fill,minmax(180px,1fr))}
+.card{position:relative;background:var(--panel);border-left:3px solid var(--y);padding:20px;display:flex;flex-direction:column;gap:10px;text-decoration:none;
+clip-path:polygon(0 0,calc(100% - 14px) 0,100% 14px,100% 100%,14px 100%,0 calc(100% - 14px));transition:transform .15s,background .15s,border-color .15s}
+.card:hover{background:var(--panel2);border-left-color:var(--r);transform:translateY(-3px)}
+.card h3{font-size:1.12rem;font-weight:600;line-height:1.22}
+.card p{margin:0;color:var(--mut);font-size:.95rem}
+.tag{align-self:flex-start;background:var(--y);color:#000;font-size:.74rem;text-transform:uppercase;letter-spacing:.1em;padding:2px 9px}
+.tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+.tags .tag{background:transparent;color:var(--ink);border:1px solid var(--mut)}
+.fonte{font-size:.8rem;color:var(--mut);text-transform:uppercase;letter-spacing:.06em}
+.card a.ler{align-self:flex-start;color:var(--y);text-decoration:none;font-weight:700;border-bottom:1px solid var(--y);padding-bottom:1px}
+.card a.ler:hover{color:var(--r);border-color:var(--r)}
+.capa,.thumbv,.thumbl{display:block;max-width:none;object-fit:cover;background:var(--line);filter:grayscale(.35) contrast(1.05);transition:filter .2s}
+.card:hover .capa,.card:hover .thumbv,.card:hover .thumbl{filter:none}
+.capa{width:calc(100% + 40px);margin:-20px -20px 4px;aspect-ratio:16/9}
+.card.vid{padding:0}
+.vid>div{padding:16px 20px 20px}
+.thumbv{width:100%;aspect-ratio:16/9}
+.thumbl{width:100%;aspect-ratio:3/4}
+.card.vid h3{font-size:1.05rem}
+
+.note{display:flex;align-items:center;gap:10px;font-size:.82rem;color:var(--mut);text-transform:uppercase;letter-spacing:.08em;margin:0 0 22px}
+section>p.fonte{margin-top:18px}
+section>p.fonte a{color:var(--y)}
+footer{margin-top:56px;border-top:1px solid var(--line);padding:26px 0;color:var(--mut);font-size:.82rem;text-transform:uppercase;letter-spacing:.08em}
+footer::before{content:"";display:block;width:64px;height:3px;background:var(--y);margin-bottom:14px}
+@media (max-width:760px){.hero{grid-template-columns:1fr;padding-top:32px}nav a{padding:6px 6px}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
 </style>
 </head>
 <body>
 <div class="wrap">
 <header>
   <a class="logo" href="#top">La<b>gaz</b></a>
-  <nav><a href="#noticias">Notícias</a><a href="#videos">Vídeos</a><a href="#canal">Canal</a></nav>
+  <nav><a href="#noticias">Notícias</a><a href="#lancamentos">Lançamentos</a><a href="#videos">Vídeos</a><a href="#canal">Canal</a></nav>
 </header>
 
 <main id="top">
 <div class="hero">
   <div>
-    <h1>Games, notícias e o canal Lagaz</h1>
-    <p>O que está rolando no mundo dos jogos e os vídeos mais novos do canal, num lugar só.</p>
+    <p class="eyebrow">Sistema online // games + canal</p>
+    <h1>Games, notícias e o canal <em>Lagaz</em></h1>
+    <p class="sub">O que está rolando no mundo dos jogos, os próximos lançamentos e os vídeos do canal, num lugar só.</p>
     <a class="btn" href="#videos">Ver vídeos</a>
   </div>
   <a class="feat" href="#" id="destaque" aria-label="Vídeo em destaque">
@@ -74,6 +113,7 @@ footer{border-top:1px solid var(--line);margin-top:30px;padding:28px 0;color:var
     <span id="destaque-titulo"></span>
   </a>
 </div>
+<div class="faixa" aria-hidden="true"></div>
 
 <section id="noticias">
   <div class="head">
@@ -82,6 +122,15 @@ footer{border-top:1px solid var(--line);margin-top:30px;padding:28px 0;color:var
   </div>
   <div class="note" id="atualizado">Notícias atualizadas automaticamente pelo robô.</div>
   <div class="grid" id="noticias-grid"></div>
+</section>
+
+<section id="lancamentos">
+  <div class="head">
+    <h2>Próximos lançamentos</h2>
+    <div class="chips" id="chips-lanc" role="group" aria-label="Filtrar por plataforma"></div>
+  </div>
+  <div class="grid lanc" id="lanc-grid"></div>
+  <p class="fonte">As datas podem mudar. Dados e capas: <a href="https://www.igdb.com" target="_blank" rel="noopener">IGDB.com</a>.</p>
 </section>
 
 <section id="videos">
@@ -98,7 +147,7 @@ footer{border-top:1px solid var(--line);margin-top:30px;padding:28px 0;color:var
 </section>
 </main>
 
-<footer>© Lagaz. Feito para quem gosta de jogos.</footer>
+<footer>© Lagaz // feito para quem gosta de jogos</footer>
 </div>
 
 <script>
@@ -125,6 +174,22 @@ function cartao(n){
 function desenhaNoticias(){
   document.getElementById("noticias-grid").innerHTML=NOTICIAS.filter(function(n){return atual==="Todas"||n.c===atual}).map(function(n){
     return cartao(n)}).join("")||'<p>Nenhuma notícia por aqui ainda. O robô busca novidades a cada 3 horas.</p>';
+}
+var LANC=[];var platLanc="Todas";
+function desenhaChipsLanc(){
+  var el=document.getElementById("chips-lanc");
+  if(!LANC.length){el.innerHTML="";return}
+  el.innerHTML=["Todas","PC","Xbox","PS5","Switch","Switch 2"].map(function(c){return '<button type="button" aria-pressed="'+(c===platLanc)+'" data-c="'+c+'">'+c+'</button>'}).join("");
+  el.querySelectorAll("button").forEach(function(b){b.onclick=function(){platLanc=b.dataset.c;desenhaChipsLanc();desenhaLanc()}});
+}
+function desenhaLanc(){
+  var lista=LANC.filter(function(g){return platLanc==="Todas"||(g.plats||[]).indexOf(platLanc)>-1});
+  document.getElementById("lanc-grid").innerHTML=lista.map(function(g){
+    var d=new Date(g.data),quando=isNaN(d)?"":d.toLocaleDateString("pt-BR",{day:"2-digit",month:"long",year:"numeric",timeZone:"UTC"});
+    var img=/^https:\/\//.test(g.img||"")?'<img class="thumbl" loading="lazy" referrerpolicy="no-referrer" alt="" src="'+esc(g.img)+'" onerror="this.remove()">':"";
+    var tags=(g.plats||[]).map(function(p){return '<span class="tag">'+esc(p)+'</span>'}).join(" ");
+    var corpo='<div>'+'<h3>'+esc(g.t)+'</h3><span class="fonte">'+esc(quando)+'</span><div class="tags">'+tags+'</div></div>';
+    return /^https:\/\//.test(g.link||"")?'<a class="card vid" target="_blank" rel="noopener" href="'+esc(g.link)+'">'+img+corpo+'</a>':'<article class="card vid">'+img+corpo+'</article>'}).join("")||'<p>Os próximos lançamentos aparecem aqui assim que o robô buscar.</p>';
 }
 var modoVideos="recentes";
 function porViews(a,b){return (b.views||0)-(a.views||0)}
@@ -156,9 +221,10 @@ document.getElementById("link-canal").href=LINK_CANAL;
 fetch("noticias.json",{cache:"no-store"}).then(function(r){return r.json()}).then(function(d){
   NOTICIAS=d.noticias||[];
   VIDEOS=d.videos||[];
+  LANC=d.lancamentos||[];
   cats=["Todas"].concat(NOTICIAS.map(function(n){return n.c}).filter(function(v,i,a){return a.indexOf(v)===i}));
   if(d.atualizadoEm){document.getElementById("atualizado").textContent="Atualizado automaticamente em "+new Date(d.atualizadoEm).toLocaleString("pt-BR")+".";}
-}).catch(function(){}).then(function(){desenhaChips();desenhaNoticias();desenhaChipsVideos();desenhaVideos()});
+}).catch(function(){}).then(function(){desenhaChips();desenhaNoticias();desenhaChipsVideos();desenhaVideos();desenhaChipsLanc();desenhaLanc()});
 </script>
 </body>
 </html>
