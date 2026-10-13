@@ -51,6 +51,7 @@ footer{border-top:1px solid var(--line);margin-top:30px;padding:28px 0;color:var
 @media (max-width:760px){.hero{grid-template-columns:1fr}nav a{margin-left:12px}}
 .wrap{overflow-x:hidden}
 .card a.ler{font-weight:700;color:var(--ink);text-underline-offset:3px}.fonte{font-size:.9rem;color:var(--mut)}
+.card{overflow:hidden}.capa{display:block;width:calc(100% + 40px);max-width:none;margin:-20px -20px 4px;aspect-ratio:16/9;object-fit:cover;background:var(--line)}
 </style>
 </head>
 <body>
@@ -120,8 +121,9 @@ function desenhaChips(){
 }
 function cartao(n){
   var d=new Date(n.data),quando=isNaN(d)?"":d.toLocaleDateString("pt-BR");
+  var img=/^https:\/\//.test(n.img||"")?'<img class="capa" loading="lazy" referrerpolicy="no-referrer" alt="" src="'+esc(n.img)+'" onerror="this.remove()">':"";
   var ler=/^https?:\/\//.test(n.link)?'<a class="ler" target="_blank" rel="noopener" href="'+esc(n.link)+'">Ler matéria completa</a>':"";
-  return '<article class="card"><span class="tag">'+esc(n.c)+'</span><h3>'+esc(n.t)+'</h3>'+(n.d?'<p>'+esc(n.d)+'</p>':'')+'<span class="fonte">'+esc(n.fonte||"")+(quando?' · '+quando:'')+'</span>'+ler+'</article>';
+  return '<article class="card">'+img+'<span class="tag">'+esc(n.c)+'</span><h3>'+esc(n.t)+'</h3>'+(n.d?'<p>'+esc(n.d)+'</p>':'')+'<span class="fonte">'+esc(n.fonte||"")+(quando?' · '+quando:'')+'</span>'+ler+'</article>';
 }
 function desenhaNoticias(){
   document.getElementById("noticias-grid").innerHTML=NOTICIAS.filter(function(n){return atual==="Todas"||n.c===atual}).map(function(n){

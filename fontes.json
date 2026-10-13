@@ -1,5 +1,18 @@
 [
   {
+    "nome": "IGN Brasil",
+    "url": "https://br.ign.com/feed.xml"
+  },
+  {
+    "nome": "TecMundo",
+    "url": "https://rss.tecmundo.com.br/feed",
+    "filtro": "game|jogo|playstation|xbox|nintendo|steam|gamer|nvidia|rtx"
+  },
+  {
+    "nome": "Flow Games",
+    "url": "https://flowgames.gg/feed/"
+  },
+  {
     "nome": "Google Notícias – Games",
     "url": "https://news.google.com/rss/search?q=games+OR+videogames+OR+PlayStation+OR+Xbox+OR+Nintendo&hl=pt-BR&gl=BR&ceid=BR:pt-419"
   },
