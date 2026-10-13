@@ -1,82 +1,271 @@
 {
-  "atualizadoEm": "2026-10-13T10:05:33.461Z",
+  "atualizadoEm": "2026-10-13T18:52:07.661Z",
   "noticias": [
     {
-      "t": "Epic Games adia shooter de Star Wars e Marvel para apostar tudo em IA",
-      "d": "&nbsp;&nbsp; IGN Portugal",
-      "link": "https://pt.ign.com/fortnite/163228/epic-games-adia-shooter-de-star-wars-e-marvel-para-apostar-tudo-em-ia",
-      "fonte": "IGN Portugal",
-      "data": "2026-10-13T09:45:44.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/t/ign_pt/news/e/epic-repor/epic-reportedly-pushing-devs-to-use-ai-delays-secret-star-wa_gm86.1200.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTUtJQmtNYnhNY3NFV3ZOdGljZU9NVlVQSDBlQmZMWkdmQ0dmMXZfNGFyVGlrU1lud1M2X0pCeEsydTZJWXlPWERsUXdlTVlQcllNUUpua3JDRkJyUFpvQS1CUmptRjkzVUQxM0RUa1JCTzRLbjN4MHk4b0pQRlV4UDBCSW1WTExTVHhlWDJlOHNhbGZPajE2ZWR2a1BsWTAtYm5HTDdzRQ?oc=5"
-    },
-    {
-      "t": "Rússia alcança marca histórica com 17 medalhas nos World Skate Games no Paraguai",
-      "d": "&nbsp;&nbsp; Tribuna do Sertão",
-      "link": "https://www.tribunadosertao.com.br/geral/2026/10/13/995786-russia-alcanca-marca-historica-com-17-medalhas-nos-world-skate-games-no-paraguai",
-      "fonte": "Tribuna do Sertão",
-      "data": "2026-10-13T09:16:00.000Z",
-      "c": "Geral",
-      "img": "https://img.dhost.cloud/w2g6322_4LPbq3AR27IppWbMMjo=/1280x720/smart/https://tdan.nyc3.digitaloceanspaces.com/images/d6a0b/34dd1134b4d1f0b95f1128a03912be536b3.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM3AteGxEdVFvS2ZZUVdHQk9ZcGVZNlRFdkZzMENQenNDb2VZVVNYbjc2aHJpN3FpM1JDWDZYYTVPNzg3d1FmZm1jam9neGRSYnhMLTVrMFp3MUNKRk5oT3lKSU1sMFJCbVE4WUl6QTNrU2c0czFDRWJtUG9nOG9XYUFyV0ZPMFZ2d0F2eXhZM1Y5ZW5PdHl4WE1wbUtFX3Q1NHRTd2g5SEhzcnF4bF9NSFpNUVZhblhLWk5NMVRySGY3VG8xeFhOOG02bUQtYXVkWkVNS3lR?oc=5"
-    },
-    {
-      "t": "Joga um dos melhores RPGs de sempre na Nintendo Switch 2",
-      "d": "&nbsp;&nbsp; Eurogamer.pt",
-      "link": "https://www.eurogamer.pt/metaphor-refantazio-recebe-demo-na-switch-2",
-      "fonte": "Eurogamer.pt",
-      "data": "2026-10-13T09:04:21.000Z",
+      "t": "Deep Dish Dungeon, jogo brasileiro, chega ao Xbox Game Pass com exploração de masmorras e culinária",
+      "d": "&nbsp;&nbsp; Central Xbox",
+      "link": "https://centralxbox.com.br/2026/10/13/deep-dish-dungeon-jogo-brasileiro-chega-ao-xbox-game-pass-com-exploracao-de-masmorras-e-culinaria/",
+      "fonte": "Central Xbox",
+      "data": "2026-10-13T18:39:31.000Z",
       "c": "Consoles",
-      "img": "https://assetsio.gnwcdn.com/Metaphor-ReFantazio_02.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "orig": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwcjlydENRaXo0OWE0bmhMVjVoMXZUR3BaeUVHYXlld21DbG0tRUZfYmptc1E1RENNVmhTR2xmWDdqazF3aWFNSFpkYmN4TTlubFFJTTdBUVFpbFZuZ1R1anhhdWl1VTlGdVhCeEh4VXRPdFVDMUJ3?oc=5"
+      "img": "https://centralxbox.com.br/wp-content/uploads/2026/10/maxresdefault-8.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRGFlN0xVSG1KSGRGcHJkeW9FbjZXVlBMR0RIZmNWX01uVWVwWWtxcl9sVUpRLV9QdXgwWk42LVZyMDlVX091MGlMQ1JNMzB4b0NyaVdDdG1zcVkweFRWLWZoOGlNN1dQQ0w5anZTZmFYRC0wbjdvc3lCZ1VJOEpoNEZZa1ZndmNYRVJNeUJZSEphZW0xZkpQNjY2QUFMYXMzbVpCdG40ZFVseVBma3RfdnZ2R1JhR2d4SEs1MWUxcFZVcmJoeFQycDA1OHl4SnZNMVE?oc=5"
     },
     {
-      "t": "O gaming como o conhecemos tem os dias contados, avisa o pai da PlayStation",
-      "d": "&nbsp;&nbsp; Eurogamer.pt",
-      "link": "https://www.eurogamer.pt/pai-da-playstation-diz-que-a-ia-vai-transformar-o-gaming",
-      "fonte": "Eurogamer.pt",
-      "data": "2026-10-13T08:58:50.000Z",
+      "t": "Sony anuncia PS5 totalmente preto por US$ 350, mas provavelmente você não vai conseguir comprá-lo",
+      "d": "&nbsp;&nbsp; IGN Brasil",
+      "link": "https://br.ign.com/playstation-5-2/156807/sony-anuncia-ps5-totalmente-preto-por-us-350-mas-provavelmente-voce-nao-vai-conseguir-compra-lo",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-13T18:39:09.000Z",
       "c": "Consoles",
-      "img": "https://assetsio.gnwcdn.com/06b554da9ad96ea244c2f809bd52a2a1e637a673.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "orig": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVUItc005ZDZxaERfWGtCd0RwVEdNbjB2MWc2dDNrUzEyTE5Gcm53MzBrUnpmYTlKbklNajlxTWoycnhqa1RGYWlNQ1kyVTJvWmJpMTRyb1pTWXRTSXd1R3gtQUhnc2JVVk9TUGNQWGVMbk5rQnRnVDVmM2ViZ3c5M1habXlxZjZa?oc=5"
+      "img": "https://sm.ign.com/t/ign_br/news/s/sony-annou/sony-announces-350-all-black-ps5-but-you-probably-cant-buy-i_83tx.1200.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONTJLaWx1cl93LS1zODVHYS1XMEdzSW8zYUlFWVZkbkJjdVJUVThleWRTSFdPMkFIQmJiQUlqZnlGUUdiOTQ1eXJpd01odDFVNkFiRHhQaE9YVFZVQ3k2U0xUTTc0a1hUaEVKS0oybGxteU9rRmRJU1dQTHFoWTJST08yOEZ4MG1oYTYzSDBMc0RocE1GdVVUSlNuWVc1V2hxODhVTHk2blJxbDVnd0JjVElUX1dwdUZqdENiSG1FTVJUNVRUVHNWVUhWeFhnOU9rVlU0?oc=5"
     },
     {
-      "t": "Gears of War E-Day e mais chegam ao GeForce NOW",
-      "d": "O GeForce NOW, serviço de streaming da NVIDIA, recebeu Gears of War E-Day, Hellraiser e mais",
-      "link": "https://flowgames.gg/gears-of-war-e-day-e-mais-chegam-ao-geforce-now/",
-      "fonte": "Flow Games",
-      "data": "2026-10-13T08:44:04.000Z",
+      "t": "PlayStation 5 Japan-Exclusive Midnight Black – Photos",
+      "d": "",
+      "link": "https://br.ign.com/playstation-5-2/156808/playstation-5-japan-exclusive-midnight-black-photos",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-13T18:37:03.000Z",
+      "c": "Consoles",
+      "img": "https://sm.ign.com/ign_br/gallery/p/playstatio/playstation-5-japan-exclusive-midnight-black-photos_tx24.jpg"
+    },
+    {
+      "t": "Heidi’s Legacy: Mountains Calling chega ao Nintendo Switch em janeiro de 2027",
+      "d": "&nbsp;&nbsp; Nintendo Blast",
+      "link": "https://www.nintendoblast.com.br/2026/10/heidis-legacy-mountains-calling-chega-switch-janeiro-2027.html",
+      "fonte": "Nintendo Blast",
+      "data": "2026-10-13T18:32:28.000Z",
+      "c": "Consoles",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsuO4fgYqNTOEsNXfWwKw7aTI2xfSq9lHS0IyAGPplSTu8HykjZgBVfeQVBGdBybsitXdN-oaM4BRsvX48DHcq9RsRpEwkYvUYcEUj8ufkklnrKVbaSjh7bt6Hq8KhUXpjVKrc8YNoYl5-X8wg1IKo9R04gbx-o1KpPY9eVDBPsg_VfDHHNhCjniZVn_o/w1200-h630-p-k-no-nu/Heidis-Legacy-Mountains-Calling.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNXpaN1NuZExoeTRmM3hNdXAtV3cxdnpwd0swZEo5aHlrMWdhZTlOZkY2UGE0MnczM0haRXdXQl96N3JuRUpTaVB6eFZadkg0LTR4WUNqM0lxUWc5NFVoLU1aSTNvMGI0dG1iN2d2bnRweHY3a0I4SW9VaFFSejlPUlduNFJCbVFfcFgwRkdjdXdZdWI3VUs4VlBLVy11YWZHMXFSVWt3?oc=5"
+    },
+    {
+      "t": "GTA 6 será lançado no PC em 2027, poucos meses após estreia no Xbox e PS5",
+      "d": "&nbsp;&nbsp; Estadão",
+      "link": "https://www.estadao.com.br/em-alta/tecmundo/voxel/gta-6-sera-lancado-no-pc-em-2027-poucos-meses-apos-estreia-no-xbox-e-ps5/",
+      "fonte": "Estadão",
+      "data": "2026-10-13T18:28:06.000Z",
       "c": "PC",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/10/unnamed-1.jpg"
+      "img": "https://www.estadao.com.br/resizer/v2/OARC5BVKTJKDHAXWS2NOLC3JII.jpg?quality=80&auth=c7669b922e908fbeeeaf24cb799a77e46cfbc11ede048ae58bb67867851b2d48&width=1200&height=630&smart=true",
+      "orig": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVGxKWVkzVkRUVjd4bWVEbHJSNHVleFFfZEVWOVRmMjZiazhnZHV4U2R2WW01UnFlY0c1a3ZvTVg1WnctUUxNLXpoTEpqamZaQUVYQndJQVJhdGxzaGIzQnRSRnhYY0Z1a3ozc1FibndVZ2RKLW5heFJUOHlkQ2pGanFzeTZaa29WSV9CWnd4NC04VWJjRjV0UUN5T0tjQXNZQXN6aXBWbGZWM25pRTQwc2lBUDV1aURJTU5qeVI5Z1E?oc=5"
     },
     {
-      "t": "Empolgou? Castlevania Belmont’s Curse tem Metacritic alto",
-      "d": "Castlevania Belmont’s Curse teve notas da imprensa e, pelo jeito, é mais um jogaço de 2026",
-      "link": "https://flowgames.gg/empolgou-castlevania-belmonts-curse-tem-metacritic-alto/",
-      "fonte": "Flow Games",
-      "data": "2026-10-13T08:25:58.000Z",
+      "t": "Just Dance: Decades of Hits chega ao Xbox Series X|S com músicas de várias gerações",
+      "d": "&nbsp;&nbsp; Central Xbox",
+      "link": "https://centralxbox.com.br/2026/10/13/just-dance-decades-of-hits-chega-ao-xbox-series-xs-com-musicas-de-varias-geracoes/",
+      "fonte": "Central Xbox",
+      "data": "2026-10-13T18:24:22.000Z",
+      "c": "Consoles",
+      "img": "https://centralxbox.com.br/wp-content/uploads/2026/10/EGST_Edition_Thumbnail_1920X1080-bb0d606875e5c3a37e27-1600x900-1.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM2JHRzFDemVZa21uVVdPbGJJZ1pyVGRZZUl2RGpMNGg1WTFpazg5S2NVcW9FRFlCTE5vbGF2UGZORlRYZ0pHUk9uM3JiLUxFOG1oTmVvZnpTTG5XSlNZdnkydlYtWmFwaFRhQ3FUbHYxMV8zbUZmWGMxamkwZWdXbC15a1dudlZpejRkNnFFeEw2MDFES2NCcHJFS3k1cHVFWlRLUGdYa1J4SEZ1dV8yRWl3aVRUMWVpNC1icw?oc=5"
+    },
+    {
+      "t": "Hogwarts Legacy – Nvidia DLSS 5 Screenshots",
+      "d": "",
+      "link": "https://br.ign.com/gallery/156805/hogwarts-legacy-nvidia-dlss-5-screenshots",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-13T18:03:35.000Z",
+      "c": "PC",
+      "img": "https://sm.ign.com/ign_br/gallery/h/hogwarts-l/hogwarts-legacy-nvidia-dlss-5-screenshots_2njs.jpg"
+    },
+    {
+      "t": "Nvidia traz DLSS 5 para Hogwarts Legacy, mas alguns fãs não conseguem notar a diferença",
+      "d": "Um modelo mais novo e mais rápido",
+      "link": "https://br.ign.com/hogwarts-legacy/156804/nvidia-traz-dlss-5-para-hogwarts-legacy-mas-alguns-fas-nao-conseguem-notar-a-diferenca",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-13T18:03:35.000Z",
+      "c": "PC",
+      "img": "https://sm.ign.com/ign_br/news/n/nvidia-bri/nvidia-brings-dlss-5-to-hogwarts-legacy-but-some-fans-cant-t_tzdb.jpg"
+    },
+    {
+      "t": "Segundo relatos, Epic estaria pressionando desenvolvedores a usar inteligência artificial",
+      "d": "A desenvolvedora teria também adiado um shooter secreto que combina os universos de Star Wars e da Marvel",
+      "link": "https://br.ign.com/fortnite/156802/segundo-relatos-epic-estaria-pressionando-desenvolvedores-a-usar-inteligencia-artificial",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-13T17:31:49.000Z",
       "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/03/Castlevania_belmont27s_curse_promotional_image.jpg"
+      "img": "https://sm.ign.com/ign_br/news/e/epic-repor/epic-reportedly-pushing-devs-to-use-ai-delays-secret-star-wa_9ycw.jpg"
     },
     {
-      "t": "Review: Castlevania Belmont’s Curse honra o nome da série",
-      "d": "Já terminamos Castlevania Belmont’s Curse, primeiro metroidvania da série em 18 anos, e você vê nosso review aqui",
-      "link": "https://flowgames.gg/review-castlevania-belmonts-curse-honra-nome-da-serie/",
-      "fonte": "Flow Games",
-      "data": "2026-10-13T07:00:47.000Z",
+      "t": "Fortnite x Star Wars New Games and Rewards",
+      "d": "",
+      "link": "https://br.ign.com/fortnite/153102/fortnite-x-star-wars-new-games-and-rewards",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-13T17:31:49.000Z",
       "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/07/sns_castlevania_bc2-1.jpg"
+      "img": "https://sm.ign.com/ign_br/gallery/f/fortnite-x/fortnite-x-star-wars-new-games-and-rewards_57py.jpg"
     },
     {
-      "t": "PlateUp! celebra o Halloween com novos trajes temáticos, cartas de desafio e desconto histórico no Steam",
-      "d": "&nbsp;&nbsp; Gamers & Games",
-      "link": "https://www.gamersegames.com.br/2026/10/12/plateup-celebra-o-halloween-com-novos-trajes-tematicos-cartas-de-desafio-e-desconto-historico-no-steam/",
-      "fonte": "Gamers & Games",
-      "data": "2026-10-13T05:28:04.000Z",
+      "t": "Fone de ouvido Basike LE29 atinge menor preço do ano na Amazon",
+      "d": "Com até 30 horas de bateria, conexão Bluetooth e design confortável, fone de ouvido Basike LE29 é opção para ouvir músicas e acompanhar conteúdos no dia a dia",
+      "link": "https://br.ign.com/descontos/156803/fone-de-ouvido-basike-le29-atinge-menor-preco-do-ano-na-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-13T17:12:53.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/fone-de-ouvido-basike_8mvz.jpg"
+    },
+    {
+      "t": "Loja pirata traz mais de 1 mil jogos grátis para o PS5 em versão desbloqueada, mas pode dar ban",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/overdrive-loja-pirata-traz-mais-de-1000-jogos-gratis-para-o-ps5-em-versao-desbloqueada/",
+      "fonte": "TecMundo",
+      "data": "2026-10-13T17:07:00.000Z",
       "c": "Ofertas",
-      "img": "https://www.gamersegames.com.br/wp-content/uploads/2026/10/PlateUp-Halloween-1.webp",
-      "orig": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVk1hbDVGOUtFLTFQWkdNQm5CUl9BY0llTUdpNFA1N3pnVTBoRFpRNlpoSnNjSk1kYkZUTkZVM1hFOWdwTU5sV2lBNGlzTEdHbnZORGRBUUh2Y3VKYlJ0eXRUMVZUSURyYUxLdUZyd2lEcWVrNGc2MjA1anFHR0N3cFpPcXRRZExyYVlwOGZzcUhoRzFqaTljUG1KMmhYZDROdTk4VjhsMnVJb0pSQkRGaUt1c1lFWURMR0t1azk5YmxyN1pkS2s0MTZseHlhV1A3cm01cHZrZEdRd0EtSHUw0gHkAUFVX3lxTE5VUTZiZkp5RFVXMWpGbFdKUjJwajZSTmljYnMxcHJGZXZJUGxCcjBneFJkQjY5YTJQdVU4UlYtV0RnanZrbTFtaGhlUVFEd1h2ZkthNFFOYmJwZ3UzMWtnVk15VlozRDZYTnduU3E1QU1xSkxZU1JFZ2MtVElOb0xLdk5yM0VDMVNaV3hSc0RCMFNzZnhad2pweUlGOW1WVzI2TXBoNmpYb21BQUpJV3JyT1Q4bFhYeHVSZFF6TkVsZTR4dXZEdkxVTjEyeWNqLWRTSWJZQmVOenZod0ZFLXUwMzBYZQ?oc=5"
+      "img": "https://www.estadao.com.br/resizer/v2/ZBWVSPXCNBMM5ESUIRSFM73LME.jpg?quality=80&auth=ef13d7b97f8f7d88b08b45132519125133f0a001afb0967b01e11ca4d44cf093&width=710"
+    },
+    {
+      "t": "Death Note Movie Exclusive Photos",
+      "d": "",
+      "link": "https://br.ign.com/gallery/156799/death-note-movie-exclusive-photos",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-13T16:56:13.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/gallery/d/death-note/death-note-movie-exclusive-photos_48kn.jpg"
+    },
+    {
+      "t": "Aluna é suspensa após professores descobrirem caderno de Death Note, o que levou à abertura de investigação policial",
+      "d": "“Ela merece se sentir segura na sala de aula, todos os dias”",
+      "link": "https://br.ign.com/death-note-1/156798/aluna-e-suspensa-apos-professores-descobrirem-caderno-de-death-note-o-que-levou-a-abertura-de-invest",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-13T16:56:13.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/s/student-su/student-suspended-after-teachers-discover-death-note-noteboo_az2r.jpg"
+    },
+    {
+      "t": "Motorola Moto G17 atinge menor preço do ano e Edge 60 Fusion 5G tem grande queda de preço na Amazon",
+      "d": "Motorola Moto G17 traz câmera de 50 MP e bateria de 5.200 mAh, enquanto o Edge 60 Fusion 5G se destaca pela tela pOLED de 120 Hz, câmera com estabilização óptica e carregamento TurboPower de 68 W.",
+      "link": "https://br.ign.com/descontos/156796/motorola-moto-g17-atinge-menor-preco-do-ano-e-edge-60-fusion-5g-tem-grande-queda-de-preco-na-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-13T16:28:46.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/motorola_gc1u.jpg"
+    },
+    {
+      "t": "Os filmes mais pirateados da semana via torrent (05 a 11/10)",
+      "d": "Veja quais são os 10 filmes que mais foram pirateados durante a última semana via torrent",
+      "link": "https://flowgames.gg/filmes-mais-pirateados-semana-via-torrent-05-a-11-10/",
+      "fonte": "Flow Games",
+      "data": "2026-10-13T16:27:35.000Z",
+      "c": "Geral",
+      "img": "https://www.youtube.com/embed/bwt2-nyEP0A"
+    },
+    {
+      "t": "Saiba qual é a agenda de podcasts do Flow Games nesta semana",
+      "d": "A gente conta para você quais são os programas, temas e convidados dos próximos podcasts do Flow Games – incluindo sua data e horário",
+      "link": "https://flowgames.gg/confira-agenda-podcasts-flow-games-nesta-semana/",
+      "fonte": "Flow Games",
+      "data": "2026-10-13T16:22:54.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2023/11/image-2023-11-06T132528.896.jpg"
+    },
+    {
+      "t": "BGS 2026 e os 5 melhores jogos indie da feira",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/bgs-2026-e-os-5-melhores-jogos-indie-da-feira/",
+      "fonte": "TecMundo",
+      "data": "2026-10-13T16:15:00.000Z",
+      "c": "Eventos",
+      "img": "https://www.estadao.com.br/resizer/v2/RDAE4H722RC27IMEYLWMON365A.jpg?quality=80&auth=74870de1eb39d8761e8e8e9b5d8e551d060bf8197f797a05bf927962edf38cd1&width=710"
+    },
+    {
+      "t": "Nintendo acalma os fãs e reforça compromisso com as mídias físicas",
+      "d": "Na contramão da indústria, a Nintendo confirma que continuará lançando jogos em versão física",
+      "link": "https://flowgames.gg/nintendo-reforca-o-compromisso-com-as-midias-fisicas/",
+      "fonte": "Flow Games",
+      "data": "2026-10-13T16:03:41.000Z",
+      "c": "Consoles",
+      "img": "https://flowgames.gg/wp-content/uploads/2025/04/Nintendo.jpg"
+    },
+    {
+      "t": "Jogo esquecido da EA Games dos anos 90 vai ter remaster",
+      "d": "Um clássico jogo de nave da EA Games que tem Mark Hamill vai ter uma remasterização de peso",
+      "link": "https://flowgames.gg/jogo-esquecido-ea-games-dos-anos-90-vai-ter-remaster/",
+      "fonte": "Flow Games",
+      "data": "2026-10-13T15:56:24.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/10/MV5BYTVjNDJjMzYtNTM0Ni00M2ZkLWFmZjgtYmZmYzMzZjg3ODM1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "t": "Os lançamentos de jogos desta semana (12 a 18/10)",
+      "d": "Em uma semana bem movimentada, o destaque fica com o lançamento do jogo Castlevania Belmont’s Curse",
+      "link": "https://flowgames.gg/os-lancamentos-de-jogos-desta-semana-12-a-18-10/",
+      "fonte": "Flow Games",
+      "data": "2026-10-13T14:30:19.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.youtube.com/embed/ZRgOG0Phue8"
+    },
+    {
+      "t": "GTA 6 deve chegar ao PC no 1º trimestre de 2027, diz site",
+      "d": "Ao que parece, a Rockstar pode antecipar a chegada de GTA 6 no PC",
+      "link": "https://flowgames.gg/gta-6-deve-chegar-ao-pc-1o-trimestre-de-2027-diz-site/",
+      "fonte": "Flow Games",
+      "data": "2026-10-13T14:29:53.000Z",
+      "c": "PC",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/08/GTAVI_3.jpg"
+    },
+    {
+      "t": "Nvidia pode ter encerrado produção da RTX 5090 para priorizar modelos Pro",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/nvidia-pode-ter-encerrado-producao-da-rtx-5090-para-priorizar-modelos-pro/",
+      "fonte": "TecMundo",
+      "data": "2026-10-13T14:00:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/HYT5YG34RBMV5HA646EPBKWARE.jpg?quality=80&auth=8dc0a75848b34b0e58737efbfff2d39e8f1db00fe94bdd818281e9b0d3b86d76&width=710"
+    },
+    {
+      "t": "Review: Just Dance Decades of Hits é viagem nostálgica em cada dança",
+      "d": "Just Dance Decades of Hits reune diversão e nostalgia em um dos capítulos mais carismáticos da franquia",
+      "link": "https://flowgames.gg/review-just-dance-decades-of-hits-nostalgia-diversao/",
+      "fonte": "Flow Games",
+      "data": "2026-10-13T14:00:00.000Z",
+      "c": "Geral",
+      "img": "https://www.youtube.com/embed/j2gOAliuT34"
+    },
+    {
+      "t": "Epic Games adia jogo com a Disney e anuncia foco total em IA: “Nenhuma linha de código feita à mão”",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-adia-jogo-com-a-disney-e-anuncia-foco-total-em-ia-nenhuma-linha-de-codigo-feita-a-mao/",
+      "fonte": "TecMundo",
+      "data": "2026-10-13T13:15:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.estadao.com.br/resizer/v2/NUHXLS5LFJPODJVZTOT4UP4UHE.jpg?quality=80&auth=17e2d5a73adceed0b0d88982eab4c5a6ad8769f877dc4ecea29322a82835038b&width=710"
+    },
+    {
+      "t": "Samsung leva monitores Odyssey a BRAT 2026 com Flow Games",
+      "d": "A Samsung chega a BRAT 2026 como apoiadora com seus monitores e seu time de influenciadores",
+      "link": "https://flowgames.gg/samsung-leva-monitores-odyssey-a-brat-2026-flow-games/",
+      "fonte": "Flow Games",
+      "data": "2026-10-13T12:40:52.000Z",
+      "c": "Lançamentos",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/10/Samsung-OLED-Odyssey-G6-BRAT-2026.jpg"
+    },
+    {
+      "t": "God of War Laufey terá edição de colecionador sem o jogo",
+      "d": "Assim como GTA 6, a edição de colecionador de God of War Laufey está sendo vendida sem o jogo. Confira o que vem nela e os detalhes!",
+      "link": "https://flowgames.gg/god-of-war-laufey-tera-edicao-colecionador-sem-o-jogo/",
+      "fonte": "Flow Games",
+      "data": "2026-10-13T12:35:42.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/06/HJ1zAQubIAAI0TN.jpeg"
+    },
+    {
+      "t": "Silent Hill: Townfall - Todos os códigos e soluções dos principais puzzles do game",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/silent-hill-townfall-todos-os-codigos-e-solucoes-dos-principais-puzzles-do-game/",
+      "fonte": "TecMundo",
+      "data": "2026-10-13T12:15:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/2XMAK4YECRCHRFXQ4C6VVSP5WE.jpg?quality=80&auth=381386b21d5c62e1a3304d7825ee2713b1b7eda884e32457b757eb65488fa1ff&width=710"
+    },
+    {
+      "t": "Disney Lorcana: O humor da Disney cabe em uma carta?",
+      "d": "Descubra como Disney Lorcana transforma o humor dos filmes em ilustrações, nomes, habilidades e situações inesperadas durante as partidas.",
+      "link": "https://flowgames.gg/disney-lorcana-humor-disney-cabe-em-uma-carta/",
+      "fonte": "Flow Games",
+      "data": "2026-10-13T12:06:22.000Z",
+      "c": "Geral",
+      "img": "https://cdn.dreamborn.ink/images/en/cards/001-007"
     },
     {
       "t": "Cartão de memória de Nintendo Switch 2 fica R$ 800 mais barato em versão sem o Mario na caixa",
@@ -86,195 +275,6 @@
       "data": "2026-10-12T21:15:00.000Z",
       "c": "Consoles",
       "img": "https://www.estadao.com.br/resizer/v2/UVVCOVZFN5GMTIO7XI4IZABKXY.jpg?quality=80&auth=e9cd128c01afe81e387c77473ed41dae1f9a983f02870919a4bc239dd3dea2d5&width=710"
-    },
-    {
-      "t": "Loja nos EUA obriga cliente a assinar termo concordando em não exportar GPU RTX 5090",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/loja-nos-eua-obriga-cliente-a-assinar-termo-concordando-em-nao-exportar-gpu-rtx-5090/",
-      "fonte": "TecMundo",
-      "data": "2026-10-12T18:01:00.000Z",
-      "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/HYT5YG34RBMV5HA646EPBKWARE.jpg?quality=80&auth=8dc0a75848b34b0e58737efbfff2d39e8f1db00fe94bdd818281e9b0d3b86d76&width=1150"
-    },
-    {
-      "t": "Novo mouse na área! Razer apresenta a linha Basilisk V4",
-      "d": "Saiba tudo sobre o novo mouse gamer Razer Basilisk V4 Pro",
-      "link": "https://flowgames.gg/razer-basilisk-v4-novo-mouse-gamer-release/",
-      "fonte": "Flow Games",
-      "data": "2026-10-12T18:00:30.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/10/razer-basikisk-v4.jpg"
-    },
-    {
-      "t": "7 jogos online para crianças de 7 anos",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/7-jogos-online-para-criancas-de-7-anos/",
-      "fonte": "TecMundo",
-      "data": "2026-10-12T17:15:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/GCRD3ULMPFBVJL3HCQPPRRY7LA.jpeg?quality=80&auth=32ecf7277239b6ec112392bdfa2b07258163fc55ae1450c84d57475cccb14cf7&width=710"
-    },
-    {
-      "t": "Uma sequência do novo filme de “Street Fighter” já está sendo desenvolvida, mas há um porém",
-      "d": "“Com certeza temos muitas ideias\" O diretor Kitao Sakurai confirmou que já está trabalhando intensamente na roteirização de uma sequência para seu próximo filme de Street Fighter, mas a realização...",
-      "link": "https://br.ign.com/street-fighter-2026/156781/uma-sequencia-do-novo-filme-de-street-fighter-ja-esta-sendo-desenvolvida-mas-ha-um-porem",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-12T16:50:26.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/a/a-street-f/a-street-fighter-movie-sequel-is-already-being-written-but-t_crnu.png"
-    },
-    {
-      "t": "Konami planeja uma “segunda e terceira onda” de novos jogos da série Silent Hill",
-      "d": "Nosso lugar especial A Konami está planejando uma “segunda e terceira onda” de novos jogos da série Silent Hill, segundo o produtor Motoi Okamoto. Okamoto deu uma visão um tanto nebulosa sobre o...",
-      "link": "https://br.ign.com/silent-hill-f/156779/konami-planeja-uma-segunda-e-terceira-onda-de-novos-jogos-da-serie-silent-hill",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-12T16:47:02.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/k/konami-pla/konami-planning-second-and-third-waves-of-new-silent-hill-ga_pxf4.jpg"
-    },
-    {
-      "t": "Nicolas Cage afirma que “provavelmente não trabalhará com” a Amazon novamente após recusar a renúncia à IA de “Spider-Noir”",
-      "d": "“Não faço parte do clube deles” Nicolas Cage afirmou que “provavelmente não trabalhará com” a Amazon novamente, após se recusar a assinar um termo de renúncia para o uso de IA na série...",
-      "link": "https://br.ign.com/spider-man-noir-series/156778/nicolas-cage-afirma-que-provavelmente-nao-trabalhara-com-a-amazon-novamente-apos-recusar-a-renuncia",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-12T16:39:41.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/n/nicolas-ca/nicolas-cage-says-hell-probably-not-work-with-amazon-again-a_myn6.jpg"
-    },
-    {
-      "t": "Teasers de Naruto revelam novo mangá Shadow Rising e crossover com anime",
-      "d": "Rasengan! Naruto está vivo e bem, já que o autor Masashi Kishimoto anunciou um novo mangá chamado Shadow Rising – e uma nova série de anime crossover também está a caminho. Ambos os projetos de...",
-      "link": "https://br.ign.com/naruto-2/156777/teasers-de-naruto-revelam-novo-manga-shadow-rising-e-crossover-com-anime",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-12T16:34:18.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/news/n/naruto-tea/naruto-teasers-reveal-new-shadow-rising-manga-and-anime-cros_f1gx.jpg"
-    },
-    {
-      "t": "Novo FPS da NetEase gera acusações de ser “cópia” de Warzone, mas alguns fãs de Call of Duty estão felizes com o lançamento",
-      "d": "ECC: Redline Os fãs de Call of Duty estão divididos em relação ao ECC: Redline, da NetEase Games, um novo FPS que muitos têm chamado de “cópia descarada”, mas que tem o potencial de preencher a...",
-      "link": "https://br.ign.com/call-of-duty-warzone/156776/novo-fps-da-netease-gera-acusacoes-de-ser-copia-de-warzone-mas-alguns-fas-de-call-of-duty-estao-feli",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-12T16:31:17.000Z",
-      "c": "PC",
-      "img": "https://sm.ign.com/ign_br/news/n/new-neteas/new-netease-fps-sparks-warzone-rip-off-claims-but-some-call_exeu.jpg"
-    },
-    {
-      "t": "Novo vídeo vazado do GTA 6 mostra Lucia totalmente nua, o que desperta ceticismo entre os fãs",
-      "d": "Cheats ligados? Cyberleek teria cumprido sua ameaça de divulgar um vídeo intitulado “Lucia closeup 4k” e, mais uma vez, está vinculando novos vazamentos a metas de capitalização de mercado de...",
-      "link": "https://br.ign.com/grand-theft-auto-vi/156775/novo-video-vazado-do-gta-6-mostra-lucia-totalmente-nua-o-que-desperta-ceticismo-entre-os-fas",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-12T16:26:29.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/l/latest-lea/latest-leaked-gta-6-video-shows-lucia-fully-naked-sparks-fan_ruxr.jpg"
-    },
-    {
-      "t": "Haunted Chocolatier é \"mais um RPG de ação\" em comparação com Stardew Valley, afirma ConcernedApe",
-      "d": "É para quem gosta de ir nas minas Eric Barone, também conhecido como ConcernedApe, falou brevemente sobre a diferença entre seu jogo indie de enorme sucesso, Stardew Valley, e seu tão aguardado...",
-      "link": "https://br.ign.com/haunted-chocolatier/156773/haunted-chocolatier-e-mais-um-rpg-de-acao-em-comparacao-com-stardew-valley-afirma-concernedape",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-12T16:21:13.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/h/haunted-ch/haunted-chocolatier-more-of-an-action-rpg-compared-to-starde_mdg5.jpg"
-    },
-    {
-      "t": "Stardew Valley Cookbook Preview",
-      "d": "",
-      "link": "https://br.ign.com/gallery/154183/stardew-valley-cookbook-preview",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-12T16:21:13.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/gallery/s/stardew-va/stardew-valley-cookbook-preview_s2mm.jpg"
-    },
-    {
-      "t": "Stardew Valley: Como fazer o Rice Pudding do jogo na vida real? Veja o passo a passo",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/stardew-valley-como-fazer-o-rice-pudding-do-jogo-na-vida-real-veja-o-passo-a-passo/",
-      "fonte": "TecMundo",
-      "data": "2026-10-12T15:15:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/DOWGHP263JCPJF7BW5GE5G65CI.jpg?quality=80&auth=227db5256dba861d4013ff364730a7e8d06bcfb49521c2af6cf99c4febba7592&width=710"
-    },
-    {
-      "t": "AION 2 tem estreia impressionante na Steam",
-      "d": "AION 2 registrou número recorde de jogadores, com quase 400 mil simultâneos",
-      "link": "https://flowgames.gg/aion-2-tem-estreia-impressionante-na-steam/",
-      "fonte": "Flow Games",
-      "data": "2026-10-12T15:00:14.000Z",
-      "c": "PC",
-      "img": "https://www.youtube.com/embed/IZ_zw2GksRY"
-    },
-    {
-      "t": "Jogo brasileiro Deep Dish Dungeon traz mergulho nas sombras com gameplay viciante",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/jogo-brasileiro-deep-dish-dungeon-traz-mergulho-nas-sombras-com-gameplay-viciante/",
-      "fonte": "TecMundo",
-      "data": "2026-10-12T14:00:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/LTEA2MMQARFYXPYYSQJ2XUWW7A.png?quality=80&auth=ef87c9a0f4c5786af38dd3aedd96818b5c40f95d5f28735e3eebc7f61c06c6dc&width=710"
-    },
-    {
-      "t": "PS5 desbloqueado consegue rodar jogos de PS2 em mídia física via emulador",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/ps5-desbloqueado-consegue-rodar-jogos-de-ps2-em-midia-fisica-via-emulador/",
-      "fonte": "TecMundo",
-      "data": "2026-10-12T13:34:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/YAWMIF63TVOS7JXI37LEVR4HHM.jpg?quality=80&auth=6ac655d40786bf9d87085c9835f5cca5b04c5403deebcd5b852d06d414fca37d&width=710"
-    },
-    {
-      "t": "Need for Speed Underground 2 está sendo portado para o PSP",
-      "d": "Um fã está portando o Need for Speed Underground 2 para o PSP. Confira como está o seu trabalho!",
-      "link": "https://flowgames.gg/need-for-speed-underground-2-sendo-portado-para-o-psp/",
-      "fonte": "Flow Games",
-      "data": "2026-10-12T13:00:27.000Z",
-      "c": "Geral",
-      "img": "https://www.youtube.com/embed/y-cDEKQbwGo"
-    },
-    {
-      "t": "Shift em Disney Lorcana: quando transformar um personagem",
-      "d": "Entenda como funciona Shift em Disney Lorcana, o que acontece com a base e quando transformar um personagem realmente vale a pena.",
-      "link": "https://flowgames.gg/shift-disney-lorcana-quando-transformar-personagem/",
-      "fonte": "Flow Games",
-      "data": "2026-10-12T12:08:53.000Z",
-      "c": "Geral",
-      "img": "https://static.dotgg.gg/lorcana/cards/P3-011.webp"
-    },
-    {
-      "t": "Uma das melhores fantasias cozy de 2022 chega em novo formato: o pedido perfeito para amantes do gênero",
-      "d": "Cafés & Lendas é adaptado para graphic novel Cafés & Lendas , um dos maiores sucessos do gênero \"cozy\" de 2022, vai ganhar um novo lançamento em formato de graphic novel. A obra de Travis Baldree...",
-      "link": "https://br.ign.com/livros/156690/uma-das-melhores-fantasias-cozy-de-2022-chega-em-novo-formato-o-pedido-perfeito-para-amantes-do-gene",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-12T12:00:20.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/ll_jpew.jpg"
-    },
-    {
-      "t": "Sempre nos esquecemos de que existe uma adaptação mais fiel de O Senhor dos Anéis do que os filmes de Peter Jackson",
-      "d": "Até Christopher Tolkien participou e aprovou todos os roteiros dessa versão histórica, que também contou com Ian Holm no elenco principal",
-      "link": "https://br.ign.com/o-senhor-dos-aneis/156732/sempre-nos-esquecemos-de-que-existe-uma-adaptacao-mais-fiel-de-o-senhor-dos-aneis-do-que-os-filmes-d",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-12T10:00:24.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/blob_fk3e.png"
-    },
-    {
-      "t": "Valor Mortis, Enshrouded, Castlevania Belmonts Curse e mais! Veja os lançamentos de games da semana",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/valor-mortis-enshrouded-castlevania-belmonts-curse-e-mais-veja-os-lancamentos-de-games-da-semana/",
-      "fonte": "TecMundo",
-      "data": "2026-10-11T22:30:00.000Z",
-      "c": "Lançamentos",
-      "img": "https://www.estadao.com.br/resizer/v2/CLX2VEKT6BBHDEM7WVGMXC4XRM.jpg?quality=80&auth=847d8ae9543841d0cff3bfaaa7c7ca9c226b50949276acd805573031bdfb0086&width=710"
-    },
-    {
-      "t": "Spider-Man: conheça os 6 principais jogos do Homem-Aranha",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/homem-aranha-6-jogos-que-marcaram-a-historia-do-heroi/",
-      "fonte": "TecMundo",
-      "data": "2026-10-11T22:15:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/GBD7XMNKT5HVBHMDE5GYOWUKWY.jpg?quality=80&auth=4e930f3d9b9bb1c6110d8beb14efd3b5fdc8de26899656d26d44729cf23f3a8f&width=710"
     }
   ],
   "videos": [
@@ -282,7 +282,7 @@
       "id": "fu7tRT_y3is",
       "t": "GOD OF WAR 3 REMASTERED - NATIVE PC PORT RTX 5070 | 1440P 60 FPS",
       "data": "2026-10-12T17:27:55Z",
-      "views": 35,
+      "views": 212,
       "img": "https://i.ytimg.com/vi/fu7tRT_y3is/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=fu7tRT_y3is"
     },
@@ -290,7 +290,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 7994,
+      "views": 7997,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -330,7 +330,7 @@
       "id": "lPaufeVb688",
       "t": "TEPPO LENDARIO FLORESCER DA MORTE CARREGUE BEM MAIS RAPIDO | ASSASSINS CREED SHADOWS",
       "data": "2025-06-17T14:01:09Z",
-      "views": 97,
+      "views": 99,
       "img": "https://i.ytimg.com/vi/lPaufeVb688/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=lPaufeVb688"
     },
@@ -418,7 +418,7 @@
       "id": "Vi2sXRDf-AM",
       "t": "PICTO INSANO MUITO ROUBADO TENHA O DANO DOBRADO | EXPEDITION 33",
       "data": "2025-05-17T20:00:15Z",
-      "views": 3978,
+      "views": 3979,
       "img": "https://i.ytimg.com/vi/Vi2sXRDf-AM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Vi2sXRDf-AM"
     },
@@ -426,7 +426,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6642,
+      "views": 6643,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -434,7 +434,7 @@
       "id": "UB6es2m1dGw",
       "t": "PICTO SECRETO MUITO ROUBADO TENHA VIDA INFINITA | EXPEDITION 33",
       "data": "2025-05-16T22:00:43Z",
-      "views": 5211,
+      "views": 5213,
       "img": "https://i.ytimg.com/vi/UB6es2m1dGw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=UB6es2m1dGw"
     },
@@ -442,7 +442,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 19914,
+      "views": 19919,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -474,7 +474,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3045,
+      "views": 3046,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
@@ -482,7 +482,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3484,
+      "views": 3485,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
