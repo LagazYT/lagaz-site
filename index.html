@@ -52,7 +52,7 @@ footer{border-top:1px solid var(--line);margin-top:30px;padding:28px 0;color:var
 .wrap{overflow-x:hidden}
 .card a.ler{font-weight:700;color:var(--ink);text-underline-offset:3px}.fonte{font-size:.9rem;color:var(--mut)}
 .card{overflow:hidden}.capa{display:block;width:calc(100% + 40px);max-width:none;margin:-20px -20px 4px;aspect-ratio:16/9;object-fit:cover;background:var(--line)}
-.thumbv{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;background:var(--line)}.vid>div{padding:16px 20px 20px}.feat.foto{background-size:cover;background-position:center}.feat.foto::before{display:none}
+.thumbv{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;background:var(--line)}.vid>div{padding:16px 20px 20px}.feat.foto{aspect-ratio:16/9;background-size:cover;background-position:center}.feat.foto::before{display:none}
 </style>
 </head>
 <body>
@@ -144,7 +144,12 @@ function desenhaVideos(){
   if(VIDEOS.length){
     var top=VIDEOS.slice().sort(porViews)[0];
     t.textContent=top.t;d.href=top.link;
-    if(/^https:\/\/i\.ytimg\.com\//.test(top.img)){d.classList.add("foto");d.style.backgroundImage='linear-gradient(to top,rgba(0,0,0,.78),rgba(0,0,0,.05)),url("'+top.img+'")'}
+    if(/^https:\/\/i\.ytimg\.com\//.test(top.img)){
+      var fundo=function(u){d.style.backgroundImage='linear-gradient(to top,rgba(0,0,0,.78),rgba(0,0,0,.05)),url("'+u+'")'};
+      d.classList.add("foto");fundo(top.img);
+      var hd=new Image();hd.onload=function(){if(hd.naturalWidth>200)fundo(hd.src)};
+      hd.src="https://i.ytimg.com/vi/"+encodeURIComponent(top.id)+"/maxresdefault.jpg";
+    }
   }else{t.textContent="Vídeos novos no canal Lagaz";d.href=LINK_CANAL}
 }
 document.getElementById("link-canal").href=LINK_CANAL;
