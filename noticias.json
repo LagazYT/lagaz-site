@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-13T00:21:33.845Z",
+  "atualizadoEm": "2026-10-13T00:27:36.758Z",
   "noticias": [
     {
       "t": "Chivalware chega ao Nintendo Switch 2 e PC em novembro",
@@ -91,9 +91,9 @@
     },
     {
       "t": "Cartão de memória de Nintendo Switch 2 fica R$ 800 mais barato em versão sem o Mario na caixa",
-      "d": "&nbsp;&nbsp; Estadão",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ0YzbG5RTzltV1hCNlhqZ1hpMmNGVkI2R0dUVnA3c2M0dGhNRlpfallyS295QzV6M1hUNkNKZE1JV2VNZlV1SXBqTnh6U0JfUk5GSnlaclFpdzJWX0VnWndTZmcxVlhUTmlwQVpUVzJLTzRHdFVsblgzUmlJbjhQYUE5cUNGMWo2T3lleTRmVU5TdFZ3dTluU3h4YkY0bkcwVVJXOVFoREc0REo1RzJSLWdPQUN4aUhBVEhsVFVya3p3MVRsX3FFUDJmU21hbDU10gHWAUFVX3lxTE16YkluSnBMcG5XZGNqd0VydG9OTlQtYUpsT2V4U09GRDdmXzZkY2tTQlZEa2ZpWUNjX0NfZHA2REdTVV94SnREbEhmbVlwc3I5aTMzRWxnM2NOM2VSZW5mdE11cTBIdkJxOC1KY3dHY01LVmJxRnlGYlgxYllmaVhwVUR2YUt4VnZxMllTU3JLcG9vaWJ5UmZVbDAwTkVhSWdMcl85YUNaQUw3blBibjRFX1A2bFN1NENSN1hhQW1adFFKTHZYMlBRRFZaVnhBbldFSjE0S0E?oc=5",
-      "fonte": "Estadão",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/cartao-de-memoria-de-nintendo-switch-2-fica-r-800-mais-barato-em-versao-sem-o-mario-na-caixa/",
+      "fonte": "TecMundo",
       "data": "2026-10-12T21:15:00.000Z",
       "c": "Consoles"
     },
@@ -144,6 +144,14 @@
       "fonte": "Última Ficha",
       "data": "2026-10-12T20:11:15.000Z",
       "c": "Consoles"
+    },
+    {
+      "t": "Nova política da Anthropic proíbe você de ser ‘cruel’ com o Claude",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/nova-politica-da-anthropic-proibe-voce-de-ser-cruel-com-o-claude/",
+      "fonte": "TecMundo",
+      "data": "2026-10-12T20:00:00.000Z",
+      "c": "Geral"
     },
     {
       "t": "Esquete do Saturday Night Live de Elon Musk como Wario não foi bem recebida pela Nintendo, dizem ex-funcionários",
@@ -218,28 +226,20 @@
       "c": "Geral"
     },
     {
+      "t": "Basilisk V4 Pro: novo mouse da Razer traz sensor de 50K, 14 botões e muita bateria",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/basilisk-v4-pro-novo-mouse-da-razer-traz-sensor-de-50k-14-botoes-e-muita-bateria/",
+      "fonte": "TecMundo",
+      "data": "2026-10-12T19:15:00.000Z",
+      "c": "Geral"
+    },
+    {
       "t": "BGS 2026: entrevistamos Pilar Pueblida sobre Nintendo Switch Sports Resort, Zelda e localização de jogos no Brasil",
       "d": "&nbsp;&nbsp; Nintendo Blast",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTzlUcnY0ck1lVmQ1X04tY214b2hEbnJKbk56Ung0SlB5LUJsVU56UE10Q1Y5T00zcXVOV1A4cDlNZHdKWVd3cG5sQnNrckFQU0k4dEtZMVU4WVlpYjdaakZFMmlyYVZiTDBGaVpFODVoNGY3NXFtOXRZVXpwTVNLMnBZWjAybHlKcWlZ?oc=5",
       "fonte": "Nintendo Blast",
       "data": "2026-10-12T19:01:25.000Z",
       "c": "Consoles"
-    },
-    {
-      "t": "Epic Games adia jogo da Disney com Marvel e Star Wars e aumentará uso de IA",
-      "d": "&nbsp;&nbsp; O Vício",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0wtelR5bm1BaFJKNXVselMyVng0TGo3dlF2b3VpcW0wd21aelV1eEpqTGJ4ejRzUlJkWUFWZWZNODBXaWZLUmFiVnExRklHOUd3NXd3RnExZi1jX2xBYlJtdmlZUS1uLWlqbm9qcUZDZGZnVlB3QnJjLXdNYjN2cVB5bUw1QjI3VTJnWk94UUx4dnBGQ2NOMGtkZFpjMlHSAaQBQVVfeXFMUGFvNEZvS2xseUZ2OXRVMi15Yl9tamZVMWJ6bHRCN1ZhYVZtMjAxenhvSkxGcThlX2RSSFlTMVVkbnp4Zm9yZEROMlJaZ2pVVkxlU25fellsbHFGdVJXUHlyT3BXY0xKLWNTaVJBX01lY3FOWEZjT004Yk85TEhUZUhXT3B0akxUcDVuUlRrTE8wLWI0Ml9rcVFIbVh1cTZZdmpjYkk?oc=5",
-      "fonte": "O Vício",
-      "data": "2026-10-12T18:57:56.000Z",
-      "c": "Geral"
-    },
-    {
-      "t": "Em sete meses, Felipe Neto bate um milhão de inscritos em seu canal de games",
-      "d": "&nbsp;&nbsp; Drops de Jogos",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSlhudmw4cDhIdVVVYkVoVEphOGFXTWxLaC1wUzZYT0dNVWluTHJzVjk1S0RSMkY3UmZJMDV2WXJoLWVvbTdwUUl4WGkxeDVkQVNwZHZzRXlJaG9sd3pqZlIwS0paSFMxVWJvT3NiSkdUUW5abFdOVWJ5ZmRxRDI0MVRYZUVwZ2I2MHRiQUQ4b0wzWXBsQlZXMzNOQmVQR2k5R3piXzk5bGg0Ukd5WTBNTWNkbjZHM3BvNEhwVm52SHZJSHN6eHc?oc=5",
-      "fonte": "Drops de Jogos",
-      "data": "2026-10-12T18:51:53.000Z",
-      "c": "Geral"
     }
   ]
 }
