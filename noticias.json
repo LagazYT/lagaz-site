@@ -1,55 +1,82 @@
 {
-  "atualizadoEm": "2026-10-13T02:22:35.740Z",
+  "atualizadoEm": "2026-10-13T10:05:33.461Z",
   "noticias": [
     {
-      "t": "Epic Games anuncia mudança para “máxima aceleração” no uso de IA, “sem mais código escrito à mão”",
-      "d": "&nbsp;&nbsp; R7 Entretenimento",
-      "link": "https://entretenimento.r7.com/nitro/games/outer-space/epic-games-anuncia-mudanca-para-maxima-aceleracao-no-uso-de-ia-sem-mais-codigo-escrito-a-mao-13102026/",
-      "fonte": "R7 Entretenimento",
-      "data": "2026-10-13T02:00:00.000Z",
-      "c": "Lançamentos",
-      "img": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/EH3C45WYGVEYDHDITVBVDYJ5ZI.jpeg?smart=true&auth=02798631270f366b8579e1adefbfd9ba71f8be1471dcb7a47ef4d43c4c716b7a&width=1200&height=630",
-      "orig": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNb0VhQkJ5a05BNEM2T0NkUWJmLS1fWGZ2RVlFMmhibWV4T0pSbWl4amdtNE1BU0Z6dzJ4UmlpQVdxYTZ0NFd1M2lXRFFQVk1tNW4tWkxLNlNZOGs4VkV4akZFLW5zZk1TWU01ME1IUWhaeFdyeXBEa0FlS3BNN25mT000QlJLSklQcWN6eU5nU3E5NFdaNkV2aF9mRWEzaU00N0N0dElHX3pjM3cteTRDYk1vTlJHaVdOUWVLMjJQekJqRk9zMS05SDVMQmdFdUY1Zmo3dW8tSEtGZW1GbVlvVDdHbnZSWjVGaGpkRQ?oc=5"
-    },
-    {
-      "t": "Xbox | Asha Sharma diz que a empresa \"quer criar novas franquias\" após desinvestir 5 estúdios",
-      "d": "&nbsp;&nbsp; Omelete",
-      "link": "https://www.omelete.com.br/games/xbox-asha-sharma-diz-empresa-quer-criar-novas-franquias-desinvestir-5-estudios",
-      "fonte": "Omelete",
-      "data": "2026-10-13T00:55:00.000Z",
-      "c": "Consoles",
-      "img": "https://cdn.ome.lt/23WXLIkulCWmkruqqM8NrnTm-_Y=/1200x630/smart/filters:format(webp)/extras/conteudos/i1104263.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVW5zUHczclJPWGdpYzU3Vzh0UXNNLVMxLUh3ay00eUpNdnNCeHRhcmVkSHdaYmo2Y1luV1Rraml0b1dpdk1fYkdhenNRS3lRdXBXVzlfZ1Q5SktyQkE1ZlQtQ2NTZ2tLWFREU1BEMHFucEVuTGQzeWQyb2RRZS1xWEd6X3ZCcUVmTm1CMTVyc010bDZWLUdfT3YzYkhMSnJhRHI4SnFJNlp5S2pFRjhpTQ?oc=5"
-    },
-    {
-      "t": "Nintendo vai na contramão da Sony e toma decisão importante sobre o futuro do Switch 2",
-      "d": "&nbsp;&nbsp; Terra",
-      "link": "https://www.terra.com.br/byte/nintendo-vai-na-contramao-da-sony-e-toma-decisao-importante-sobre-o-futuro-do-switch-2,dfd49504003d872828f606980509475dvyijzt3x.html",
-      "fonte": "Terra",
-      "data": "2026-10-13T00:30:00.000Z",
-      "c": "Consoles",
-      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/13/1309755399-nintendoswitch-oled.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUE5PZHBkNFNPdWY4dG95Q2F6SEpEaG9oUWl1eEJGRlRtaEVicHFLNkI3b1JNbXZWTWd3aEZNNjFjbldfWFBWLXlLQ2hvODB4aVpfclQ0OWFPUGNpeWZ6eEJGd3RDOGJTR3psN2dxRHphVnpVMDREMWJzSjQyR1hERnFtcllXU2w4TUdsM1dKRWtlTkJ2bXRVZVVGbkVCeWpiRnowNEpFcmhmMlA1ZVB4T1M0QzdwVDZhU2hjdG9UN2VNaWtVeEZhNDhvczlWc1JOM2IzR2Jnc1lydUM2LWN4THhRV3g5RVZ3aVBVQWFhSTRLcjdO?oc=5"
-    },
-    {
-      "t": "Equipe do filme de Street Fighter diz que estudou cada personagem e luta para ser fiel aos games",
-      "d": "&nbsp;&nbsp; O Vício",
-      "link": "https://ovicio.com.br/equipe-do-filme-de-street-fighter-diz-que-estudou-cada-personagem-e-luta-para-ser-fiel-aos-games/",
-      "fonte": "O Vício",
-      "data": "2026-10-12T23:54:03.000Z",
+      "t": "Epic Games adia shooter de Star Wars e Marvel para apostar tudo em IA",
+      "d": "&nbsp;&nbsp; IGN Portugal",
+      "link": "https://pt.ign.com/fortnite/163228/epic-games-adia-shooter-de-star-wars-e-marvel-para-apostar-tudo-em-ia",
+      "fonte": "IGN Portugal",
+      "data": "2026-10-13T09:45:44.000Z",
       "c": "Geral",
-      "img": "https://ovicio.com.br/wp-content/uploads/2026/10/20261012-streetfighter2.webp",
-      "orig": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUnRWcTVzaWF6Q0JlS29HcUo1TEo0by1GTVpQVmJCcU5xVGlJckZsUDluN2hqaWlyaVFuV2dscV9WSkRZSnJWak5EMG5WTTk3UzNhX1FwUEVNX3FWSGdXMXNvRFU1VjhReExxaGFWYTB0ZFJoQndSaG9hVVgwN1FwTFNLdU1wTGpmTlk0UHh3MlJlcDZWS1oyVHlwUkZaRW5acGM1VEtzcVFDRDRBMzEtYnYtajVtX0l2ZGFN?oc=5"
+      "img": "https://sm.ign.com/t/ign_pt/news/e/epic-repor/epic-reportedly-pushing-devs-to-use-ai-delays-secret-star-wa_gm86.1200.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTUtJQmtNYnhNY3NFV3ZOdGljZU9NVlVQSDBlQmZMWkdmQ0dmMXZfNGFyVGlrU1lud1M2X0pCeEsydTZJWXlPWERsUXdlTVlQcllNUUpua3JDRkJyUFpvQS1CUmptRjkzVUQxM0RUa1JCTzRLbjN4MHk4b0pQRlV4UDBCSW1WTExTVHhlWDJlOHNhbGZPajE2ZWR2a1BsWTAtYm5HTDdzRQ?oc=5"
     },
     {
-      "t": "Chivalware chega ao Nintendo Switch 2 e PC em novembro",
-      "d": "&nbsp;&nbsp; jwave.com.br",
-      "link": "https://www.jwave.com.br/2026/10/chivalware-chega-ao-nintendo-switch-2-e-pc-em-novembro/",
-      "fonte": "jwave.com.br",
-      "data": "2026-10-12T23:50:03.000Z",
+      "t": "Rússia alcança marca histórica com 17 medalhas nos World Skate Games no Paraguai",
+      "d": "&nbsp;&nbsp; Tribuna do Sertão",
+      "link": "https://www.tribunadosertao.com.br/geral/2026/10/13/995786-russia-alcanca-marca-historica-com-17-medalhas-nos-world-skate-games-no-paraguai",
+      "fonte": "Tribuna do Sertão",
+      "data": "2026-10-13T09:16:00.000Z",
+      "c": "Geral",
+      "img": "https://img.dhost.cloud/w2g6322_4LPbq3AR27IppWbMMjo=/1280x720/smart/https://tdan.nyc3.digitaloceanspaces.com/images/d6a0b/34dd1134b4d1f0b95f1128a03912be536b3.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM3AteGxEdVFvS2ZZUVdHQk9ZcGVZNlRFdkZzMENQenNDb2VZVVNYbjc2aHJpN3FpM1JDWDZYYTVPNzg3d1FmZm1jam9neGRSYnhMLTVrMFp3MUNKRk5oT3lKSU1sMFJCbVE4WUl6QTNrU2c0czFDRWJtUG9nOG9XYUFyV0ZPMFZ2d0F2eXhZM1Y5ZW5PdHl4WE1wbUtFX3Q1NHRTd2g5SEhzcnF4bF9NSFpNUVZhblhLWk5NMVRySGY3VG8xeFhOOG02bUQtYXVkWkVNS3lR?oc=5"
+    },
+    {
+      "t": "Joga um dos melhores RPGs de sempre na Nintendo Switch 2",
+      "d": "&nbsp;&nbsp; Eurogamer.pt",
+      "link": "https://www.eurogamer.pt/metaphor-refantazio-recebe-demo-na-switch-2",
+      "fonte": "Eurogamer.pt",
+      "data": "2026-10-13T09:04:21.000Z",
+      "c": "Consoles",
+      "img": "https://assetsio.gnwcdn.com/Metaphor-ReFantazio_02.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "orig": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwcjlydENRaXo0OWE0bmhMVjVoMXZUR3BaeUVHYXlld21DbG0tRUZfYmptc1E1RENNVmhTR2xmWDdqazF3aWFNSFpkYmN4TTlubFFJTTdBUVFpbFZuZ1R1anhhdWl1VTlGdVhCeEh4VXRPdFVDMUJ3?oc=5"
+    },
+    {
+      "t": "O gaming como o conhecemos tem os dias contados, avisa o pai da PlayStation",
+      "d": "&nbsp;&nbsp; Eurogamer.pt",
+      "link": "https://www.eurogamer.pt/pai-da-playstation-diz-que-a-ia-vai-transformar-o-gaming",
+      "fonte": "Eurogamer.pt",
+      "data": "2026-10-13T08:58:50.000Z",
+      "c": "Consoles",
+      "img": "https://assetsio.gnwcdn.com/06b554da9ad96ea244c2f809bd52a2a1e637a673.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "orig": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVUItc005ZDZxaERfWGtCd0RwVEdNbjB2MWc2dDNrUzEyTE5Gcm53MzBrUnpmYTlKbklNajlxTWoycnhqa1RGYWlNQ1kyVTJvWmJpMTRyb1pTWXRTSXd1R3gtQUhnc2JVVk9TUGNQWGVMbk5rQnRnVDVmM2ViZ3c5M1habXlxZjZa?oc=5"
+    },
+    {
+      "t": "Gears of War E-Day e mais chegam ao GeForce NOW",
+      "d": "O GeForce NOW, serviço de streaming da NVIDIA, recebeu Gears of War E-Day, Hellraiser e mais",
+      "link": "https://flowgames.gg/gears-of-war-e-day-e-mais-chegam-ao-geforce-now/",
+      "fonte": "Flow Games",
+      "data": "2026-10-13T08:44:04.000Z",
       "c": "PC",
-      "img": "https://www.jwave.com.br/wp-content/uploads/2026/10/Chivalware.png",
-      "orig": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmxzTm9lZzdMaWZBTUUzQ3BIeGdxTnJSUTB3NXhaUnh3TlNnM1R5dkl6dE5ONDA0cDVERk9ZZlFZcjBnV1pzMTQ4RnQ2cXlsRGdMVGxmU1I0QVlRTEFlTTRsRVFwdUF6Q0RQUTJhTGJzSEFTTS1MR2hRei12V2R4Uk5DdjRKU0lfMVVPTGlXT2EtUQ?oc=5"
+      "img": "https://flowgames.gg/wp-content/uploads/2026/10/unnamed-1.jpg"
+    },
+    {
+      "t": "Empolgou? Castlevania Belmont’s Curse tem Metacritic alto",
+      "d": "Castlevania Belmont’s Curse teve notas da imprensa e, pelo jeito, é mais um jogaço de 2026",
+      "link": "https://flowgames.gg/empolgou-castlevania-belmonts-curse-tem-metacritic-alto/",
+      "fonte": "Flow Games",
+      "data": "2026-10-13T08:25:58.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/03/Castlevania_belmont27s_curse_promotional_image.jpg"
+    },
+    {
+      "t": "Review: Castlevania Belmont’s Curse honra o nome da série",
+      "d": "Já terminamos Castlevania Belmont’s Curse, primeiro metroidvania da série em 18 anos, e você vê nosso review aqui",
+      "link": "https://flowgames.gg/review-castlevania-belmonts-curse-honra-nome-da-serie/",
+      "fonte": "Flow Games",
+      "data": "2026-10-13T07:00:47.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/07/sns_castlevania_bc2-1.jpg"
+    },
+    {
+      "t": "PlateUp! celebra o Halloween com novos trajes temáticos, cartas de desafio e desconto histórico no Steam",
+      "d": "&nbsp;&nbsp; Gamers & Games",
+      "link": "https://www.gamersegames.com.br/2026/10/12/plateup-celebra-o-halloween-com-novos-trajes-tematicos-cartas-de-desafio-e-desconto-historico-no-steam/",
+      "fonte": "Gamers & Games",
+      "data": "2026-10-13T05:28:04.000Z",
+      "c": "Ofertas",
+      "img": "https://www.gamersegames.com.br/wp-content/uploads/2026/10/PlateUp-Halloween-1.webp",
+      "orig": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVk1hbDVGOUtFLTFQWkdNQm5CUl9BY0llTUdpNFA1N3pnVTBoRFpRNlpoSnNjSk1kYkZUTkZVM1hFOWdwTU5sV2lBNGlzTEdHbnZORGRBUUh2Y3VKYlJ0eXRUMVZUSURyYUxLdUZyd2lEcWVrNGc2MjA1anFHR0N3cFpPcXRRZExyYVlwOGZzcUhoRzFqaTljUG1KMmhYZDROdTk4VjhsMnVJb0pSQkRGaUt1c1lFWURMR0t1azk5YmxyN1pkS2s0MTZseHlhV1A3cm01cHZrZEdRd0EtSHUw0gHkAUFVX3lxTE5VUTZiZkp5RFVXMWpGbFdKUjJwajZSTmljYnMxcHJGZXZJUGxCcjBneFJkQjY5YTJQdVU4UlYtV0RnanZrbTFtaGhlUVFEd1h2ZkthNFFOYmJwZ3UzMWtnVk15VlozRDZYTnduU3E1QU1xSkxZU1JFZ2MtVElOb0xLdk5yM0VDMVNaV3hSc0RCMFNzZnhad2pweUlGOW1WVzI2TXBoNmpYb21BQUpJV3JyT1Q4bFhYeHVSZFF6TkVsZTR4dXZEdkxVTjEyeWNqLWRTSWJZQmVOenZod0ZFLXUwMzBYZQ?oc=5"
     },
     {
       "t": "Cartão de memória de Nintendo Switch 2 fica R$ 800 mais barato em versão sem o Mario na caixa",
@@ -248,33 +275,6 @@
       "data": "2026-10-11T22:15:00.000Z",
       "c": "Geral",
       "img": "https://www.estadao.com.br/resizer/v2/GBD7XMNKT5HVBHMDE5GYOWUKWY.jpg?quality=80&auth=4e930f3d9b9bb1c6110d8beb14efd3b5fdc8de26899656d26d44729cf23f3a8f&width=710"
-    },
-    {
-      "t": "Diablo 1 vira FPS clássico com mod",
-      "d": "Um modder, com a ajuda da IA, conseguiu transformar o Diablo 1 em FPS. Veja como ficou!",
-      "link": "https://flowgames.gg/diablo-1-vira-fps-classico-com-mod/",
-      "fonte": "Flow Games",
-      "data": "2026-10-11T20:00:18.000Z",
-      "c": "PC",
-      "img": "https://www.youtube.com/embed/xkpLG9keQF0"
-    },
-    {
-      "t": "Into the Wind, é novo indie à la Death Stranding que chegará ao PC",
-      "d": "Jogo une jogabilidade de entregas com visual fofo das animações do Studio Ghibli",
-      "link": "https://flowgames.gg/into-the-wind-entregas-visual-a-la-studio-ghibli/",
-      "fonte": "Flow Games",
-      "data": "2026-10-11T19:00:38.000Z",
-      "c": "PC",
-      "img": "https://www.youtube.com/embed/YisxuAfgUMA"
-    },
-    {
-      "t": "Review: Young Ladies Don’t Play Fighting Games traz FGC aos animes",
-      "d": "Lutinhas e anime se encontram na temporada 1 de Young Ladies Don't Play Fighting Games",
-      "link": "https://flowgames.gg/young-ladies-dont-play-fighting-games-review-season-1/",
-      "fonte": "Flow Games",
-      "data": "2026-10-11T17:53:40.000Z",
-      "c": "Geral",
-      "img": "https://www.youtube.com/embed/ZgMYw4_noII"
     }
   ],
   "videos": [
@@ -282,7 +282,7 @@
       "id": "fu7tRT_y3is",
       "t": "GOD OF WAR 3 REMASTERED - NATIVE PC PORT RTX 5070 | 1440P 60 FPS",
       "data": "2026-10-12T17:27:55Z",
-      "views": 29,
+      "views": 35,
       "img": "https://i.ytimg.com/vi/fu7tRT_y3is/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=fu7tRT_y3is"
     },
@@ -290,7 +290,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 7987,
+      "views": 7994,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -306,7 +306,7 @@
       "id": "8KDR23NOq5c",
       "t": "A MELHOR ARMADURA PARA O INICIO DO JOGO + DERROTE O GENERAL FACILMENTE | WUCHANG!",
       "data": "2025-07-27T13:09:44Z",
-      "views": 148,
+      "views": 149,
       "img": "https://i.ytimg.com/vi/8KDR23NOq5c/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=8KDR23NOq5c"
     },
@@ -378,7 +378,7 @@
       "id": "gZSUZuB5jJ0",
       "t": "PICTO INSANO MUITO ROUBADO TENHA MAIS TURNOS | EXPEDITION 33",
       "data": "2025-05-22T17:01:01Z",
-      "views": 2328,
+      "views": 2329,
       "img": "https://i.ytimg.com/vi/gZSUZuB5jJ0/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=gZSUZuB5jJ0"
     },
@@ -402,7 +402,7 @@
       "id": "TXFvKvFD53M",
       "t": "PICTO INSANO CAUSE ATÉ 200% DE DANO NO INIMIGO | EXPEDITION 33",
       "data": "2025-05-19T14:00:46Z",
-      "views": 2871,
+      "views": 2876,
       "img": "https://i.ytimg.com/vi/TXFvKvFD53M/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=TXFvKvFD53M"
     },
@@ -442,7 +442,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 19900,
+      "views": 19914,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -450,7 +450,7 @@
       "id": "GnGWWpjnYsk",
       "t": "CONSIGA TODAS HABILIDADES DO MONOCO FACILMENTE | EXPEDITION 33",
       "data": "2025-05-14T15:00:34Z",
-      "views": 4233,
+      "views": 4235,
       "img": "https://i.ytimg.com/vi/GnGWWpjnYsk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=GnGWWpjnYsk"
     },
@@ -458,7 +458,7 @@
       "id": "ugGDjTdbvpU",
       "t": "MELHOR ARMA PARA MAELLE APÓS O NERF | EXPEDITION 33!",
       "data": "2025-05-13T17:30:14Z",
-      "views": 5517,
+      "views": 5518,
       "img": "https://i.ytimg.com/vi/ugGDjTdbvpU/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ugGDjTdbvpU"
     },
@@ -482,7 +482,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3482,
+      "views": 3484,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
