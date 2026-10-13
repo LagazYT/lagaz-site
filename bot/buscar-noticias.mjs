@@ -3,12 +3,14 @@
 import { readFile, writeFile } from "node:fs/promises";
 
 const MAX = 30;
+const CANAL_ID = "UC9xrr5otocpH79WIHu_JX4Q"; // canal Lagaz (@lagazoficial)
 const UA = { "User-Agent": "Mozilla/5.0 (robo-lagaz)" };
 const raiz = new URL("../", import.meta.url);
 const fontes = JSON.parse(await readFile(new URL("fontes.json", raiz), "utf8"));
 
-let antigas = [];
-try { antigas = JSON.parse(await readFile(new URL("noticias.json", raiz), "utf8")).noticias || []; } catch {}
+let dadosAntigos = {};
+try { dadosAntigos = JSON.parse(await readFile(new URL("noticias.json", raiz), "utf8")); } catch {}
+const antigas = dadosAntigos.noticias || [];
 const cache = new Map(antigas.map((n) => [n.orig || n.link, n]));
 
 const decode = (s) => s
@@ -91,6 +93,22 @@ async function imagemDaPagina(link) {
   } catch { return ""; }
 }
 
+// Vídeos do canal: feed público oficial do YouTube (traz os 15 mais recentes, com visualizações).
+async function lerVideos() {
+  const r = await fetch(`https://www.youtube.com/feeds/videos.xml?channel_id=${CANAL_ID}`, { headers: UA, signal: AbortSignal.timeout(20000) });
+  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  const xml = await r.text();
+  return (xml.match(/<entry[\s\S]*?<\/entry>/gi) || []).map((b) => {
+    const id = limpa(pega(b, "yt:videoId"));
+    return {
+      id, t: limpa(pega(b, "title")), data: limpa(pega(b, "published")),
+      views: Number((b.match(/<media:statistics[^>]*views="(\d+)"/i) || [])[1] || 0),
+      img: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
+      link: `https://www.youtube.com/watch?v=${id}`,
+    };
+  }).filter((v) => /^[\w-]{11}$/.test(v.id) && v.t);
+}
+
 const regras = [
   ["Ofertas", /promo|desconto|oferta|de graça|gratuito|grátis|black friday/i],
   ["PC", /\bpc\b|nvidia|rtx|\bamd\b|steam|placa de v[ií]deo|\bfps\b|dlss|fsr/i],
@@ -171,12 +189,21 @@ for (let i = 0; i < semImagem.length; i += 5) {
 }
 console.log(`Imagens: ${noticias.filter((n) => n.img).length} de ${noticias.length} notícias.`);
 
+let videos = dadosAntigos.videos || [];
+try {
+  const novos = await lerVideos();
+  if (novos.length) videos = novos;
+  console.log(`OK   Canal Lagaz (YouTube): ${novos.length} vídeos`);
+} catch (e) {
+  console.log(`ERRO Canal Lagaz (YouTube): ${e.message} (mantendo os vídeos anteriores)`);
+}
+
 if (!noticias.length) {
   console.log("Nenhuma notícia encontrada; mantendo o noticias.json atual.");
   process.exit(1);
 }
 await writeFile(
   new URL("noticias.json", raiz),
-  JSON.stringify({ atualizadoEm: new Date().toISOString(), noticias }, null, 2),
+  JSON.stringify({ atualizadoEm: new Date().toISOString(), noticias, videos }, null, 2),
 );
 console.log(`Gravadas ${noticias.length} notícias.`);
