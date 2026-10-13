@@ -13,6 +13,10 @@
     "url": "https://flowgames.gg/feed/"
   },
   {
+    "nome": "Bing Notícias – Games",
+    "url": "https://www.bing.com/news/search?q=games+videogames+PlayStation+Xbox+Nintendo&format=rss&setlang=pt-BR&cc=BR"
+  },
+  {
     "nome": "Google Notícias – Games",
     "url": "https://news.google.com/rss/search?q=games+OR+videogames+OR+PlayStation+OR+Xbox+OR+Nintendo&hl=pt-BR&gl=BR&ceid=BR:pt-419"
   },

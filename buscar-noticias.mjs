@@ -9,7 +9,7 @@ const fontes = JSON.parse(await readFile(new URL("fontes.json", raiz), "utf8"));
 
 let antigas = [];
 try { antigas = JSON.parse(await readFile(new URL("noticias.json", raiz), "utf8")).noticias || []; } catch {}
-const imagemAntiga = new Map(antigas.filter((n) => n.img).map((n) => [n.link, n.img]));
+const cache = new Map(antigas.map((n) => [n.orig || n.link, n]));
 
 const decode = (s) => s
   .replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"')
@@ -28,6 +28,7 @@ const urlImagem = (u) => {
 };
 function imagemDoItem(b, html) {
   const achados = [
+    (b.match(/<News:Image>\s*([^<\s]+)\s*<\/News:Image>/i) || [])[1],
     (b.match(/<media:content[^>]*url="([^"]+)"/i) || [])[1],
     (b.match(/<media:thumbnail[^>]*url="([^"]+)"/i) || [])[1],
     (b.match(/<enclosure[^>]*type="image[^"]*"[^>]*url="([^"]+)"/i) || [])[1],
@@ -39,6 +40,42 @@ function imagemDoItem(b, html) {
     if (u) return u;
   }
   return "";
+}
+
+// Links do Google Notícias: descobre o endereço real da matéria.
+async function decodificaGoogle(link) {
+  const id = new URL(link).pathname.split("/").pop();
+  let s = Buffer.from(id.replace(/-/g, "+").replace(/_/g, "/"), "base64").toString("latin1");
+  if (s.startsWith("\x08\x13\x22")) s = s.slice(3);
+  if (s.endsWith("\xd2\x01\x00")) s = s.slice(0, -3);
+  const tam = s.charCodeAt(0);
+  s = tam >= 0x80 ? s.slice(2, tam + 2) : s.slice(1, tam + 1);
+  if (/^https?:\/\//.test(s)) return s;
+  // formato novo: pergunta ao próprio Google
+  const opc = { headers: UA, signal: AbortSignal.timeout(15000) };
+  const pagina = await (await fetch(`https://news.google.com/articles/${id}`, opc)).text();
+  const sg = (pagina.match(/data-n-a-sg="([^"]+)"/) || [])[1];
+  const ts = (pagina.match(/data-n-a-ts="([^"]+)"/) || [])[1];
+  if (!sg || !ts) return "";
+  const interno = JSON.stringify(["garturlreq", [["X", "X", ["X", "X"], null, null, 1, 1, "US:en", null, 1, null, null, null, null, null, 0, 1], "X", "X", 1, [1, 1, 1], 1, 1, null, 0, 0, null, 0], id, Number(ts), sg]);
+  const corpo = "f.req=" + encodeURIComponent(JSON.stringify([[["Fbv4je", interno]]]));
+  const r = await fetch("https://news.google.com/_/DotsSplashUi/data/batchexecute", {
+    method: "POST", body: corpo, signal: AbortSignal.timeout(15000),
+    headers: { ...UA, "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8" },
+  });
+  const m = (await r.text()).match(/garturlres\\+",\\+"(https?:\/\/[^"\\]+)/);
+  return m ? m[1].replace(/\\u([0-9a-f]{4})/gi, (_, h) => String.fromCharCode(parseInt(h, 16))) : "";
+}
+async function desembrulha(link) {
+  try {
+    const u = new URL(link);
+    if (/(^|\.)bing\.com$/.test(u.hostname)) {
+      const real = u.searchParams.get("url");
+      return real && /^https?:\/\//.test(real) ? real : link;
+    }
+    if (u.hostname === "news.google.com" && /\/articles\//.test(u.pathname)) return (await decodificaGoogle(link)) || link;
+  } catch {}
+  return link;
 }
 
 // Plano B: abre a página da matéria e lê a imagem de capa (og:image).
@@ -110,7 +147,21 @@ const noticias = todas
   })
   .slice(0, MAX);
 
-for (const n of noticias) if (!n.img && imagemAntiga.has(n.link)) n.img = imagemAntiga.get(n.link);
+let resolvidos = 0;
+for (let i = 0; i < noticias.length; i += 3) {
+  await Promise.all(noticias.slice(i, i + 3).map(async (n) => {
+    const antiga = cache.get(n.link);
+    if (antiga && antiga.orig) { // já resolvido numa rodada anterior
+      n.orig = n.link; n.link = antiga.link;
+      if (!n.img && antiga.img) n.img = antiga.img;
+      return;
+    }
+    if (antiga && antiga.img && !n.img) n.img = antiga.img;
+    const real = await desembrulha(n.link);
+    if (real !== n.link) { n.orig = n.link; n.link = real; resolvidos++; }
+  }));
+}
+console.log(`Links do Google/Bing resolvidos: ${resolvidos}.`);
 const semImagem = noticias.filter((n) => !n.img);
 for (let i = 0; i < semImagem.length; i += 5) {
   await Promise.all(semImagem.slice(i, i + 5).map(async (n) => { n.img = await imagemDaPagina(n.link); }));
