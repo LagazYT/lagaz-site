@@ -1,55 +1,208 @@
 {
-  "atualizadoEm": "2026-10-14T10:19:21.559Z",
+  "atualizadoEm": "2026-10-14T15:14:13.006Z",
   "noticias": [
     {
-      "t": "Lula assina decreto de 'games' nesta quarta-feira (14)",
-      "d": "&nbsp;&nbsp; Rádio Itatiaia",
-      "link": "https://www.itatiaia.com.br/politica/lula-assina-decreto-de-games-nesta-quarta-feira/",
-      "fonte": "Rádio Itatiaia",
-      "data": "2026-10-14T09:41:27.000Z",
-      "c": "Geral",
-      "img": "https://admin.itatiaia.com.br/wp-content/uploads/sites/27/2026/09/55528834029_eabbae2949_k.jpg?resize=1280%2C720&w=1280&h=720&quality=75&crop=1",
-      "orig": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQXy1CMFNSRnNJMWNCUEJmQS1Fc196UWlyZDBGdzR2TUJoQ2JfQTFXNzRISTk4NTU4SFpsd2xOeXd2OWpGZHcwOU8tZDZldGVXV2Y1elA2NG1qZGJPYi1zUTdtOWFxbkQ1ZXc4dUZTNVFOLWliMFpTVkxucnR0bF9NTkdtc2RNcFN4OVpzT1Zn?oc=5"
+      "t": "DLSS 5 chega a Hogwarts Lecady, RTX Remix e mais em breve",
+      "d": "O novo DLSS 5 da NVIDIA ganhou novidades e mais jogos vão ganhar o recurso em breve",
+      "link": "https://flowgames.gg/dlss-5-chega-hogwarts-lecady-rtx-remix-mais-em-breve/",
+      "fonte": "Flow Games",
+      "data": "2026-10-14T15:11:22.000Z",
+      "c": "PC",
+      "img": "https://www.youtube.com/embed/DUp0h7TCeuM"
     },
     {
-      "t": "GBA: Nintendo Classics | Monster Rancher Advance, Metal Slug Advance e Kururin Paradise já disponíveis",
-      "d": "&nbsp;&nbsp; NintendoBoy",
-      "link": "https://nintendoboy.com.br/2026/10/gba-nintendo-classics-monster-rancher-advance-metal-slug-advance-e-kururin-paradise-ja-disponiveis/",
-      "fonte": "NintendoBoy",
-      "data": "2026-10-14T08:55:53.000Z",
+      "t": "Star Wars: Galactic Racer quer desafiar o jogador, diz CEO da Fuse Games: recompensa demais faz a gente desligar",
+      "d": "&nbsp;&nbsp; Arkade",
+      "link": "https://arkade.com.br/star-wars-galactic-racer-quer-desafiar-o-jogador-diz-ceo-da-fuse-games-recompensa-demais-faz-a-gente-desligar/",
+      "fonte": "Arkade",
+      "data": "2026-10-14T15:00:00.000Z",
+      "c": "Geral",
+      "img": "https://arkade.com.br/wp-content/uploads/2026/10/star-wars-galactic-racer-quer-desafiar-o-jogador-diz-ceo-da-fuse-games-recompens.webp",
+      "orig": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVE44bzlJemN3ZWM2ZnJJZTdETWlLeXp0VTJiZi12V244eHZYUGtvNzFNRjM0dGFiN3lyVFR4eGVscEFYQnBsYktWMDNkQ1lHUnIxbWNnb05JYWJ0eUxsOG5zVnBuYjk0cERTa0lnWmx3a0tCNWx4TWFzdWx5SlYyVmRFRjVScGxBbmZtZ1ZkLTBOc1B3WGlXQzRJNm1YbUhnYzA2LVZtbXVpR1VpVjg5ak5lWjhEMldUcUY3SVhPSmRadXdSaFk4c2tHQVo?oc=5"
+    },
+    {
+      "t": "Microsoft cria Xbox Labs, voltado a portar jogos com ajuda de ferramentas de IA",
+      "d": "&nbsp;&nbsp; Terra",
+      "link": "https://www.terra.com.br/gameon/plataformas-e-consoles/microsoft-cria-xbox-labs-voltado-a-portar-jogos-com-ajuda-de-ferramentas-de-ia,3fa69753148bb58cd388d4d2f767d349m1jbkg0i.html",
+      "fonte": "Terra",
+      "data": "2026-10-14T14:57:00.000Z",
+      "c": "Consoles",
+      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/14/xbox-1iyc8y87x5k69.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNRUU3cklJeW5GY3FIajdxNFQ0TFZBMjM5WFpZOThmcFFySUJSNnRWUUNObklRaTcwWDNXWko5SW1ncDh3ZU9MYVBGbUVvT0hoX21xV1EtOFJhVGU4aC1idWcyR2paQThIRXEwcmstWWdFNDZiaDM4TDREcDlPWDU2Wl9NZDJxVktZei12XzVNeDNpa0FYN0szY0tJa1UtZE15cVpDYkxfZEtTU0cwRDN3SHFRNllnbXNQaGVIcC0zWFVTV0JwcTEzVl9SdExCVUZGNHB3NGotaU1nN1hQTE5sclJQUk10ZzctX2pIVV9PRE5ZUFRlc1RYWWp2T3pBT2E0WnNTTjFHYnRxWnM?oc=5"
+    },
+    {
+      "t": "Rockstar desmente boato de que GTA 6 custou mais de US$ 1,5 bilhão, mas o jogo provavelmente ainda é o videogame mais caro de todos os tempos",
+      "d": "Como destaca a Bloomberg, é provável que o enorme orçamento de GTA 6 se pague rapidamente",
+      "link": "https://br.ign.com/grand-theft-auto-vi/156822/rockstar-desmente-boato-de-que-gta-6-custou-mais-de-us-15-bilhao-mas-o-jogo-provavelmente-ainda-e-o",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-14T14:52:19.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/r/rockstar-p/rockstar-pushes-back-on-rumor-gta-6-cost-more-than-15-billio_yz7z.jpg"
+    },
+    {
+      "t": "Depois de GTA 6, Rockstar não quer demorar 8 anos para lançar outro jogo",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/games/depois-de-gta-6-rockstar-nao-quer-demorar-8-anos-para-lancar-outro-jogo/",
+      "fonte": "Adrenaline",
+      "data": "2026-10-14T14:43:00.000Z",
+      "c": "Lançamentos",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeVVtcGUtN2pldGcxZ3JxTDBpMGh6YTlmYkJjYW9KU2lmTTdmSUozT0IzbUIxRDJXdkdKa3RUWWxyMFBYeV96WV9lUjhBU0lVSmk3TXAxU09jTTdtTWRnU2NVcXoycWh4eHdlNWJfRnpEaDFRVjVodGtpbkdFaWk3TUtXam9hNjZjZTR0LU9nZWNLSEVzRWVkR1lwMlVFZ0JkVjRrcXZiYU1DM18x?oc=5"
+    },
+    {
+      "t": "Nintendo aposta na nostalgia com remake de 'The Legend of Zelda: Ocarina of Time'",
+      "d": "&nbsp;&nbsp; BOL",
+      "link": "https://www.bol.uol.com.br/noticias/2026/10/14/nintendo-aposta-na-nostalgia-com-remake-de-the-legend-of-zelda-ocarina-of-time.htm",
+      "fonte": "BOL",
+      "data": "2026-10-14T14:42:40.000Z",
       "c": "Consoles",
       "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQjhRSl9iNGdqektZVVh2NjlRVk1TdnNtX0JfWVVtalAzaWdRcHl4Y3NJRG9rQkQzS1RvMEd2SVJsdmxmYmE5OUp1eGZsNFo5OWFhLXFpRnpDc1Bub0Z2TGxjeWt4TUltMHh4ZURkbGR0aUQ3bWx0Qzg2XzFQOFFPMGlKcF80Znl2X194ZGl2Vmx5UUp1a3BXVFlZN0VpQzFrMGZnbU5mZXZUOGdKR2VnYWNJbUVXdkJYV2tnMzU2enJ1QzR5dE1aVUs5SERiaU0?oc=5"
+      "orig": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaGtkTFJYRUZmY1lYeGdtOXo4OTctU2pNUHdOYTdWTzZKbGxXM3NsczZsTFRnT1lfQXAwYTFuTlRXU1Q2ZmRUYk13TFFlWGtEWU1VNXBSbGdoVHIzbV8wek1TMmhlU0ZLclNaeDYxd0hUdUFSWU5nQ21fYVd6V3ZRaDhiUUpodG00cWxZaGdyN1NlR21zOW9iS0RCcVA0U01aUmZOV1VHbllmNlNNeEZuaWFYRDBzZktweE5kSlctc0FEMTNWajA2NdIBzgFBVV95cUxPa3JkbHhwVzkzWmhUeS1fRmdnY3g4VWhPNncyQkhJVDVFZ2R2RWdvSmd4RzRiTnlBeTY5UDZaaEpFXzY1X1puTzBYa1NMOHR1dEMzNlQxMGFzR0NJeUxyQ1M5YW9uYlR0TjAyUVJNb3ZSZUFTbUxhR004d2hnZlhnRXNOOFJDLVZrNnhfV09taXY0N1p3TlZvMjFBalVBNUFSdl9pUDJQUkU0WVNld1hlSnNrVlQyMUxpYnB5anFBcy1zaTIzVkMzR3dIeFI1Zw?oc=5"
     },
     {
-      "t": "Microsoft lança Xbox Labs para apoiar projetos de recompilação",
-      "d": "&nbsp;&nbsp; Notebookcheck.info",
-      "link": "https://www.notebookcheck.info/Microsoft-lanca-Xbox-Labs-para-apoiar-projetos-de-recompilacao.1423755.0.html",
-      "fonte": "Notebookcheck.info",
-      "data": "2026-10-14T05:55:22.000Z",
-      "c": "Consoles",
-      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/teaser-xbox-labs3.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON2NpdGVwellrUTZ1SVJnRDVWS1pEOUkzOEdhQ2ZrLXhoQWtWUWtvRnFNS1h5eTYzdnIwNGFLemtSNWJLZk40NEdwdFNZLU1rZ1JPbVFfRTV4aXJHRUN6VFRfMDZyQkwtUThuMy1rR2g3a2pZLTBwX2FqUU1jblY0a2JIdzJybGdkVTJFbGozV2FvWmxkVWNYeVVkRmx4LW9UeXJsZHpqWnNGaEx5?oc=5"
+      "t": "Smartwatch HUAWEI Band 10 custa menos de R$ 200 na loja oficial da marca no Mercado Livre",
+      "d": "Com tela AMOLED de 1,47 polegada, monitoramento de saúde e bateria com autonomia de até duas semanas, o HUAWEI Band 10 é uma opção para acompanhar atividades físicas e notificações no dia a dia.",
+      "link": "https://br.ign.com/descontos/156821/smartwatch-huawei-band-10-custa-menos-de-r-200-na-loja-oficial-da-marca-no-mercado-livre",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-14T14:34:31.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_dun7.jpg"
     },
     {
-      "t": "Mais dispositivos podem se juntar ao console e ao controle Zelda do Switch 2 após registro de marca da Nintendo",
-      "d": "&nbsp;&nbsp; Notebookcheck.info",
-      "link": "https://www.notebookcheck.info/Mais-dispositivos-podem-se-juntar-ao-console-e-ao-controle-Zelda-do-Switch-2-apos-registro-de-marca-da-Nintendo.1423488.0.html",
-      "fonte": "Notebookcheck.info",
-      "data": "2026-10-14T05:54:51.000Z",
+      "t": "Samsung Smart TV 55″ Crystal UHD 4K U8000H sai por menos de R$2.790: Vision AI Companion, Modo Estádio, Xbox Cloud Gaming e mais",
+      "d": "&nbsp;&nbsp; Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/samsung-smart-tv-55-crystal-uhd-4k-u8000h-sai-por-menos-de-r2-790-vision-ai-companion-modo-estadio-xbox-cloud-gaming-e-mais/",
+      "fonte": "Hardware.com.br",
+      "data": "2026-10-14T14:33:58.000Z",
       "c": "Consoles",
-      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/TriforceDekuTree.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON3V4YjZtbmFwUFZPM3BSdkpiZjRXc05UX21RcFJ5aHBOcTAzcWJnSC1YZnQtMzk0clZtSWlmLVJqeWN5SE1IYVItVmtzOVFHR19JeWxCUEdZRllLLW82QTg1SHZONk9yX0M0LWxhWmRfaElFVDRNZWZIWWEwa0stbzhaS0F0S0F0UkxETzJqc2phS1lKVUlDU05wVkE3cy1tNVhaSFEteG5TdURHSldsaldwcS1yU2ZEdEhNc1ZGd05DTkZuNkZuUVVfVWFmWFdzanhWVm9WVy15Zi0yNG1sMUlLYnpvUjZENkVBUHBB?oc=5"
+      "img": "https://www.hardware.com.br/wp-content/uploads/2026/10/a5-1456x819.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnJVbnhzbmlUYVAtTk9ZRHlfUWV2SloxeVBfcHJ0NEY4Y0psMlItNTNlUmc3YWJoM1R1cEQwRGJ1NW5jMUVSQUNaQl9SX0NPT1g4c2VFSzZ2a0pSWGdGX1JLa3dHYVFURVFNSTJFMjgtMk9heFZPYnN2TVhkLUZtcjZWejJDX0NYWHRKM1NmLUlJZk9MV1QtNmlGMk9OaGdqTkk4MHl4OW5STVdYQm9vMjZwTTBFZjZGRkhfV2tPV3p5TGJOTXVvQmoyV29LeUJIVlZMend5dGZkbk82OE0tOVZGdEJuSkZGa25FYnc2SXNoZWZFY2dqVVRuaE8?oc=5"
     },
     {
-      "t": "Tormented Souls 2 chega à Nintendo Switch 2",
-      "d": "&nbsp;&nbsp; Notebookcheck.info",
-      "link": "https://www.notebookcheck.info/Tormented-Souls-2-chega-a-Nintendo-Switch-2.1423359.0.html",
-      "fonte": "Notebookcheck.info",
-      "data": "2026-10-14T05:54:47.000Z",
+      "t": "Zelda Ocarina of Time Remake ganha trailer estendido",
+      "d": "O novo trailer estendido de Zelda Ocarina of Time Remake mostrou bestiário e mais",
+      "link": "https://flowgames.gg/zelda-ocarina-of-time-remake-ganha-trailer-estendido/",
+      "fonte": "Flow Games",
+      "data": "2026-10-14T14:29:24.000Z",
+      "c": "Lançamentos",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/09/image-31-2.jpg"
+    },
+    {
+      "t": "Rockstar Games quer lançar jogos mais rápido após GTA 6",
+      "d": "Em entrevista à Bloomberg, a Rockstar Games revelou que não deve mais demorar tanto para lançar novos jogos como está sendo com GTA 6",
+      "link": "https://flowgames.gg/rockstar-games-lancar-jogos-mais-rapido-apos-gta-6/",
+      "fonte": "Flow Games",
+      "data": "2026-10-14T14:23:09.000Z",
+      "c": "Lançamentos",
+      "img": "https://flowgames.gg/wp-content/uploads/2023/11/image-2023-11-08T103519.704.jpg"
+    },
+    {
+      "t": "GTA 6 custou menos do que o Burj Khalifa",
+      "d": "Rockstar Games garante que GTA 6 foi mais barato que o arranha-céus famoso de Dubai",
+      "link": "https://flowgames.gg/gta-6-custou-menos-de-1-5-bilhoes-de-dolares/",
+      "fonte": "Flow Games",
+      "data": "2026-10-14T14:21:17.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/08/GTAVI_9.jpg"
+    },
+    {
+      "t": "Leaker de GTA 6 divulga novo vídeo de gameplay com trechos das missões finais e anuncia \"o fim da linha\" após colapso de esquema com criptomoedas",
+      "d": "Fãs emitem um grande alerta de spoiler",
+      "link": "https://br.ign.com/grand-theft-auto-vi/156818/leaker-de-gta-6-divulga-novo-video-de-gameplay-com-trechos-das-missoes-finais-e-anuncia-o-fim-da-lin",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-14T14:14:44.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/news/g/gta-6-leak/gta-6-leaker-releases-new-gameplay-video-showing-snippets-of_ch5q.jpg"
+    },
+    {
+      "t": "Aos 51 anos, Angelina Jolie possui 39 hectares no Camboja e ajudou a transformar área afetada pela caça furtiva em área de conservação",
+      "d": "A atriz desembarcou no Camboja para filmar Tomb Raider e nunca deixou o país por completo",
+      "link": "https://br.ign.com/angelina-jolie/156819/aos-51-anos-angelina-jolie-possui-39-hectares-no-camboja-e-ajudou-a-transformar-area-afetada-pela-ca",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-14T14:11:25.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/blob_mqf8.png"
+    },
+    {
+      "t": "Deep Dish Dungeon: estúdio brasileiro comemora lançamento de novo jogo no Xbox Game Pass",
+      "d": "\"É um privilégio pra um desenvolvedor brasileiro estar no Game Pass e ter esse lugar de destaque\"",
+      "link": "https://br.ign.com/deep-dish-dungeon/156817/deep-dish-dungeon-estudio-brasileiro-comemora-lancamento-de-novo-jogo-no-xbox-game-pass",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-14T14:00:14.000Z",
       "c": "Consoles",
-      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/Tormented-Souls-2.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcUExNGN6X0s4VUc2NWNMeHVMT2ZLTWFyc1I5M19lRDVrUEhJVVptNTg1LXRXeERFRkxwWVlJM3lVQmJvSDdrNmVFNmh3cklwQTVtZC02TW15WWNXeWFJcHNUVFYySnVKZ08wODFrTnNFejBJMnFETjFwOWpzaV9QYlJWWTRremVOTW41RG84bzF4VVE?oc=5"
+      "img": "https://sm.ign.com/ign_br/screenshot/default/blob_jubk.png"
+    },
+    {
+      "t": "Novo ID@Xbox Showcase ganha data e terá mais de 18 jogos",
+      "d": "Evento promete novos anúncios, trailers, gameplay e muito mais",
+      "link": "https://flowgames.gg/novo-idxbox-showcase-ganha-data-e-tera-mais-18-jogos/",
+      "fonte": "Flow Games",
+      "data": "2026-10-14T13:51:39.000Z",
+      "c": "Consoles",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/04/ID-Xbox-Showcase_04-20-26-1024x576-1.jpg"
+    },
+    {
+      "t": "Cyberleek divulga ‘vazamento final’ de GTA 6 e promete parar com vídeos do jogo",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/cyberleek-divulga-vazamento-final-de-gta-6-e-promete-parar-de-publicar-videos-do-jogo/",
+      "fonte": "TecMundo",
+      "data": "2026-10-14T13:43:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/M2ZQDJK4INKQFDVBHR43ME7V5M.jpg?quality=80&auth=130f2befce38fe571dfa47701805272bab3554298a287fc25fd4539629160722&width=710"
+    },
+    {
+      "t": "Rockstar Games fala sobre ataque hacker de GTA 6: ‘Parece que entraram na sua cabeça’",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/rockstar-games-fala-sobre-ataque-hacker-de-gta-6-parece-que-entraram-na-sua-cabeca/",
+      "fonte": "TecMundo",
+      "data": "2026-10-14T13:05:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/NGOCYVND5ZFCDO4BV5BEJGIPVA.jpg?quality=80&auth=a9e11474249c56926183336c290b7d714f17b20dc6b438978a149bacfaded230&width=710"
+    },
+    {
+      "t": "Obscurium, roguelike deckbuilder inspirado no folclore brasileiro, chega em 2027 para PC",
+      "d": "O jogo coloca à prova os medos primordiais dos jogadores em um Brasil “mais sombrio que o real”",
+      "link": "https://br.ign.com/games/156636/obscurium-roguelike-deckbuilder-inspirado-no-folclore-brasileiro-chega-em-2027-para-pc",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-14T13:00:34.000Z",
+      "c": "PC",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/blob_zp26.png"
+    },
+    {
+      "t": "GTA 6: leaker vaza novo vídeo com Lucia",
+      "d": "Sem revelar detalhes da história, novo vídeo vazado de GTA 6 mostra algumas das atividades que Lucia pode realizar",
+      "link": "https://flowgames.gg/gta-6-leaker-vaza-novo-video-com-lucia/",
+      "fonte": "Flow Games",
+      "data": "2026-10-14T12:59:27.000Z",
+      "c": "Lançamentos",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/09/GTA-6-Lucia-na-academia.jpg"
+    },
+    {
+      "t": "Fone sem fio da Samsung, Galaxy Buds Core cai para menos de R$ 200 na Amazon",
+      "d": "Modelo na cor preta ganhou grande desconto",
+      "link": "https://br.ign.com/descontos/156816/fone-sem-fio-da-samsung-galaxy-buds-core-cai-para-menos-de-r-200-na-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-14T12:45:43.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/galaxy-buds_wx8w.jpg"
+    },
+    {
+      "t": "Nintendo não pretende abandonar a mídia física do Switch 2, confirma executivo",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/nintendo-nao-pretende-abandonar-a-midia-fisica-do-switch-2-confirma-executivo/",
+      "fonte": "TecMundo",
+      "data": "2026-10-14T12:15:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.estadao.com.br/resizer/v2/XKKPNT5DEBGXDIQZBZU4OGXCXU.jpg?quality=80&auth=81b35745b2b2e8aac09990271fb19854b8ba2975709c2da8ae7ed0f3b12b6985&width=710"
+    },
+    {
+      "t": "RTX Spark será compatível com vários games no lançamento; confira lista",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/rtx-spark-sera-compativel-com-varios-games-no-lancamento-confira-lista/",
+      "fonte": "TecMundo",
+      "data": "2026-10-14T11:15:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/WKG7UMBRUFEPNK2AS6XWDVMNRQ.jpg?quality=80&auth=d11e3d89fca2c6f2cda43cf43c607238a5e18100ee3290716440a105da38708d&width=710"
     },
     {
       "t": "Pro Controller para Nintendo Switch 2 registra queda de 17% no valor em oferta na Amazon",
@@ -123,160 +276,6 @@
       "data": "2026-10-13T21:15:00.000Z",
       "c": "Ofertas",
       "img": "https://www.estadao.com.br/resizer/v2/W4C364IICZC7RPTRQVA3Y3DQ3E.jpg?quality=80&auth=adebd433e6a2c62bf2b56979ae3f6f6177091c48943b98d457e8a1fe406a8223&width=710"
-    },
-    {
-      "t": "Após ‘desafios’, Brasil Game Show confirma retorno em 2027 com ingressos de até R$ 2 mil",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/apos-desafios-brasil-game-show-confirma-retorno-em-2027-com-ingressos-de-ate-r-2-mil/",
-      "fonte": "TecMundo",
-      "data": "2026-10-13T20:45:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/AIIEZXPJJBBRHN22ZYJOIKHFR4.jpg?quality=80&auth=1531bd39cfd42b01f3df10ede645e2cbbdabae7bfa21e920e51b903ac647e597&width=710"
-    },
-    {
-      "t": "K/DA, grupo musical de League of Legends, reativa contas nas redes sociais e alimenta rumores sobre retorno do grupo após 6 anos",
-      "d": "Comeback?",
-      "link": "https://br.ign.com/league-of-legends/156813/kda-grupo-musical-de-league-of-legends-reativa-contas-nas-redes-sociais-e-alimenta-rumores-sobre-ret",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-13T20:28:31.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/k/kda-reacti/kda-reactivates-social-accounts-fueling-rumors-of-the-virtua_kw4b.jpg"
-    },
-    {
-      "t": "God of War: atores de Atreus e Thrud devem ser substituídos na série",
-      "d": "As gravações da série de God of War retornam este mês em Vancouver",
-      "link": "https://flowgames.gg/god-of-war-serie-busca-novos-atores-atreus-e-thrud/",
-      "fonte": "Flow Games",
-      "data": "2026-10-13T19:59:08.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/02/HCLEmz6XMAA2qIG-1.jpg"
-    },
-    {
-      "t": "Xbox anuncia Xbox Labs, que tem como objetivo tornar jogos da geração anterior jogáveis em navegadores da web",
-      "d": "“Um pequeno grupo de criadores de jogos, engenheiros e cientistas cuja função é transformar ideias emergentes em experiências que nossos jogadores e desenvolvedores possam vivenciar”",
-      "link": "https://br.ign.com/xbox/156812/xbox-anuncia-xbox-labs-que-tem-como-objetivo-tornar-jogos-da-geracao-anterior-jogaveis-em-navegadore",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-13T19:53:40.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/news/x/xbox-annou/xbox-announces-xbox-labs-aimed-in-part-at-getting-improved-o_wd4w.jpg"
-    },
-    {
-      "t": "EA Sports College Football 27 - Dynasty Screenshots and GIFs",
-      "d": "",
-      "link": "https://br.ign.com/ea-sports-college-football-27/156810/ea-sports-college-football-27-dynasty-screenshots-and-gifs",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-13T19:22:10.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/gallery/e/ea-sports-/ea-sports-college-football-27-dynasty-screenshots-and-gifs_2f9x.gif"
-    },
-    {
-      "t": "“O que me preocupa é se ainda teremos um jogo até o final desta década”: desenvolvedores de College Football da EA Sports temem, segundo relatos, que a franquia possa desaparecer até 2030",
-      "d": "O Insider Gaming observou que nem todas as suas fontes compartilhavam desses receios e que algumas acreditavam que a franquia tem um futuro promissor",
-      "link": "https://br.ign.com/ea-sports-college-football-27/156809/o-que-me-preocupa-e-se-ainda-teremos-um-jogo-ate-o-final-desta-decada-desenvolvedores-de-college-foo",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-13T19:22:10.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/e/ea-sports-/ea-sports-college-football-devs-reportedly-fear-the-franchis_tk3s.jpg"
-    },
-    {
-      "t": "PlayStation 5 Japan-Exclusive Midnight Black – Photos",
-      "d": "",
-      "link": "https://br.ign.com/playstation-5-2/156808/playstation-5-japan-exclusive-midnight-black-photos",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-13T18:37:03.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/gallery/p/playstatio/playstation-5-japan-exclusive-midnight-black-photos_tx24.jpg"
-    },
-    {
-      "t": "Sony anuncia PS5 totalmente preto por US$ 350, mas provavelmente você não vai conseguir comprá-lo",
-      "d": "É improvável que a Sony anuncie um console com preço semelhante em outros países",
-      "link": "https://br.ign.com/playstation-5-2/156807/sony-anuncia-ps5-totalmente-preto-por-us-350-mas-provavelmente-voce-nao-vai-conseguir-compra-lo",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-13T18:37:03.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/news/s/sony-annou/sony-announces-350-all-black-ps5-but-you-probably-cant-buy-i_83tx.jpg"
-    },
-    {
-      "t": "GTA 6 será lançado no PC em 2027, poucos meses após estreia no Xbox e PS5",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-sera-lancado-no-pc-em-2027-poucos-meses-apos-estreia-no-xbox-e-ps5/",
-      "fonte": "TecMundo",
-      "data": "2026-10-13T18:18:00.000Z",
-      "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/OARC5BVKTJKDHAXWS2NOLC3JII.jpg?quality=80&auth=c7669b922e908fbeeeaf24cb799a77e46cfbc11ede048ae58bb67867851b2d48&width=710"
-    },
-    {
-      "t": "Hogwarts Legacy – Nvidia DLSS 5 Screenshots",
-      "d": "",
-      "link": "https://br.ign.com/gallery/156805/hogwarts-legacy-nvidia-dlss-5-screenshots",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-13T18:03:35.000Z",
-      "c": "PC",
-      "img": "https://sm.ign.com/ign_br/gallery/h/hogwarts-l/hogwarts-legacy-nvidia-dlss-5-screenshots_2njs.jpg"
-    },
-    {
-      "t": "Nvidia traz DLSS 5 para Hogwarts Legacy, mas alguns fãs não conseguem notar a diferença",
-      "d": "Um modelo mais novo e mais rápido",
-      "link": "https://br.ign.com/hogwarts-legacy/156804/nvidia-traz-dlss-5-para-hogwarts-legacy-mas-alguns-fas-nao-conseguem-notar-a-diferenca",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-13T18:03:35.000Z",
-      "c": "PC",
-      "img": "https://sm.ign.com/ign_br/news/n/nvidia-bri/nvidia-brings-dlss-5-to-hogwarts-legacy-but-some-fans-cant-t_tzdb.jpg"
-    },
-    {
-      "t": "Jogos de PC em oferta na Suuper Feirinha Nuuvem; até 90% de desconto",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-na-suuper-feirinha-nuuvem-ate-90-de-desconto-9/",
-      "fonte": "Adrenaline",
-      "data": "2026-10-13T17:14:00.000Z",
-      "c": "Ofertas",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcFc5eXNkdGgyYzg4czBSS3hJRmczZVFncnNfU3NFc2tIcldSc2h1RF9jdmZTc3V3OFpISEZ5Qzhsb1JyNWY5Ujh2M2pxWk5kdGR3aDhybHVZU2R2aFo5N3k5YWRWcXNuTGtxZHlkQWlQNkdJajZacldDWkZVOXZKQXY2b2FpVjQ0VzNucGU1dUJ6Nkt5c1N4eFoxZTk2NjJacHYyMkdpRWN3QWsxS2ZCeW9UZ20?oc=5"
-    },
-    {
-      "t": "Loja pirata traz mais de 1 mil jogos grátis para o PS5 em versão desbloqueada, mas pode dar ban",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/overdrive-loja-pirata-traz-mais-de-1000-jogos-gratis-para-o-ps5-em-versao-desbloqueada/",
-      "fonte": "TecMundo",
-      "data": "2026-10-13T17:07:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.estadao.com.br/resizer/v2/ZBWVSPXCNBMM5ESUIRSFM73LME.jpg?quality=80&auth=ef13d7b97f8f7d88b08b45132519125133f0a001afb0967b01e11ca4d44cf093&width=710"
-    },
-    {
-      "t": "Os filmes mais pirateados da semana via torrent (05 a 11/10)",
-      "d": "Veja quais são os 10 filmes que mais foram pirateados durante a última semana via torrent",
-      "link": "https://flowgames.gg/filmes-mais-pirateados-semana-via-torrent-05-a-11-10/",
-      "fonte": "Flow Games",
-      "data": "2026-10-13T16:27:35.000Z",
-      "c": "Geral",
-      "img": "https://www.youtube.com/embed/bwt2-nyEP0A"
-    },
-    {
-      "t": "Saiba qual é a agenda de podcasts do Flow Games nesta semana",
-      "d": "A gente conta para você quais são os programas, temas e convidados dos próximos podcasts do Flow Games – incluindo sua data e horário",
-      "link": "https://flowgames.gg/confira-agenda-podcasts-flow-games-nesta-semana/",
-      "fonte": "Flow Games",
-      "data": "2026-10-13T16:22:54.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2023/11/image-2023-11-06T132528.896.jpg"
-    },
-    {
-      "t": "BGS 2026 e os 5 melhores jogos indie da feira",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/bgs-2026-e-os-5-melhores-jogos-indie-da-feira/",
-      "fonte": "TecMundo",
-      "data": "2026-10-13T16:15:00.000Z",
-      "c": "Eventos",
-      "img": "https://www.estadao.com.br/resizer/v2/RDAE4H722RC27IMEYLWMON365A.jpg?quality=80&auth=74870de1eb39d8761e8e8e9b5d8e551d060bf8197f797a05bf927962edf38cd1&width=710"
-    },
-    {
-      "t": "Nintendo acalma os fãs e reforça compromisso com as mídias físicas",
-      "d": "Na contramão da indústria, a Nintendo confirma que continuará lançando jogos em versão física",
-      "link": "https://flowgames.gg/nintendo-reforca-o-compromisso-com-as-midias-fisicas/",
-      "fonte": "Flow Games",
-      "data": "2026-10-13T16:03:41.000Z",
-      "c": "Consoles",
-      "img": "https://flowgames.gg/wp-content/uploads/2025/04/Nintendo.jpg"
     }
   ],
   "videos": [
@@ -284,7 +283,7 @@
       "id": "fu7tRT_y3is",
       "t": "GOD OF WAR 3 REMASTERED - NATIVE PC PORT RTX 5070 | 1440P 60 FPS",
       "data": "2026-10-12T17:27:55Z",
-      "views": 706,
+      "views": 785,
       "img": "https://i.ytimg.com/vi/fu7tRT_y3is/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=fu7tRT_y3is"
     },
@@ -396,7 +395,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3484,
+      "views": 3485,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -420,7 +419,7 @@
       "id": "Vi2sXRDf-AM",
       "t": "PICTO INSANO MUITO ROUBADO TENHA O DANO DOBRADO | EXPEDITION 33",
       "data": "2025-05-17T20:00:15Z",
-      "views": 3980,
+      "views": 3982,
       "img": "https://i.ytimg.com/vi/Vi2sXRDf-AM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Vi2sXRDf-AM"
     },
@@ -428,7 +427,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6646,
+      "views": 6647,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -444,7 +443,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 19925,
+      "views": 19930,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -576,7 +575,7 @@
         "Switch"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrky.jpg",
-      "hype": 80,
+      "hype": 81,
       "link": "https://www.igdb.com/games/castlevania-belmonts-curse"
     },
     {
@@ -3893,6 +3892,7 @@
       "t": "Hollow Home",
       "data": "2026-12-31",
       "plats": [
+        "Xbox",
         "PC"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8pa6.jpg",
