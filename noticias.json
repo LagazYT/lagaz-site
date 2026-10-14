@@ -1,55 +1,64 @@
 {
-  "atualizadoEm": "2026-10-14T05:02:47.364Z",
+  "atualizadoEm": "2026-10-14T10:19:21.559Z",
   "noticias": [
     {
-      "t": "Três novos jogos de GBA chegando ao Nintendo Classics",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/nintendo/tres-novos-jogos-de-gba-chegando-ao-nintendo-classics/",
-      "fonte": "Adrenaline",
-      "data": "2026-10-14T03:17:00.000Z",
+      "t": "Lula assina decreto de 'games' nesta quarta-feira (14)",
+      "d": "&nbsp;&nbsp; Rádio Itatiaia",
+      "link": "https://www.itatiaia.com.br/politica/lula-assina-decreto-de-games-nesta-quarta-feira/",
+      "fonte": "Rádio Itatiaia",
+      "data": "2026-10-14T09:41:27.000Z",
+      "c": "Geral",
+      "img": "https://admin.itatiaia.com.br/wp-content/uploads/sites/27/2026/09/55528834029_eabbae2949_k.jpg?resize=1280%2C720&w=1280&h=720&quality=75&crop=1",
+      "orig": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQXy1CMFNSRnNJMWNCUEJmQS1Fc196UWlyZDBGdzR2TUJoQ2JfQTFXNzRISTk4NTU4SFpsd2xOeXd2OWpGZHcwOU8tZDZldGVXV2Y1elA2NG1qZGJPYi1zUTdtOWFxbkQ1ZXc4dUZTNVFOLWliMFpTVkxucnR0bF9NTkdtc2RNcFN4OVpzT1Zn?oc=5"
+    },
+    {
+      "t": "GBA: Nintendo Classics | Monster Rancher Advance, Metal Slug Advance e Kururin Paradise já disponíveis",
+      "d": "&nbsp;&nbsp; NintendoBoy",
+      "link": "https://nintendoboy.com.br/2026/10/gba-nintendo-classics-monster-rancher-advance-metal-slug-advance-e-kururin-paradise-ja-disponiveis/",
+      "fonte": "NintendoBoy",
+      "data": "2026-10-14T08:55:53.000Z",
       "c": "Consoles",
       "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNEVDQU94SXVYMU9XSE50Tk1yb0JETjBQeDVzZHVhRlhXZmRnS3RHZWxiQkQwZ0lrNEw5QkxuOGQ1bXBYZ3Rqdjg0RDJHQ2p4Vk0xUHJ6RTN2S3RNclJ5ZGx5UjdfdmUyU3R1LVdMUXNQY1NveDNXakVlUGdKTzhFTFo3TEJaNEUxaXBaeHV6Rl9jM3NoQnZXQjBMWnJXTy12?oc=5"
+      "orig": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQjhRSl9iNGdqektZVVh2NjlRVk1TdnNtX0JfWVVtalAzaWdRcHl4Y3NJRG9rQkQzS1RvMEd2SVJsdmxmYmE5OUp1eGZsNFo5OWFhLXFpRnpDc1Bub0Z2TGxjeWt4TUltMHh4ZURkbGR0aUQ3bWx0Qzg2XzFQOFFPMGlKcF80Znl2X194ZGl2Vmx5UUp1a3BXVFlZN0VpQzFrMGZnbU5mZXZUOGdKR2VnYWNJbUVXdkJYV2tnMzU2enJ1QzR5dE1aVUs5SERiaU0?oc=5"
     },
     {
-      "t": "Master Games Brasil reúne 19 modalidades no Rio e em Niterói até domingo",
-      "d": "&nbsp;&nbsp; ABIH-RJ",
-      "link": "https://abihrj.com.br/noticias/master-games-brasil-rio-2026-19-modalidades-rio-niteroi-world-masters-games-2031",
-      "fonte": "ABIH-RJ",
-      "data": "2026-10-14T03:14:32.000Z",
-      "c": "Geral",
-      "img": "https://abihrj.com.br/wp-content/uploads/2026/10/master-games-brasil-rio-2026.webp",
-      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWJoWE9UWlJhQ29Jend0dmJrVHdtZUZ6RlVsTi1vcG5XUEJMWUMzVnJ1M1pILVFTWHNJRkhLZFBoRjVCbzhpZ2hZZkVzbjBkdmQwTHJVNVRIakRzVE1BZGpIbXJySWNxYWMtN3BlbXlMc1Npc053elRqX0RiQ0REVklFa0hqcGlTRTJ2UGdydTZSckljSVZoOFRCV3hSWFpIdm9LLXRCdmg3THFxS0ZSMw?oc=5"
-    },
-    {
-      "t": "Filma Campinas promove encontro com setor de games para discutir políticas públicas",
-      "d": "&nbsp;&nbsp; Campinas.com.br",
-      "link": "https://campinas.com.br/agenda/filma-campinas-promove-encontro-com-setor-de-games-para-discutir-politicas-publicas/",
-      "fonte": "Campinas.com.br",
-      "data": "2026-10-14T03:06:18.000Z",
-      "c": "Ofertas",
-      "img": "https://campinas.com.br/wp-content/uploads/2026/10/encontro-com-setor-de-games.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTU9KOFAtMnQ1Ri03blB3V2cwR2Vtc09ZMk1nUS1HWWNHQ25Gb2RwMzNKQ0VpdTFFSWlWbW00MDdzUkVzTjI1blh1RnY3V0Q1dmx1UW1xdFFCV2loR1hxeTFJSjdGY0d1VHRhaTE1azJsblptVmNmQVF3cVV1dVZhc09lNVY1S1BfckxYVmo5OWtXN1FHZl92d2l0VmNNRWtmUVlScnNNMDFOT3NmVjMwMDVHQUh2Zw?oc=5"
-    },
-    {
-      "t": "Shin-chan terá dois jogos no Nintendo Switch 2 em 2027",
-      "d": "&nbsp;&nbsp; jwave.com.br",
-      "link": "https://www.jwave.com.br/2026/10/shin-chan-tera-dois-jogos-no-nintendo-switch-2-em-2027/",
-      "fonte": "jwave.com.br",
-      "data": "2026-10-14T02:40:02.000Z",
+      "t": "Microsoft lança Xbox Labs para apoiar projetos de recompilação",
+      "d": "&nbsp;&nbsp; Notebookcheck.info",
+      "link": "https://www.notebookcheck.info/Microsoft-lanca-Xbox-Labs-para-apoiar-projetos-de-recompilacao.1423755.0.html",
+      "fonte": "Notebookcheck.info",
+      "data": "2026-10-14T05:55:22.000Z",
       "c": "Consoles",
-      "img": "https://www.jwave.com.br/wp-content/uploads/2026/10/182591-35-9d3319a7d11178317ed8f6c34a77769d-1000x562-1.webp",
-      "orig": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ3JHTVFlMWtNTm83SnFCRVYyR2pzUDdtTURlWTNBRnVTd1VnQkpVZ0Jjd1RvNnN5d3NsN3F2VjZWUzZPMllNeklqRmJ6MWgtUU9kRE1ZYmV1c0FrMnJCWk5XWW9LLU5vYVFlZjFQU09MaDFuTHk4S0NDQnpIck05ekdyWEwxQk1SRGlkd1BMV1VVQQ?oc=5"
+      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/teaser-xbox-labs3.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON2NpdGVwellrUTZ1SVJnRDVWS1pEOUkzOEdhQ2ZrLXhoQWtWUWtvRnFNS1h5eTYzdnIwNGFLemtSNWJLZk40NEdwdFNZLU1rZ1JPbVFfRTV4aXJHRUN6VFRfMDZyQkwtUThuMy1rR2g3a2pZLTBwX2FqUU1jblY0a2JIdzJybGdkVTJFbGozV2FvWmxkVWNYeVVkRmx4LW9UeXJsZHpqWnNGaEx5?oc=5"
+    },
+    {
+      "t": "Mais dispositivos podem se juntar ao console e ao controle Zelda do Switch 2 após registro de marca da Nintendo",
+      "d": "&nbsp;&nbsp; Notebookcheck.info",
+      "link": "https://www.notebookcheck.info/Mais-dispositivos-podem-se-juntar-ao-console-e-ao-controle-Zelda-do-Switch-2-apos-registro-de-marca-da-Nintendo.1423488.0.html",
+      "fonte": "Notebookcheck.info",
+      "data": "2026-10-14T05:54:51.000Z",
+      "c": "Consoles",
+      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/TriforceDekuTree.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON3V4YjZtbmFwUFZPM3BSdkpiZjRXc05UX21RcFJ5aHBOcTAzcWJnSC1YZnQtMzk0clZtSWlmLVJqeWN5SE1IYVItVmtzOVFHR19JeWxCUEdZRllLLW82QTg1SHZONk9yX0M0LWxhWmRfaElFVDRNZWZIWWEwa0stbzhaS0F0S0F0UkxETzJqc2phS1lKVUlDU05wVkE3cy1tNVhaSFEteG5TdURHSldsaldwcS1yU2ZEdEhNc1ZGd05DTkZuNkZuUVVfVWFmWFdzanhWVm9WVy15Zi0yNG1sMUlLYnpvUjZENkVBUHBB?oc=5"
+    },
+    {
+      "t": "Tormented Souls 2 chega à Nintendo Switch 2",
+      "d": "&nbsp;&nbsp; Notebookcheck.info",
+      "link": "https://www.notebookcheck.info/Tormented-Souls-2-chega-a-Nintendo-Switch-2.1423359.0.html",
+      "fonte": "Notebookcheck.info",
+      "data": "2026-10-14T05:54:47.000Z",
+      "c": "Consoles",
+      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/Tormented-Souls-2.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcUExNGN6X0s4VUc2NWNMeHVMT2ZLTWFyc1I5M19lRDVrUEhJVVptNTg1LXRXeERFRkxwWVlJM3lVQmJvSDdrNmVFNmh3cklwQTVtZC02TW15WWNXeWFJcHNUVFYySnVKZ08wODFrTnNFejBJMnFETjFwOWpzaV9QYlJWWTRremVOTW41RG84bzF4VVE?oc=5"
     },
     {
       "t": "Pro Controller para Nintendo Switch 2 registra queda de 17% no valor em oferta na Amazon",
-      "d": "&nbsp;&nbsp; IGN Brasil",
+      "d": "O controle oficial da Nintendo entrou em oferta na Amazon com 17% de desconto e reúne botões GL/GR programáveis, botão C para o GameChat e bateria de cerca de 40 horas. Veja os detalhes e confira...",
       "link": "https://br.ign.com/descontos/156815/pro-controller-para-nintendo-switch-2-registra-queda-de-17-no-valor-em-oferta-na-amazon",
       "fonte": "IGN Brasil",
-      "data": "2026-10-14T02:39:13.000Z",
+      "data": "2026-10-14T02:37:44.000Z",
       "c": "Ofertas",
-      "img": "https://sm.ign.com/t/ign_br/screenshot/default/controle-pro-nintendo-switch-2-thumb_vybz.1200.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRDdMeEcyUmVDbFdfcnc5aEd2UVBBSXhZcFRsUEJBOF9sVVFmWVRzVFBHQy11MzR6OVJ1ZTQ3a0FUQmNfUndaNFZORG1JYkVjRTRfYnMtX3NKMGs4TEZHcVBwRVBBd2dCSGhicFdjTk1uWEV6QTd0SWtseHRJWmh0R1JkeWpZVUdiVy1LTzdoOVBDUTZTM1pIZmhZaVc0TnhMbUdTMlNyelVjUWtNMTBvX25ZcEQzZWNuLWxKOGdQN3g?oc=5"
+      "img": "https://sm.ign.com/ign_br/screenshot/default/controle-pro-nintendo-switch-2-thumb_vybz.jpg"
     },
     {
       "t": "Pré-venda liberada! Jogo The Legend of Zelda: Ocarina of Time para Nintendo Switch 2 já está disponível no Brasil",
@@ -268,15 +277,6 @@
       "data": "2026-10-13T16:03:41.000Z",
       "c": "Consoles",
       "img": "https://flowgames.gg/wp-content/uploads/2025/04/Nintendo.jpg"
-    },
-    {
-      "t": "Jogo esquecido da EA Games dos anos 90 vai ter remaster",
-      "d": "Um clássico jogo de nave da EA Games que tem Mark Hamill vai ter uma remasterização de peso",
-      "link": "https://flowgames.gg/jogo-esquecido-ea-games-dos-anos-90-vai-ter-remaster/",
-      "fonte": "Flow Games",
-      "data": "2026-10-13T15:56:24.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/10/MV5BYTVjNDJjMzYtNTM0Ni00M2ZkLWFmZjgtYmZmYzMzZjg3ODM1XkEyXkFqcGc@._V1_.jpg"
     }
   ],
   "videos": [
@@ -284,7 +284,7 @@
       "id": "fu7tRT_y3is",
       "t": "GOD OF WAR 3 REMASTERED - NATIVE PC PORT RTX 5070 | 1440P 60 FPS",
       "data": "2026-10-12T17:27:55Z",
-      "views": 591,
+      "views": 706,
       "img": "https://i.ytimg.com/vi/fu7tRT_y3is/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=fu7tRT_y3is"
     },
@@ -324,7 +324,7 @@
       "id": "eC8zHzW_tcc",
       "t": "KANABO LENDÁRIO PILAR VENENOSO COM O DANO INSANO | ASSASSINS CREED SHADOWS",
       "data": "2025-06-18T14:01:06Z",
-      "views": 157,
+      "views": 158,
       "img": "https://i.ytimg.com/vi/eC8zHzW_tcc/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=eC8zHzW_tcc"
     },
@@ -428,7 +428,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6645,
+      "views": 6646,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -452,7 +452,7 @@
       "id": "GnGWWpjnYsk",
       "t": "CONSIGA TODAS HABILIDADES DO MONOCO FACILMENTE | EXPEDITION 33",
       "data": "2025-05-14T15:00:34Z",
-      "views": 4235,
+      "views": 4236,
       "img": "https://i.ytimg.com/vi/GnGWWpjnYsk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=GnGWWpjnYsk"
     },
@@ -484,7 +484,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3490,
+      "views": 3493,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
@@ -2410,7 +2410,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa7pa.jpg",
-      "hype": 5,
+      "hype": 6,
       "link": "https://www.igdb.com/games/gothic-3-classic"
     },
     {
