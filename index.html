@@ -92,6 +92,66 @@ footer::before{content:"";display:block;width:64px;height:3px;background:var(--y
 @media (max-width:760px){.hero{grid-template-columns:1fr;padding-top:32px}nav a{padding:6px 6px}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
 .mes{margin:30px 0 14px;font:400 .95rem "Share Tech Mono",monospace;letter-spacing:.14em;text-transform:uppercase;color:var(--y)}.mes::before{content:"> ";color:var(--r)}.dia{background:var(--y);color:#000;font:700 .95rem "Share Tech Mono",monospace;letter-spacing:.08em;padding:7px 12px}
+
+.wrap{max-width:1200px}
+body{padding-bottom:96px}
+.layout{display:grid;grid-template-columns:minmax(0,1fr) 310px;grid-template-areas:"topo lateral" "conteudo lateral";column-gap:32px;align-items:start}
+.topo{grid-area:topo;min-width:0}.conteudo{grid-area:conteudo;min-width:0}
+.lateral{grid-area:lateral;position:sticky;top:16px;padding-top:40px}
+.hero{display:block;padding:36px 0 26px}
+.hero h1{font-size:clamp(1.9rem,4.2vw,3.1rem)}
+.hero p.sub{max-width:60ch;margin:14px 0 24px}
+.feat,.feat.foto{aspect-ratio:2/1}
+.abas{display:flex;gap:8px;flex-wrap:wrap;margin:30px 0 0;padding-bottom:14px;border-bottom:1px solid var(--line)}
+.abas button{font:700 .95rem "Chakra Petch",system-ui,sans-serif;text-transform:uppercase;letter-spacing:.06em;background:var(--panel);color:var(--mut);border:1px solid var(--line);padding:11px 18px;cursor:pointer;
+clip-path:polygon(0 0,calc(100% - 10px) 0,100% 10px,100% 100%,10px 100%,0 calc(100% - 10px));transition:color .15s,border-color .15s}
+.abas button:hover{color:var(--ink);border-color:var(--y)}
+.abas button[aria-selected="true"]{background:var(--y);color:#000;border-color:var(--y)}
+section[hidden]{display:none}
+section{padding-top:30px}
+#canal{margin-top:24px;border-top:1px solid var(--line)}
+
+.janela{display:flex;flex-direction:column;height:min(660px,calc(100vh - 56px));background:var(--panel);border-left:3px solid var(--r);
+clip-path:polygon(0 0,calc(100% - 16px) 0,100% 16px,100% 100%,16px 100%,0 calc(100% - 16px))}
+.janela-topo{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:12px 16px;background:var(--y);color:#000;font:400 .82rem "Share Tech Mono",monospace;letter-spacing:.1em;text-transform:uppercase}
+.janela-topo i{font-style:normal;color:var(--r);font-weight:700}
+.ticker{position:relative;flex:1;overflow:hidden;-webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 22px,#000 calc(100% - 22px),transparent 100%);mask-image:linear-gradient(to bottom,transparent 0,#000 22px,#000 calc(100% - 22px),transparent 100%)}
+.ticker.manual{overflow-y:auto}
+.ticker-trilho{animation-name:sobe;animation-timing-function:linear;animation-iteration-count:infinite;animation-duration:60s;will-change:transform}
+.ticker:hover .ticker-trilho,.ticker:focus-within .ticker-trilho{animation-play-state:paused}
+@keyframes sobe{to{transform:translateY(-50%)}}
+.tk{display:grid;grid-template-columns:46px 44px minmax(0,1fr);gap:10px;align-items:center;padding:10px 14px;min-height:78px;border-bottom:1px solid var(--line);text-decoration:none}
+a.tk:hover{background:var(--panel2)}
+.tk-d{display:flex;flex-direction:column;align-items:center;justify-content:center;border:1px solid var(--y);color:var(--y);font:400 .66rem "Share Tech Mono",monospace;letter-spacing:.04em;line-height:1.1;padding:5px 0;background:var(--bg)}
+.tk-d b{font:700 1.15rem "Chakra Petch",sans-serif;color:var(--ink)}
+.tk img,.tk .sem{display:block;width:44px;height:58px;object-fit:cover;background:var(--line)}
+.tk img{filter:grayscale(.35)}
+.tk-t{display:block;font-weight:600;font-size:.9rem;line-height:1.2}
+.tk-p{display:block;margin-top:3px;font:400 .7rem "Share Tech Mono",monospace;color:var(--mut);text-transform:uppercase;letter-spacing:.06em}
+.vazio{padding:20px 16px;color:var(--mut);font-size:.9rem}
+
+.radio{position:fixed;left:16px;bottom:16px;z-index:60;display:flex;align-items:center;gap:12px;max-width:calc(100vw - 32px);background:var(--panel);border:1px solid var(--y);padding:8px 14px 8px 8px}
+.radio[hidden]{display:none}
+.radio button{flex:none;width:40px;height:40px;background:var(--y);color:#000;border:0;font:700 .95rem "Share Tech Mono",monospace;cursor:pointer}
+.radio button:hover{background:var(--r);color:#fff}
+.radio #radio-prox{width:34px;height:34px;background:transparent;color:var(--y);border:1px solid var(--line)}
+.radio #radio-prox:hover{border-color:var(--y);background:transparent;color:var(--y)}
+.radio-info{display:flex;flex-direction:column;min-width:0;width:140px}
+.radio-nome{font:400 .68rem "Share Tech Mono",monospace;color:var(--r);letter-spacing:.16em}
+.radio-faixa{font:400 .8rem "Share Tech Mono",monospace;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.radio input[type=range]{width:80px;accent-color:var(--y)}
+.eq{display:none;gap:2px;align-items:flex-end;height:18px}
+.radio.tocando .eq{display:flex}
+.eq i{width:3px;height:4px;background:var(--r);animation:eq .9s ease-in-out infinite}
+.eq i:nth-child(2){animation-delay:.2s}.eq i:nth-child(3){animation-delay:.4s}
+@keyframes eq{50%{height:18px}}
+
+@media (max-width:980px){
+  .layout{grid-template-columns:minmax(0,1fr);grid-template-areas:"topo" "lateral" "conteudo"}
+  .lateral{position:static;padding-top:0}
+  .janela{height:360px}
+}
+@media (max-width:520px){.radio input[type=range]{width:56px}.radio-info{width:96px}}
 </style>
 </head>
 <body>
@@ -101,54 +161,76 @@ footer::before{content:"";display:block;width:64px;height:3px;background:var(--y
   <nav><a href="#noticias">Notícias</a><a href="#lancamentos">Lançamentos</a><a href="#videos">Vídeos</a><a href="#canal">Canal</a></nav>
 </header>
 
-<main id="top">
-<div class="hero">
-  <div>
-    <p class="eyebrow">Sistema online // games + canal</p>
-    <h1>Games, notícias e o canal <em>Lagaz</em></h1>
-    <p class="sub">O que está rolando no mundo dos jogos, os próximos lançamentos e os vídeos do canal, num lugar só.</p>
-    <a class="btn" href="#videos">Ver vídeos</a>
+<main id="top" class="layout">
+  <div class="topo">
+    <div class="hero">
+      <p class="eyebrow">Sistema online // games + canal</p>
+      <h1>Games, notícias e o canal <em>Lagaz</em></h1>
+      <p class="sub">O que está rolando no mundo dos jogos, os próximos lançamentos e os vídeos do canal, num lugar só.</p>
+      <a class="feat" href="#" id="destaque" aria-label="Vídeo em destaque">
+        <div class="play"></div>
+        <span id="destaque-titulo"></span>
+      </a>
+    </div>
+    <div class="faixa" aria-hidden="true"></div>
   </div>
-  <a class="feat" href="#" id="destaque" aria-label="Vídeo em destaque">
-    <div class="play"></div>
-    <span id="destaque-titulo"></span>
-  </a>
-</div>
-<div class="faixa" aria-hidden="true"></div>
 
-<section id="noticias">
-  <div class="head">
-    <h2>Notícias de games</h2>
-    <div class="chips" id="chips" role="group" aria-label="Filtrar por categoria"></div>
+  <aside class="lateral" aria-label="Jogos que vão lançar">
+    <div class="janela">
+      <div class="janela-topo"><span>Próximos lançamentos</span><i>● live</i></div>
+      <div class="ticker" id="ticker"><div class="ticker-trilho" id="ticker-trilho"></div></div>
+    </div>
+  </aside>
+
+  <div class="conteudo">
+    <div class="abas" id="abas" role="tablist" aria-label="Seções do site">
+      <button type="button" role="tab" id="aba-noticias" aria-controls="noticias" aria-selected="true">Notícias</button>
+      <button type="button" role="tab" id="aba-lancamentos" aria-controls="lancamentos" aria-selected="false" tabindex="-1">Lançamentos de jogos</button>
+      <button type="button" role="tab" id="aba-videos" aria-controls="videos" aria-selected="false" tabindex="-1">Vídeos do canal</button>
+    </div>
+
+    <section id="noticias" role="tabpanel" aria-labelledby="aba-noticias">
+      <div class="head">
+        <h2>Notícias de games</h2>
+        <div class="chips" id="chips" role="group" aria-label="Filtrar por categoria"></div>
+      </div>
+      <div class="note" id="atualizado">Notícias atualizadas automaticamente pelo robô.</div>
+      <div class="grid" id="noticias-grid"></div>
+    </section>
+
+    <section id="lancamentos" role="tabpanel" aria-labelledby="aba-lancamentos" hidden>
+      <div class="head">
+        <h2>Lançamentos de jogos</h2>
+        <div class="chips" id="chips-lanc" role="group" aria-label="Filtrar por plataforma"></div>
+      </div>
+      <div id="lanc-grid"></div>
+      <p class="fonte">As datas podem mudar. Dados e capas: <a href="https://www.igdb.com" target="_blank" rel="noopener">IGDB.com</a>.</p>
+    </section>
+
+    <section id="videos" role="tabpanel" aria-labelledby="aba-videos" hidden>
+      <div class="head"><h2>Vídeos do canal</h2><div class="chips" id="chips-videos" role="group" aria-label="Ordenar vídeos"></div></div>
+      <div class="grid" id="videos-grid"></div>
+    </section>
+
+    <section id="canal">
+      <div class="head"><h2>Sobre o canal</h2></div>
+      <div class="card">
+        <p>Lagaz é o canal para mergulhar no universo dos games: gameplays, dicas e desde clássicos até lançamentos recentes. Inscreva-se e ative o sininho para não perder os próximos vídeos.</p>
+        <a class="btn" style="align-self:flex-start" href="#" id="link-canal">Abrir canal no YouTube</a>
+      </div>
+    </section>
   </div>
-  <div class="note" id="atualizado">Notícias atualizadas automaticamente pelo robô.</div>
-  <div class="grid" id="noticias-grid"></div>
-</section>
-
-<section id="lancamentos">
-  <div class="head">
-    <h2>Próximos lançamentos</h2>
-    <div class="chips" id="chips-lanc" role="group" aria-label="Filtrar por plataforma"></div>
-  </div>
-  <div id="lanc-grid"></div>
-  <p class="fonte">As datas podem mudar. Dados e capas: <a href="https://www.igdb.com" target="_blank" rel="noopener">IGDB.com</a>.</p>
-</section>
-
-<section id="videos">
-  <div class="head"><h2>Vídeos do canal</h2><div class="chips" id="chips-videos" role="group" aria-label="Ordenar vídeos"></div></div>
-  <div class="grid" id="videos-grid"></div>
-</section>
-
-<section id="canal">
-  <div class="head"><h2>Sobre o canal</h2></div>
-  <div class="card">
-    <p>Lagaz é o canal para mergulhar no universo dos games: gameplays, dicas e desde clássicos até lançamentos recentes. Inscreva-se e ative o sininho para não perder os próximos vídeos.</p>
-    <a class="btn" style="align-self:flex-start" href="#" id="link-canal">Abrir canal no YouTube</a>
-  </div>
-</section>
 </main>
 
-<footer>© Lagaz // feito para quem gosta de jogos</footer>
+<footer>© Lagaz // feito para quem gosta de jogos // rádio lo-fi com músicas de uso livre</footer>
+</div>
+
+<div class="radio" id="radio" hidden>
+  <button type="button" id="radio-play" aria-label="Tocar rádio lofi">▶</button>
+  <div class="radio-info"><span class="radio-nome">LOFI.RADIO</span><span class="radio-faixa" id="radio-faixa">—</span></div>
+  <span class="eq" aria-hidden="true"><i></i><i></i><i></i></span>
+  <button type="button" id="radio-prox" aria-label="Próxima faixa">»</button>
+  <input type="range" id="radio-vol" min="0" max="100" value="40" aria-label="Volume da rádio">
 </div>
 
 <script>
@@ -230,13 +312,85 @@ function desenhaVideos(){
   }else{t.textContent="Vídeos novos no canal Lagaz";d.href=LINK_CANAL}
 }
 document.getElementById("link-canal").href=LINK_CANAL;
+
+// ===== Guias =====
+var ABAS=["noticias","lancamentos","videos"];
+function mostraAba(id,rolar){
+  if(ABAS.indexOf(id)<0)id="noticias";
+  ABAS.forEach(function(a){
+    document.getElementById(a).hidden=(a!==id);
+    var b=document.getElementById("aba-"+a);
+    b.setAttribute("aria-selected",a===id?"true":"false");
+    b.tabIndex=(a===id)?0:-1;
+  });
+  if(rolar){var el=document.getElementById("abas");if(el.scrollIntoView)el.scrollIntoView({behavior:"smooth",block:"start"})}
+}
+ABAS.forEach(function(a,i){
+  var b=document.getElementById("aba-"+a);
+  b.onclick=function(){mostraAba(a,false);if(history.replaceState)history.replaceState(null,"","#"+a)};
+  b.onkeydown=function(e){
+    var k=e.key==="ArrowRight"?1:e.key==="ArrowLeft"?-1:0;
+    if(!k)return;
+    var n=ABAS[(i+k+ABAS.length)%ABAS.length];
+    mostraAba(n,false);document.getElementById("aba-"+n).focus();
+  };
+});
+window.addEventListener("hashchange",function(){var h=location.hash.slice(1);if(ABAS.indexOf(h)>-1)mostraAba(h,true)});
+mostraAba(ABAS.indexOf(location.hash.slice(1))>-1?location.hash.slice(1):"noticias",false);
+
+// ===== Janela lateral: todos os jogos que vão lançar =====
+function desenhaTicker(){
+  var trilho=document.getElementById("ticker-trilho"),cx=document.getElementById("ticker");
+  var lista=LANC.slice().sort(function(a,b){return String(a.data).localeCompare(String(b.data))});
+  if(!lista.length){trilho.style.animation="none";trilho.innerHTML='<p class="vazio">Os próximos lançamentos aparecem aqui assim que o robô buscar.</p>';return}
+  var anoAtual=new Date().getUTCFullYear();
+  function linha(g,oculto){
+    var d=new Date(g.data+"T00:00:00Z"),ok=!isNaN(d);
+    var dia=ok?String(d.getUTCDate()).padStart(2,"0"):"--";
+    var mes=ok?MESES[d.getUTCMonth()].slice(0,3).toUpperCase()+(d.getUTCFullYear()!==anoAtual?" "+String(d.getUTCFullYear()).slice(2):""):"";
+    var capa=/^https:\/\//.test(g.img||"")?'<img loading="lazy" decoding="async" referrerpolicy="no-referrer" alt="" src="'+esc(String(g.img).replace("t_cover_big","t_cover_small"))+'" onerror="this.style.visibility=\'hidden\'">':'<span class="sem"></span>';
+    var inner='<span class="tk-d"><b>'+dia+'</b>'+esc(mes)+'</span>'+capa+'<span><span class="tk-t">'+esc(g.t)+'</span><span class="tk-p">'+esc((g.plats||[]).join(" · "))+'</span></span>';
+    var attr=oculto?' aria-hidden="true" tabindex="-1"':'';
+    return /^https:\/\//.test(g.link||"")?'<a class="tk" target="_blank" rel="noopener" href="'+esc(g.link)+'"'+attr+'>'+inner+'</a>':'<div class="tk"'+attr+'>'+inner+'</div>';
+  }
+  var um=lista.map(function(g){return linha(g,false)}).join("");
+  var reduz=window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if(reduz){trilho.style.animation="none";cx.classList.add("manual");trilho.innerHTML=um;return}
+  trilho.innerHTML=um+lista.map(function(g){return linha(g,true)}).join("");
+  trilho.style.animationDuration=Math.max(40,lista.length*3.2)+"s";
+}
+
+// ===== Rádio lo-fi (músicas da pasta "musica") =====
+var MUSICAS=[];var radioPronto=false;
+function iniciaRadio(){
+  var box=document.getElementById("radio");
+  if(!MUSICAS.length||radioPronto){box.hidden=!MUSICAS.length;return}
+  radioPronto=true;box.hidden=false;
+  var audio=new Audio(),ordem=MUSICAS.slice().sort(function(){return Math.random()-.5}),idx=0,falhas=0;
+  var play=document.getElementById("radio-play"),prox=document.getElementById("radio-prox"),
+      nome=document.getElementById("radio-faixa"),vol=document.getElementById("radio-vol");
+  var v=0.4;try{var s=localStorage.getItem("lagaz_vol");if(s!==null&&!isNaN(parseFloat(s)))v=Math.min(1,Math.max(0,parseFloat(s)))}catch(e){}
+  audio.volume=v;vol.value=Math.round(v*100);audio.preload="none";
+  function carrega(i){idx=(i+ordem.length)%ordem.length;audio.src=ordem[idx].arquivo;nome.textContent=ordem[idx].t}
+  carrega(0);nome.textContent="toque ▶ para ligar";
+  function toca(){var p=audio.play();if(p&&p.catch)p.catch(function(){})}
+  play.onclick=function(){if(audio.paused){if(!audio.currentTime)nome.textContent=ordem[idx].t;toca()}else audio.pause()};
+  prox.onclick=function(){var tocando=!audio.paused;carrega(idx+1);if(tocando)toca()};
+  audio.onplay=function(){box.classList.add("tocando");play.textContent="❚❚";play.setAttribute("aria-label","Pausar rádio lofi");falhas=0};
+  audio.onpause=function(){box.classList.remove("tocando");play.textContent="▶";play.setAttribute("aria-label","Tocar rádio lofi")};
+  audio.onended=function(){carrega(idx+1);toca()};
+  audio.onerror=function(){if(++falhas<ordem.length){carrega(idx+1);toca()}else{nome.textContent="músicas indisponíveis"}};
+  vol.oninput=function(){audio.volume=vol.value/100;try{localStorage.setItem("lagaz_vol",String(audio.volume))}catch(e){}};
+}
+
 fetch("noticias.json",{cache:"no-store"}).then(function(r){return r.json()}).then(function(d){
   NOTICIAS=d.noticias||[];
   VIDEOS=d.videos||[];
   LANC=d.lancamentos||[];
+  MUSICAS=d.musicas||[];
   cats=["Todas"].concat(NOTICIAS.map(function(n){return n.c}).filter(function(v,i,a){return a.indexOf(v)===i}));
   if(d.atualizadoEm){document.getElementById("atualizado").textContent="Atualizado automaticamente em "+new Date(d.atualizadoEm).toLocaleString("pt-BR")+".";}
-}).catch(function(){}).then(function(){desenhaChips();desenhaNoticias();desenhaChipsVideos();desenhaVideos();desenhaChipsLanc();desenhaLanc()});
+}).catch(function(){}).then(function(){desenhaChips();desenhaNoticias();desenhaChipsVideos();desenhaVideos();desenhaChipsLanc();desenhaLanc();desenhaTicker();iniciaRadio()});
 </script>
 </body>
 </html>

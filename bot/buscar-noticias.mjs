@@ -1,6 +1,6 @@
 // Robô do site Lagaz: lê os feeds de fontes.json e grava noticias.json.
 // Guarda título, trecho curto, link da matéria e o endereço da imagem (sem copiar o arquivo).
-import { readFile, writeFile } from "node:fs/promises";
+import { readFile, writeFile, readdir } from "node:fs/promises";
 
 const MAX = 30;
 const CANAL_ID = "UC9xrr5otocpH79WIHu_JX4Q"; // canal Lagaz (@lagazoficial)
@@ -306,12 +306,24 @@ if (idTwitch && segredoTwitch) {
   console.log("AVISO Lançamentos: TWITCH_CLIENT_ID e TWITCH_CLIENT_SECRET não configurados; pulando.");
 }
 
+// Rádio lo-fi: lista os arquivos de áudio que estiverem na pasta "musica".
+let musicas = [];
+try {
+  musicas = (await readdir(new URL("musica/", raiz)))
+    .filter((f) => /\.(mp3|ogg|m4a|wav)$/i.test(f)).sort()
+    .map((f) => ({
+      t: f.replace(/\.[^.]+$/, "").replace(/[-_]\d{5,}$/, "").replace(/[-_]+/g, " ").trim(),
+      arquivo: "musica/" + encodeURIComponent(f),
+    }));
+} catch {}
+console.log(`Rádio: ${musicas.length} música(s) na pasta musica.`);
+
 if (!noticias.length) {
   console.log("Nenhuma notícia encontrada; mantendo o noticias.json atual.");
   process.exit(1);
 }
 await writeFile(
   new URL("noticias.json", raiz),
-  JSON.stringify({ atualizadoEm: new Date().toISOString(), noticias, videos, lancamentos }, null, 2),
+  JSON.stringify({ atualizadoEm: new Date().toISOString(), noticias, videos, lancamentos, musicas }, null, 2),
 );
 console.log(`Gravadas ${noticias.length} notícias.`);

@@ -1,0 +1,8 @@
+Coloque aqui as músicas lo-fi (arquivos .mp3, .ogg, .m4a ou .wav, cada um com menos de 25 MB).
+O robô encontra os arquivos desta pasta sozinho e a rádio do site passa a tocá-los.
+
+Use só músicas que a licença permita tocar num site público:
+- Prefira CC0 / domínio público (não exigem crédito nem permissão).
+- Se for CC BY, cite o autor no rodapé do site.
+- Evite licenças "somente uso pessoal" ou "NC" (uso não comercial) se um dia o site tiver anúncios.
+- Guarde o link da página de cada música, para comprovar a licença se alguém perguntar.
