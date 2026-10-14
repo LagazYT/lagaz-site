@@ -222,12 +222,12 @@ a.tk:hover{background:var(--panel2)}
   </div>
 </main>
 
-<footer>© Lagaz // feito para quem gosta de jogos // rádio lo-fi com músicas de uso livre</footer>
+<footer>© Lagaz // feito para quem gosta de jogos // rádio lo-fi gerada ao vivo no navegador</footer>
 </div>
 
-<div class="radio" id="radio" hidden>
+<div class="radio" id="radio">
   <button type="button" id="radio-play" aria-label="Tocar rádio lofi">▶</button>
-  <div class="radio-info"><span class="radio-nome">LOFI.RADIO</span><span class="radio-faixa" id="radio-faixa">—</span></div>
+  <div class="radio-info"><span class="radio-nome">LOFI.RADIO</span><span class="radio-faixa" id="radio-faixa">toque ▶ para ligar</span></div>
   <span class="eq" aria-hidden="true"><i></i><i></i><i></i></span>
   <button type="button" id="radio-prox" aria-label="Próxima faixa">»</button>
   <input type="range" id="radio-vol" min="0" max="100" value="40" aria-label="Volume da rádio">
@@ -360,24 +360,106 @@ function desenhaTicker(){
   trilho.style.animationDuration=Math.max(40,lista.length*3.2)+"s";
 }
 
-// ===== Rádio lo-fi (músicas da pasta "musica") =====
-var MUSICAS=[];var radioPronto=false;
+// ===== Rádio lo-fi =====
+// Se houver músicas na pasta "musica", toca os arquivos. Se não houver, gera lo-fi ao vivo
+// no navegador (sintetizado na hora, sem gravação nenhuma, portanto sem direitos autorais).
+var MUSICAS=[];
+var Gerador=(function(){
+  var ctx=null,master,eco,ruido,timer=null,ativo=false,vol=.4;
+  var BPM=72,passo=0,comp=0,prox=0,prog=0,trans=0;
+  var VIBES=[
+    {n:"noite neon",p:[[48,"maj7"],[45,"m7"],[50,"m7"],[43,"7"]]},
+    {n:"chuva na janela",p:[[53,"maj7"],[52,"m7"],[50,"m7"],[48,"maj7"]]},
+    {n:"save point",p:[[45,"m7"],[50,"m7"],[43,"7"],[48,"maj7"]]},
+    {n:"loading...",p:[[50,"m7"],[43,"7"],[48,"maj7"],[45,"m7"]]},
+    {n:"cidade dormindo",p:[[52,"m7"],[45,"m7"],[50,"7"],[43,"maj7"]]}
+  ];
+  var T={maj7:[0,4,7,11],m7:[0,3,7,10],"7":[0,4,7,10]};
+  function hz(m){return 440*Math.pow(2,(m-69)/12)}
+  function faixa(n,min){while(n<min)n+=12;while(n>=min+12)n-=12;return n}
+  function g(){return vol*vol*1.2}
+  function monta(){
+    var AC=window.AudioContext||window.webkitAudioContext;if(!AC)return false;
+    ctx=new AC();
+    master=ctx.createGain();master.gain.value=g();
+    var lp=ctx.createBiquadFilter();lp.type="lowpass";lp.frequency.value=4200;
+    var cp=ctx.createDynamicsCompressor();
+    master.connect(lp);lp.connect(cp);cp.connect(ctx.destination);
+    eco=ctx.createDelay(1);eco.delayTime.value=60/BPM*.75;
+    var fb=ctx.createGain();fb.gain.value=.28;var lpe=ctx.createBiquadFilter();lpe.type="lowpass";lpe.frequency.value=1600;
+    eco.connect(lpe);lpe.connect(fb);fb.connect(eco);lpe.connect(master);
+    var n=ctx.sampleRate*2,b=ctx.createBuffer(1,n,ctx.sampleRate),d=b.getChannelData(0);
+    for(var i=0;i<n;i++){d[i]=(Math.random()*2-1)*.35;if(Math.random()<.0008)d[i]=Math.random()*2-1}
+    ruido=b;
+    var vinil=ctx.createBufferSource();vinil.buffer=b;vinil.loop=true;
+    var bp=ctx.createBiquadFilter();bp.type="bandpass";bp.frequency.value=2500;bp.Q.value=.6;
+    var gv=ctx.createGain();gv.gain.value=.02;vinil.connect(bp);bp.connect(gv);gv.connect(master);vinil.start();
+    return true;
+  }
+  function nota(m,t,rel,pico,tipo,ecoar){
+    var o1=ctx.createOscillator(),o2=ctx.createOscillator(),f=ctx.createBiquadFilter(),a=ctx.createGain();
+    o1.type=tipo||"triangle";o2.type="sine";o1.frequency.value=o2.frequency.value=hz(m);o1.detune.value=-6;o2.detune.value=6;
+    f.type="lowpass";f.frequency.value=1500;
+    a.gain.setValueAtTime(.0001,t);a.gain.exponentialRampToValueAtTime(pico,t+.015);
+    a.gain.exponentialRampToValueAtTime(Math.max(pico*.35,.0002),t+.28);a.gain.exponentialRampToValueAtTime(.0001,t+.28+rel);
+    o1.connect(f);o2.connect(f);f.connect(a);a.connect(master);if(ecoar)a.connect(eco);
+    var fim=t+.32+rel;o1.start(t);o2.start(t);o1.stop(fim);o2.stop(fim);
+  }
+  function bumbo(t,v){var o=ctx.createOscillator(),a=ctx.createGain();o.frequency.setValueAtTime(125,t);o.frequency.exponentialRampToValueAtTime(42,t+.15);
+    a.gain.setValueAtTime(v,t);a.gain.exponentialRampToValueAtTime(.0001,t+.42);o.connect(a);a.connect(master);o.start(t);o.stop(t+.45)}
+  function chiado(t,v,dur,tipo,fq){var s=ctx.createBufferSource();s.buffer=ruido;var f=ctx.createBiquadFilter();f.type=tipo;f.frequency.value=fq;
+    var a=ctx.createGain();a.gain.setValueAtTime(v,t);a.gain.exponentialRampToValueAtTime(.0001,t+dur);s.connect(f);f.connect(a);a.connect(master);s.start(t,Math.random()*1.5);s.stop(t+dur+.03)}
+  function toca(p,c,t,d16){
+    var ac=VIBES[prog].p[c%4],raiz=ac[0]+trans,ns=T[ac[1]].map(function(i){return faixa(raiz+i,55)}),bx=faixa(raiz,33);
+    var sw=(p%4===2)?d16*.4:0,ts=t+sw;
+    if(p===0||p===10)bumbo(t,.6);if(p===7&&Math.random()<.3)bumbo(t,.35);
+    if(p===4||p===12)chiado(t,.3,.22,"bandpass",1700);
+    if(p%2===0)chiado(ts,p%4===2?.07:.045,.05,"highpass",7500);
+    if(p===0)nota(bx,t,.7,.36,"sine");if(p===8&&Math.random()<.7)nota(bx+(Math.random()<.5?0:7),t,.5,.26,"sine");
+    if(p===0)ns.forEach(function(n){nota(n,t,1.6,.07)});if(p===6)ns.forEach(function(n){nota(n,ts,.5,.04)});
+    if(p===10&&Math.random()<.6)ns.forEach(function(n){nota(n,ts,.5,.035)});
+    if(p%2===0&&c%2===1&&Math.random()<.35)nota(ns[Math.floor(Math.random()*4)]+12,ts,.8,.06,"sine",true);
+  }
+  function laco(){var d16=60/BPM/4;while(prox<ctx.currentTime+1.2){toca(passo,comp,prox,d16);prox+=d16;if(++passo>=16){passo=0;comp++}}}
+  return{
+    nome:function(){return VIBES[prog].n},
+    liga:function(){if(!ctx){if(!monta())return false;prox=ctx.currentTime+.1}if(ctx.state!=="running")ctx.resume();
+      if(!timer)timer=setInterval(laco,100);laco();ativo=true;return true},
+    pausa:function(){clearInterval(timer);timer=null;if(ctx)ctx.suspend();ativo=false},
+    tocando:function(){return ativo},
+    proxima:function(){prog=(prog+1+Math.floor(Math.random()*(VIBES.length-1)))%VIBES.length;trans=Math.floor(Math.random()*5)-2;passo=0;comp=0;
+      if(ctx)prox=ctx.currentTime+.08},
+    volume:function(v){vol=v;if(master)master.gain.setTargetAtTime(g(),ctx.currentTime,.05)}
+  };
+})();
+var radioPronto=false;
 function iniciaRadio(){
-  var box=document.getElementById("radio");
-  if(!MUSICAS.length||radioPronto){box.hidden=!MUSICAS.length;return}
-  radioPronto=true;box.hidden=false;
-  var audio=new Audio(),ordem=MUSICAS.slice().sort(function(){return Math.random()-.5}),idx=0,falhas=0;
-  var play=document.getElementById("radio-play"),prox=document.getElementById("radio-prox"),
+  if(radioPronto)return;radioPronto=true;
+  var box=document.getElementById("radio"),play=document.getElementById("radio-play"),prox=document.getElementById("radio-prox"),
       nome=document.getElementById("radio-faixa"),vol=document.getElementById("radio-vol");
   var v=0.4;try{var s=localStorage.getItem("lagaz_vol");if(s!==null&&!isNaN(parseFloat(s)))v=Math.min(1,Math.max(0,parseFloat(s)))}catch(e){}
-  audio.volume=v;vol.value=Math.round(v*100);audio.preload="none";
+  vol.value=Math.round(v*100);
+  function estado(on){box.classList.toggle("tocando",on);play.textContent=on?"❚❚":"▶";play.setAttribute("aria-label",on?"Pausar rádio lofi":"Tocar rádio lofi")}
+  if(!MUSICAS.length){
+    Gerador.volume(v);
+    play.onclick=function(){
+      if(Gerador.tocando()){Gerador.pausa();estado(false)}
+      else if(Gerador.liga()){estado(true);nome.textContent="ao vivo // "+Gerador.nome()}
+      else nome.textContent="navegador sem áudio";
+    };
+    prox.onclick=function(){Gerador.proxima();nome.textContent=(Gerador.tocando()?"ao vivo // ":"")+Gerador.nome()};
+    vol.oninput=function(){var x=vol.value/100;Gerador.volume(x);try{localStorage.setItem("lagaz_vol",String(x))}catch(e){}};
+    return;
+  }
+  var audio=new Audio(),ordem=MUSICAS.slice().sort(function(){return Math.random()-.5}),idx=0,falhas=0;
+  audio.volume=v;audio.preload="none";
   function carrega(i){idx=(i+ordem.length)%ordem.length;audio.src=ordem[idx].arquivo;nome.textContent=ordem[idx].t}
   carrega(0);nome.textContent="toque ▶ para ligar";
   function toca(){var p=audio.play();if(p&&p.catch)p.catch(function(){})}
   play.onclick=function(){if(audio.paused){if(!audio.currentTime)nome.textContent=ordem[idx].t;toca()}else audio.pause()};
-  prox.onclick=function(){var tocando=!audio.paused;carrega(idx+1);if(tocando)toca()};
-  audio.onplay=function(){box.classList.add("tocando");play.textContent="❚❚";play.setAttribute("aria-label","Pausar rádio lofi");falhas=0};
-  audio.onpause=function(){box.classList.remove("tocando");play.textContent="▶";play.setAttribute("aria-label","Tocar rádio lofi")};
+  prox.onclick=function(){var t=!audio.paused;carrega(idx+1);if(t)toca()};
+  audio.onplay=function(){estado(true);falhas=0};
+  audio.onpause=function(){estado(false)};
   audio.onended=function(){carrega(idx+1);toca()};
   audio.onerror=function(){if(++falhas<ordem.length){carrega(idx+1);toca()}else{nome.textContent="músicas indisponíveis"}};
   vol.oninput=function(){audio.volume=vol.value/100;try{localStorage.setItem("lagaz_vol",String(audio.volume))}catch(e){}};
