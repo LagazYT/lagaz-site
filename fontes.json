@@ -1,7 +1,8 @@
 [
   {
     "nome": "IGN Brasil",
-    "url": "https://br.ign.com/feed.xml"
+    "url": "https://br.ign.com/feed.xml",
+    "excluir": "Paramount|Netflix|HBO|Disney\\+|Prime Video|Apple TV|Crunchyroll|\\bs[ée]rie\\b|\\btemporada\\b(?!.*(game|jogo|battle|warzone|fortnite|call of duty|diablo))|\\bfilme\\b|smartwatch|smartphone|celular|\\bteclado\\b|notebook|\\bTV\\b|fone de ouvido|aspirador|geladeira"
   },
   {
     "nome": "TecMundo",
@@ -14,14 +15,17 @@
   },
   {
     "nome": "Bing Notícias – Games",
-    "url": "https://www.bing.com/news/search?q=games+videogames+PlayStation+Xbox+Nintendo&format=rss&setlang=pt-BR&cc=BR"
+    "url": "https://www.bing.com/news/search?q=games+videogames+PlayStation+Xbox+Nintendo&format=rss&setlang=pt-BR&cc=BR",
+    "excluir": "Paramount|Netflix|HBO|Disney\\+|Prime Video|Apple TV|Crunchyroll|\\bs[ée]rie\\b|\\btemporada\\b(?!.*(game|jogo|battle|warzone|fortnite|call of duty|diablo))|\\bfilme\\b|smartwatch|smartphone|celular|\\bteclado\\b|notebook|\\bTV\\b|fone de ouvido|aspirador|geladeira"
   },
   {
     "nome": "Google Notícias – Games",
-    "url": "https://news.google.com/rss/search?q=games+OR+videogames+OR+PlayStation+OR+Xbox+OR+Nintendo&hl=pt-BR&gl=BR&ceid=BR:pt-419"
+    "url": "https://news.google.com/rss/search?q=games+OR+videogames+OR+PlayStation+OR+Xbox+OR+Nintendo&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "excluir": "Paramount|Netflix|HBO|Disney\\+|Prime Video|Apple TV|Crunchyroll|\\bs[ée]rie\\b|\\btemporada\\b(?!.*(game|jogo|battle|warzone|fortnite|call of duty|diablo))|\\bfilme\\b|smartwatch|smartphone|celular|\\bteclado\\b|notebook|\\bTV\\b|fone de ouvido|aspirador|geladeira"
   },
   {
     "nome": "Google Notícias – Jogos de PC",
-    "url": "https://news.google.com/rss/search?q=jogos+de+PC+OR+Steam+OR+placa+de+v%C3%ADdeo+games&hl=pt-BR&gl=BR&ceid=BR:pt-419"
+    "url": "https://news.google.com/rss/search?q=jogos+de+PC+OR+Steam+OR+placa+de+v%C3%ADdeo+games&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "excluir": "Paramount|Netflix|HBO|Disney\\+|Prime Video|Apple TV|Crunchyroll|\\bs[ée]rie\\b|\\btemporada\\b(?!.*(game|jogo|battle|warzone|fortnite|call of duty|diablo))|\\bfilme\\b|smartwatch|smartphone|celular|\\bteclado\\b|notebook|\\bTV\\b|fone de ouvido|aspirador|geladeira"
   }
 ]

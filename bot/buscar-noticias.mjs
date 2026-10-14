@@ -217,6 +217,7 @@ async function lerFeed(fonte) {
   if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
   const xml = await resp.text();
   const filtro = fonte.filtro ? new RegExp(fonte.filtro, "i") : null;
+  const excluir = fonte.excluir ? new RegExp(fonte.excluir, "i") : null;
   const blocos = xml.match(/<item[\s\S]*?<\/item>|<entry[\s\S]*?<\/entry>/gi) || [];
   const itens = blocos.map((b) => {
     let titulo = limpa(pega(b, "title"));
@@ -234,7 +235,7 @@ async function lerFeed(fonte) {
       c: categoria(titulo + " " + resumo),
       img: imagemDoItem(b, bruto),
     };
-  }).filter((n) => n.t && /^https?:\/\//.test(n.link) && (!filtro || filtro.test(n.t + " " + n.d)));
+  }).filter((n) => n.t && /^https?:\/\//.test(n.link) && (!filtro || filtro.test(n.t + " " + n.d)) && (!excluir || !excluir.test(n.t)));
   // limite por fonte, para o Google Notícias não ocupar o site inteiro
   const limite = /(^|\.)google\.com$/.test(new URL(fonte.url).hostname) ? 5 : 10;
   return itens.sort((x, y) => y.data.localeCompare(x.data)).slice(0, limite);

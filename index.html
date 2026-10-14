@@ -265,7 +265,7 @@ function cartao(n){
 }
 function desenhaNoticias(){
   document.getElementById("noticias-grid").innerHTML=NOTICIAS.filter(function(n){return atual==="Todas"||n.c===atual}).map(function(n){
-    return cartao(n)}).join("")||'<p>Nenhuma notícia por aqui ainda. O robô busca novidades a cada 3 horas.</p>';
+    return cartao(n)}).join("")||'<p>Nenhuma notícia por aqui ainda. O robô busca novidades a cada 30 minutos.</p>';
 }
 var LANC=[];var platLanc="Todas";var limiteLanc=40;
 var MESES=["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"];

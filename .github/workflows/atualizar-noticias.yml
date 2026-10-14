@@ -1,26 +1,44 @@
 name: Atualizar notícias
+# O agendamento do GitHub é "melhor esforço" e costuma atrasar horas.
+# Por isso cada execução fica ligada por ~5h30 e atualiza o site a cada 30 minutos;
+# o agendamento só serve para religar o robô quando uma execução termina.
 on:
   schedule:
     - cron: "23 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: robo-noticias
+  cancel-in-progress: false
 jobs:
   atualizar:
     runs-on: ubuntu-latest
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: node bot/buscar-noticias.mjs
+      - name: Atualizar a cada 30 minutos
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
           TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
-      - name: Salvar mudanças
         run: |
           git config user.name "robo-lagaz"
           git config user.email "robo-lagaz@users.noreply.github.com"
-          git add noticias.json
-          git diff --staged --quiet || (git commit -m "Atualiza notícias" && git push)
+          fim=$(( $(date +%s) + 330*60 ))
+          while true; do
+            echo "::group::Rodada $(date -u '+%H:%M') UTC"
+            git pull -q --rebase origin main || true
+            node bot/buscar-noticias.mjs || echo "robô falhou nesta rodada"
+            git add noticias.json
+            if ! git diff --staged --quiet; then
+              git commit -q -m "Atualiza notícias"
+              git push -q origin HEAD:main || { git pull -q --rebase origin main && git push -q origin HEAD:main; } || echo "não consegui enviar nesta rodada"
+            fi
+            echo "::endgroup::"
+            [ $(( $(date +%s) + 30*60 )) -lt "$fim" ] || break
+            sleep 1800
+          done
