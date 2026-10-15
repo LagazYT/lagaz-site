@@ -1,35 +1,91 @@
 {
-  "atualizadoEm": "2026-10-15T14:15:06.582Z",
+  "atualizadoEm": "2026-10-15T14:45:18.836Z",
   "noticias": [
     {
-      "t": "Microsoft consulta fãs sobre decisão polêmica de tornar 3 franquias exclusivas do XBOX",
-      "d": "&nbsp;&nbsp; Canaltech",
-      "link": "https://canaltech.com.br/games/microsoft-consulta-fas-sobre-decisao-polemica-de-tornar-3-franquias-exclusivas-do-xbox/",
-      "fonte": "Canaltech",
-      "data": "2026-10-15T14:11:00.000Z",
-      "c": "Consoles",
-      "img": "https://tl.ctcdn.com.br/4fQ7fwmq1vx3TVZj62lXaw_UVOE=/1200x675/smart/filters:format(webp):quality(85)/46942796-5b02-4741-b4b0-959fa2364881.png",
-      "orig": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakFKaFVpTk5yMjFuOWJ1MGJ0VUxjNUVSN25SVUwxaWRXZ1BYWVN3STBZTnE1UlZWRmhTa0k4WXlkNmxJYUJVMlhJYVNWYkozd00yVXFWcjE4TXhHaVl5WW55Zm5fWUhwSXJ5U3I5dFNqU1RSbTN4X18weXdzZFUwWDMwdVN2MDdwMDdKVWlFbXJTNzRYWGxvWmpxeHpfSU11NGI0OURUaklXcnBMeEhMa3dNNDdDcTdDRUE?oc=5"
+      "t": "F! League Classic será encerrado no começo de 2027",
+      "d": "Lançado no fim de julho deste ano, o League Classic será removido do League of Legends em 2027. Veja os detalhes!",
+      "link": "https://flowgames.gg/f-league-classic-sera-encerrado-no-comeco-de-2027/",
+      "fonte": "Flow Games",
+      "data": "2026-10-15T14:39:11.000Z",
+      "c": "Lançamentos",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/07/League-Classic.jpg"
     },
     {
-      "t": "GTA 6 ganha trailer de lançamento com foco no PS5",
-      "d": "&nbsp;&nbsp; Alternativa Nerd",
-      "link": "https://alternativanerd.com.br/games/gta-6-ganha-trailer-de-lancamento-com-foco-no-ps5/",
-      "fonte": "Alternativa Nerd",
-      "data": "2026-10-15T14:09:01.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV01PS0JjdVQtOXQwUklkSGRFbkZvT3l2SmxpMTBDV0xtR0xwTlNmODlISVhQdnFwQkY4R04wVDI0UTNBeFVudnhXZVA0dXpQalM2OEFVLVp1NTBPd1Q5NElnRlNJZXVuNFV0WHZwSUpVY05yZHNXQjFLcEY3cmVBMExfdlNsY1gtMWsxMHJFMkM?oc=5"
+      "t": "Marco Legal dos Games: o que muda no Brasil",
+      "d": "&nbsp;&nbsp; ISTOÉ Independente",
+      "link": "https://istoe.com.br/marco-legal-games-o-que-muda-brasil",
+      "fonte": "ISTOÉ Independente",
+      "data": "2026-10-15T14:33:34.000Z",
+      "c": "Geral",
+      "img": "https://istoe.com.br/wp-content/uploads/2026/10/capa-marco-legal-games-15-out-2026-1200x630.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05bDJDdXl3akp0bUNsTDBKeXI5blFCQmhwY2hFZ2ZueFh6QkpmU0lzbnpJM1d0VFFkM1lsME5DUTU5eWM0TGdfdjBSWGY2YWVSVi1YNVhabHQ3VXlYZG84eVdCREJLVnc?oc=5"
     },
     {
-      "t": "Forge of the Fae será lançado em março de 2027 para Nintendo Switch",
+      "t": "Max Payne 3 foi uma falha, diz co-fundador da Rockstar",
+      "d": "De acordo com Dan Houser, a Rockstar errou com Max Payne 3, por mais que haja qualidade",
+      "link": "https://flowgames.gg/max-payne-3-foi-uma-falha-diz-co-fundador-da-rockstar/",
+      "fonte": "Flow Games",
+      "data": "2026-10-15T14:32:42.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/10/image-30.jpg"
+    },
+    {
+      "t": "Governo anuncia “Rouanet Games” em aceno de Lula a eleitorado jovem",
+      "d": "&nbsp;&nbsp; Gazeta do Povo",
+      "link": "https://www.gazetadopovo.com.br/republica/governo-anuncia-rouanet-games-em-aceno-de-lula-a-eleitorado-jovem/",
+      "fonte": "Gazeta do Povo",
+      "data": "2026-10-15T14:30:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://media.gazetadopovo.com.br/2026/10/15112015/ASPA-GRANDE-2026-10-15T112009.181.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSUVVajNNdW1IZXZEeUlaSlZFRU5vSFBBRFNCZndsZlFkUWF1VUMwdVdpQ0JpSzVIZGM5MTdjZER2THE0c3M5UGwwbXlqQjY4eVJ3V0dWN1A1Z1RJemc0RlI4OE1vLXFSWS1BcjQwYUZUNXN3ZkYzOEZwdDc2NnVuRmxxWkZvdTZiZHJEQ2pRS25CdDVvRFczY3U3VEZaQWJhS2thUW9pV0Z1MVEw?oc=5"
+    },
+    {
+      "t": "Re-Volt chega ao Nintendo Switch em 5 de novembro com edição física especial",
       "d": "&nbsp;&nbsp; Nintendo Blast",
-      "link": "https://www.nintendoblast.com.br/2026/10/forge-of-the-fae-sera-lancado-em-marco-de-2027-para-nintendo-switch.html",
+      "link": "https://www.nintendoblast.com.br/2026/10/re-volt-chega-nintendo-switch-5-novembro-com-edicao-fisica-especial.html",
       "fonte": "Nintendo Blast",
-      "data": "2026-10-15T14:05:37.000Z",
+      "data": "2026-10-15T14:29:58.000Z",
       "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTkNfWTcxRWRPX2RRNk1jSTBRS24wR3VMazQ0bEtKdzJLSlQ1RWZuUDR2VVdVcnBCSTNWeUY0MXlBUWNhYW1xVnI0WGxPcUFoU2l3ckpFMlZKdGZITWZVbndkOUxIOWtSOG55NkRjWnkyWUlyYUl6TmVsRm11U1J3dDhiUHJnMjlmeHV4MGJrOHI1QU01RjUxeVNrWXFSdXRocmVIM1hiWTh4UG91aFU3SFZ0dw?oc=5"
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidwEkvBkGaOyjihV9p0n-OpJDHZhZ8qJOBaeDfnrySaEB1ZgfsRxmlUBsc3JDlAftFBpw7JotcXyudUPHX3PYs76_t-Wr2uwhGqJv2QJCT4hmVH1Kn8-oBKxv74i6p5qpcxiGH48g4ZzcXknZLwFeWRH4xoGOEoPxuZmLDujzq9QSXfcSPioIoWehXZZc/w1200-h630-p-k-no-nu/Re-Volt-Switch.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXZsa1RJS19pR3c5cG10X0NqdG5GODBvbmE3Nm1vbzJTR0Zpa3JUY09ITG8zMVNhVVdSY1l0bEZ1YUhPTU1mMWFWWGpMbi1FeVFkblhWMTlZamdmVkhxeXVkNGxHdTQ5UlRjZDUtSERPRXl0Q2p6MktNSjRFMi1qTTVFNERiaXAySGkwTlQ2bGpXMDBGZnZRUEJlNUE2NmVaX0pNUDFrZ1ZMRDBWWFo3aG9sQQ?oc=5"
+    },
+    {
+      "t": "GTA 6 conseguirá entrar no prazo de elegibilidade do The Game Awards por muito pouco, confirmando que tem chances de ser eleito o Jogo do Ano em 2026",
+      "d": "Mais procurado",
+      "link": "https://br.ign.com/grand-theft-auto-vi/156843/gta-6-conseguira-entrar-no-prazo-de-elegibilidade-do-the-game-awards-por-muito-pouco-confirmando-que",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-15T14:28:29.000Z",
+      "c": "Eventos",
+      "img": "https://sm.ign.com/ign_br/news/g/gta-6-will/gta-6-will-make-the-game-awards-cutoff-date-for-eligibility_5hsh.jpg"
+    },
+    {
+      "t": "Vendas no Japão | 05/Out a 11/Out – Kingdom Hearts Collection I – III estreia no topo, mais dados",
+      "d": "&nbsp;&nbsp; Universo Nintendo",
+      "link": "https://universonintendo.com/vendas-no-japao-05-out-a-11-out-kingdom-hearts-collection-i-iii-estreia-no-topo-mais-dados/",
+      "fonte": "Universo Nintendo",
+      "data": "2026-10-15T14:22:53.000Z",
+      "c": "Consoles",
+      "img": "https://universonintendo.com/wp-content/uploads/2026/06/kingdom-hearts-collection-iefbd9eiii-keyart-8091ba201548b949cebfdcec89bd80c073cdba04.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPazcxNkY3LVBFdjdkeTNsZkY0RlNuU2I2UkItalBEdWdGc2ZrWURrZ3BEUGwyYTVibGNOa25GVGhHdGotZFZsbk5rYXFTcWFGZ2tQWjNBQzJscjdoQ3RWaERYejVWSEc5bnBDUjdrQXlkZl84Z1hLUkNCN2JOWFRWNlAwM2pJSmY5ZGpKdVpiRGcxdWFJcFNiWERpdjZSdmhscFUyMTd3d1RMMnNrYndHM1lIcmpKT1RXVzltNw?oc=5"
+    },
+    {
+      "t": "Microsoft anuncia controle Xbox Nano com preço no Brasil; conheça",
+      "d": "&nbsp;&nbsp; Estadão",
+      "link": "https://www.estadao.com.br/em-alta/tecmundo/voxel/microsoft-anuncia-controle-xbox-nano-com-preco-no-brasil-conheca/",
+      "fonte": "Estadão",
+      "data": "2026-10-15T14:18:44.000Z",
+      "c": "Consoles",
+      "img": "https://www.estadao.com.br/resizer/v2/VIGFWWKDGZFINMP5NC3NANUVGM.jpg?quality=80&auth=3b7f39c9ca95d08e23f30e1f54081ecf23122c99010104b513c7da31e152e3d7&width=1200&height=630&smart=true",
+      "orig": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSms3VjlBRnVOVnhlWm1nOFctQ3Bfd3BSRWxKU1FTNUxOY3ZhLU9IMHM3ZzlHLWhxc2kzMVdyMkVBY2hPOHp6cms0YmtXWUQtQUE4czE4dVlXb3l6Tk1RYnFOVnlERGx3Z05XZmJsZWJuaTM4WnIyaWE5QzFDZ3JNWVlLbUl0RHB5dGJuYnRYbjNZNkliUmYzQjh1VTJxSVQ0WUtRNnh4TGFKUHRRdUt6RWkxejAtdw?oc=5"
+    },
+    {
+      "t": "Trailer de lançamento de GTA 6 traz vislumbres do passado conturbado de Jason, uma cena quente no chuveiro com Lucia e muito mais",
+      "d": "O grande momento se aproxima",
+      "link": "https://br.ign.com/grand-theft-auto-vi/156841/trailer-de-lancamento-de-gta-6-traz-vislumbres-do-passado-conturbado-de-jason-uma-cena-quente-no-chu",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-15T14:09:26.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/news/g/gta-6-laun/gta-6-launch-trailer-teases-jasons-troubled-past-a-steamy-sh_zmpb.jpg"
     },
     {
       "t": "GTA 6 ganha novo wallpaper oficial em altíssima qualidade",
@@ -41,16 +97,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2026/10/gta-6-novo-wallpaper.jpg"
     },
     {
-      "t": "Natal conquista título geral do Bear Games Nordeste 2026",
-      "d": "&nbsp;&nbsp; Blog do BG",
-      "link": "https://www.blogdobg.com.br/natal-conquista-titulo-geral-do-bear-games-nordeste-2026/",
-      "fonte": "Blog do BG",
-      "data": "2026-10-15T13:59:57.000Z",
-      "c": "Geral",
-      "img": "https://assets.blogdobg.com.br/uploads/2026/10/WhatsApp-Image-2026-10-15-at-10.33.52-893x1024.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3o4RGt1LWtFTDZxS2puaEFaX2dtQ252dFpMeHBkOGhIQ1JWeFVsQk9KdUlxTnhWS3BidGhYbUhUQm8wSGQ4QVRWV0xVaVNhLVktX0k1QmNvMGN5OE1tbE15eUZNT2lwYUUwVWRlOEY3U2VSalRqdVNPcmRjMXV3aFdoQ3FCa2xsSG1uZW1n?oc=5"
-    },
-    {
       "t": "Menor e mais barato: Xbox Nano é novo controle da marca anunciado",
       "d": "No Brasil, o Xbox Nano será vendido pelo preço sugerido de R$ 379",
       "link": "https://flowgames.gg/menor-e-mais-barato-xbox-nano-e-novo-controle-marca/",
@@ -58,16 +104,6 @@
       "data": "2026-10-15T13:59:27.000Z",
       "c": "Consoles",
       "img": "https://flowgames.gg/wp-content/uploads/2026/10/XBOX-Nano-Controller_Minecraft-Dungeons-II-7aa527a9b3e125426fac-1900x1080-1.jpg"
-    },
-    {
-      "t": "Nintendo Switch 2 despenca de preço nas vésperas do novo Zelda",
-      "d": "&nbsp;&nbsp; Canaltech",
-      "link": "https://canaltech.com.br/games/nintendo-switch-2-despenca-de-preco-nas-vesperas-do-novo-zelda/",
-      "fonte": "Canaltech",
-      "data": "2026-10-15T13:48:56.000Z",
-      "c": "Consoles",
-      "img": "https://tl.ctcdn.com.br/jRTwDL7_1g2wTpgCDJtQtWkrvT8=/1200x675/smart/filters:format(webp):quality(85)/6cb076ae-4e0d-42c6-8167-fadf5a7c7638.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYk1Rc1J3a0xhZ0xSNHlFR0VuQU53SGpTNnJnaEY2R2Nrc2NwelBEUGd3VXBjS1JLanB0RDJpT3ZKTHA2RVpYV1hNTUdnT3hRN3FKNzNOMVl4cDRKVERCXzNhT1VyREpBNHJTb3dhUUM2ZkFBRkVfNmMtNXlxQnhuVGw1ZDJObHRTbVZsdFFfMHo5SzNyX2d4MUdn?oc=5"
     },
     {
       "t": "Imperdível: controle Dualshock para Playstation 4 por menos de R$ 160",
@@ -86,6 +122,15 @@
       "data": "2026-10-15T13:17:52.000Z",
       "c": "Lançamentos",
       "img": "https://www.youtube.com/embed/rz1B4B2yBZY"
+    },
+    {
+      "t": "GTA 6 (Grand Theft Auto 6) - Official Launch Trailer",
+      "d": "Don&#x27;t miss the Launch Trailer for GTA 6, the latest entry in the third-person open-world action-adventure Grand Theft Auto franchise developed by Rockstar Games. Players can get a new look at...",
+      "link": "https://br.ign.com/grand-theft-auto-vi/156842/gta-6-grand-theft-auto-6-official-launch-trailer",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-15T13:08:55.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/video/g/gta-6-gran/gta-6-grand-theft-auto-6-official-launch-trailer_5han.png"
     },
     {
       "t": "Street Fighter é um espetáculo divertido de ação — e não espere mais do que isso",
@@ -230,52 +275,6 @@
       "data": "2026-10-14T20:15:00.000Z",
       "c": "Geral",
       "img": "https://www.estadao.com.br/resizer/v2/CGIVO6KO25ATTAK6YAQ5HJQW34.jpg?quality=80&auth=ea8ff9c2d54611794366025c04d2c55704447372dd20f47b6e4855bf1349d96c&width=710"
-    },
-    {
-      "t": "Fim da linha! Estúdio de Trials será fechado pela Ubisoft",
-      "d": "Reestruturação da Ubisoft vai impactar no fechamento do estúdio de Trials e em cortes em Singapura",
-      "link": "https://flowgames.gg/ubisoft-fechara-estudio-serie-trials-fara-cortes/",
-      "fonte": "Flow Games",
-      "data": "2026-10-14T19:23:45.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2025/03/ubisoft.jpg"
-    },
-    {
-      "t": "PS Plus de outubro terá Horizon Forbidden West, Dino Crisis 2 e mais jogos! Veja a lista completa",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/ps-plus-de-outubro-tera-horizon-forbidden-west-dino-crisis-2-e-mais-jogos-veja-a-lista-completa/",
-      "fonte": "TecMundo",
-      "data": "2026-10-14T19:15:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/ZLXD3U6XQZCNRLMSHBLYIKSS5A.jpg?quality=80&auth=721f3c1a9769b833f614e01368eb7556f76e2a24b6cd8e19a6d1df6f1ec7a4f5&width=710"
-    },
-    {
-      "t": "Jogos em oferta na Steam por menos de R$ 10; até 95% de desconto",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-em-oferta-na-steam-por-menos-de-r-10-ate-95-de-desconto/",
-      "fonte": "Adrenaline",
-      "data": "2026-10-14T18:25:00.000Z",
-      "c": "Ofertas",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaDJtQU9aS3A1MUF0eFR4LUZtTWVTbW9wTERQd3hjemtjWHJLZjZPVEo1VGppRzZvVHd4TUxxS29wTlZFYURiRnBHQlptUDJKUFlPQlFXYy1wck0tczdQQ2lvN1FaRlRqR0dFODdiZlY4RU42dE1hYXpMSU9lUUpHYUpNYWxXdlpmbmw4eFVwYWswLWl2N0hTNXVtWFhUaktGcklidDBqU1AzWXc?oc=5"
-    },
-    {
-      "t": "Lula assina Marco dos Jogos Eletrônicos com Rouanet Games e plataforma grátis",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/lula-assina-marco-dos-jogos-eletronicos-que-inclui-a-lei-rouanet-games-e-plataforma-gratis/",
-      "fonte": "TecMundo",
-      "data": "2026-10-14T18:16:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.estadao.com.br/resizer/v2/WWETUDBI4REAXMDAO5DFJMJUS4.png?quality=80&auth=6db1224e272b0191205be72a9924dd54a246bdbe089009ebf332690fe29b7a10&width=710"
-    },
-    {
-      "t": "Marvel Cosmic Invasion: The Siege of Castle Doom - Trailer de gameplay | IGN Fall Fan Fest 2026",
-      "d": "Um novo modo de jogo está chegando, e dois novos super-heróis se juntam à luta contra Annihilus! Confira o trailer de Marvel Cosmic Invasion: The Siege of Castle Doom para ver a Mulher Invisível e...",
-      "link": "https://br.ign.com/marvel-cosmic-invasion/156837/marvel-cosmic-invasion-the-siege-of-castle-doom-trailer-de-gameplay-ign-fall-fan-fest-2026",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-14T17:49:30.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/video/m/marvel-cos/marvel-cosmic-invasion-the-siege-of-castle-doom-gameplay-tra_6tpy.jpg"
     }
   ],
   "videos": [
