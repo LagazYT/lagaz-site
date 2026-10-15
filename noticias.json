@@ -1,12 +1,41 @@
 {
-  "atualizadoEm": "2026-10-15T11:43:57.252Z",
+  "atualizadoEm": "2026-10-15T12:14:03.995Z",
   "noticias": [
+    {
+      "t": "NVIDIA diz que RTX Spark e GeForce RTX terão espaço para coexistir",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/nvidia-diz-que-rtx-spark-e-geforce-rtx-terao-espaco-para-coexistir/",
+      "fonte": "TecMundo",
+      "data": "2026-10-15T12:00:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/6AQBXLTXSFERXH7DZGKD66LI7M.jpeg?quality=80&auth=b7db4bf6ce6d3a27619c9a956f1787c2c9dd11b1d124c7d2652a73d94dad950d&width=710"
+    },
+    {
+      "t": "Pesquisa do Xbox pergunta a jogadores sobre exclusividade total, inclusive tirando Minecraft do PlayStation e do Switch",
+      "d": "&nbsp;&nbsp; R7 Entretenimento",
+      "link": "https://entretenimento.r7.com/nitro/games/outer-space/pesquisa-do-xbox-pergunta-a-jogadores-sobre-exclusividade-total-inclusive-tirando-minecraft-do-playstation-e-do-switch-15102026/",
+      "fonte": "R7 Entretenimento",
+      "data": "2026-10-15T11:54:29.000Z",
+      "c": "Consoles",
+      "img": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/YLWNRJUYY5DGNBNXCJUIOSN2BY.jpeg?smart=true&auth=aa516f9faa9cbf33d21a3eee4b47f8d75648e0944481f1417afee0130bd6bce8&width=1200&height=630",
+      "orig": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOQU0tN01UdlViWGNub1F5amxmazNYWENjRnhhQXFVSkRtMm9LYmNBYjNMVUFad1d4SG5JZzdRWmNjR1NScnFHWHl2N0Z3ZFRic1VlVThSWnl3MXl1YkM0TUtKY0VJYngwSTV3Wm1seUJuNUo4aExYc05fY2IxVFM3aG1VZGNrMTF0dC1ORVJ2eXVROWlUV2FsWVNIMUNtZm9qM3IyMnpUU1ZuekhEQnQ5b2xsQWhQOVIwWWdpS1Nna3BITm41ekR6OWg4dHNCNjlPeXQtVDRwd2N2Rzh3eUxuUUtpOFdNSEt2SnJWeGNvOHo4UFF0Q21nRWZkVzhtMHg5WmkyRi1nNEVlejBmbURZ?oc=5"
+    },
+    {
+      "t": "PlayStation 5 ganha versão Midnight Black mais barata, chega em 19 de novembro e mantém armazenamento de 825 GB",
+      "d": "&nbsp;&nbsp; RD1",
+      "link": "https://rd1.com.br/playstation-5-ganha-versao-midnight-black-mais-barata-chega-em-19-de-novembro/",
+      "fonte": "RD1",
+      "data": "2026-10-15T11:53:56.000Z",
+      "c": "Consoles",
+      "img": "https://rd1.com.br/wp-content/uploads/2017/11/20171121-screenshot-at-nov-20-23-52-22.png",
+      "orig": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQjJ0b2RKMFVWckxPR3RjWkdfRDlsVUJ6SDRVRnpWWUNQVVlHWmN3emgwNklwWDh4cHlBcXlvQ1RrQVlpd21OZ3FCWEJhY2ROZDFLcVFqdTJoTG03VVFUeEM0QUNkVGxkTFpOV0xCRFJBa3h1d193YnFSV0NSZTl0WjZmcE5PbUE3eERrMjVtU3R5RHlkLWRmYUpidHY1QQ?oc=5"
+    },
     {
       "t": "Monster Hunter Wilds receberá demo para Nintendo Switch 2 no dia 19 de outubro",
       "d": "&nbsp;&nbsp; Nintendo Blast",
       "link": "https://www.nintendoblast.com.br/2026/10/monster-hunter-wilds-recebera-demo-para-nintendo-switch-2-no-dia-19-de-outubro.html",
       "fonte": "Nintendo Blast",
-      "data": "2026-10-15T11:40:05.000Z",
+      "data": "2026-10-15T11:39:32.000Z",
       "c": "Consoles",
       "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI_ZOZDnzhwowBroZU5bxKOSp-bIBPqlyEsH35-7fz2OMSOF7vGzWqmGAVVBiDwHU2XABMqzUDuh13BIChyN0y5ZH_kMtk3IGRkJMLqiQ325zy3F4H6LDbmrg7L7nR7Dm8iN0gmQn83R0vYc37fvv4CkrDkolXkVplvS7afnMoDeKuKTUsodEnwP6o2qlY/w1200-h630-p-k-no-nu/monster.jfif",
       "orig": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUTBxLUVIMzlLMWZ6Z1FNOWgxVkJaZUlnazRZeHFyc0RhMmNxR2piSkgxcjZweURMLWVQRHlpZ0djeUhFeU4yN3ZaSF9BRnoySmF1SkVBUjg4MkNTR1hSQ1ZJSm4xTFFxTEVKUThBNVUxcTRIZjdTd1Y1OFlVYXRNa3lHRjhUTDg5LXo2blBPTlhjelZRN296WFdwR19BWkp6N1RaWE8zb2twbTF0bDM0elhMUHZSYkY2S0VBTnkwbUpzUQ?oc=5"
@@ -21,6 +50,16 @@
       "img": "https://www.youtube.com/embed/ONqZeuZtbVE"
     },
     {
+      "t": "League of Legends Classic já tem data para chegar ao fim",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/games/league-of-legends-classic-ja-tem-data-para-chegar-ao-fim/",
+      "fonte": "Adrenaline",
+      "data": "2026-10-15T11:24:00.000Z",
+      "c": "Lançamentos",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHF4azNqUnd2RmJOZU5jUnpMdnZRd0Q1UXF5THJHcHF1UmRMTlpNS3RvNzZyWVRpUkZXRXJEYUJ0aVMzVnhiUGdpcnF6OEdaZkZGRFFzdmY2UkQ3VDFTQlZ5Skp4YzQ1MHNZNnlZM1RGMGVieGxJYW1RV2NQVGcxWTFrMXNXNUtTdDBydUQ5aGFWUmkzclBwQg?oc=5"
+    },
+    {
       "t": "Review - Orbitals é um co-op encantador, mas deixa 'gostinho' de quero mais",
       "d": "&nbsp;&nbsp; Rádio Itatiaia",
       "link": "https://www.itatiaia.com.br/games/review-orbitals-e-um-co-op-encantador-mas-deixa-gostinho-de-quero-mais/",
@@ -32,23 +71,12 @@
     },
     {
       "t": "Lula diz que desenvolvedores de games brasileiros não serão inferiores aos estrangeiros",
-      "d": "&nbsp;&nbsp; Estadão",
-      "link": "https://www.estadao.com.br/em-alta/tecmundo/voxel/lula-diz-que-desenvolvedores-de-games-brasileiros-nao-serao-inferiores-aos-estrangeiros/",
-      "fonte": "Estadão",
-      "data": "2026-10-15T10:35:27.000Z",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/lula-diz-que-desenvolvedores-de-games-brasileiros-nao-serao-inferiores-aos-estrangeiros/",
+      "fonte": "TecMundo",
+      "data": "2026-10-15T10:26:00.000Z",
       "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/7QOIBV7HAZBXVK37RI5DG4L6B4.jpg?quality=80&auth=9b881bac0243ca29ef2f7b5cff31e9a0ce00faa8ddc8957f7e5d7e500b37c5f3&width=1200&height=630&smart=true",
-      "orig": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeGVOU0VOWHJlaDNRUVJqdmJQUzJXM2hwWGtaQ2wwaGtnaGViZmVwci1ySWNNcm5qNlYzV1puU2hYZGNSejFHZlloTUYyOWpvZ1Q0LWdqNnNUSEJ3U3E3STNSU1ZfYzhLMnZJTkZQMERONVNIRGtfcGNmdU5yMzNOd2lqTC1Bd3F4OHFRa1lIY29yaHBlNVpyWHZNS3BtLVdWX2drejgtUWVxVGJyV2FoajZkNVhOVkJleUFGdXdzQ0JQYXVHNjBzZTQ5S0EwQm1JNUhGMg?oc=5"
-    },
-    {
-      "t": "Review | Disney/Pixar Toy Story: Retro Roundup!",
-      "d": "&nbsp;&nbsp; NintendoBoy",
-      "link": "https://nintendoboy.com.br/2026/10/review-disney-pixar-toy-story-retro-roundup/",
-      "fonte": "NintendoBoy",
-      "data": "2026-10-15T10:33:49.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSjRzUlNVVEpxbkhiS29kb21XT1dCazJ1UEpneXhpMlF5bmpZYmpCR0J1WS1SQ290LWJoWnNlc2w5ZGZ6eTVDRGlLYUttLU43ZUQwQkFrSk4zRzZiOTBFMHlualk3WmFFbjFFRmJJNHY0c0pZcDZjRkZuNjV6V2l1T3FLQS11QQ?oc=5"
+      "img": "https://www.estadao.com.br/resizer/v2/WWETUDBI4REAXMDAO5DFJMJUS4.png?quality=80&auth=6db1224e272b0191205be72a9924dd54a246bdbe089009ebf332690fe29b7a10&width=710"
     },
     {
       "t": "Melhores opções de Notebook gamer com 16GB de RAM",
@@ -58,16 +86,6 @@
       "data": "2026-10-15T10:15:00.000Z",
       "c": "Geral",
       "img": "https://www.estadao.com.br/resizer/v2/6S43SJV5IRAZJPDH66NOIZRU5M.jpg?quality=80&auth=7839dc5e337571bd36994524479ec2e9b0ad42aa0c41cc24e2245ddd0d8a5f47&width=710"
-    },
-    {
-      "t": "‘Street Fighter’ traz lutas dos videogames aos cinemas da região",
-      "d": "&nbsp;&nbsp; liberal.com.br",
-      "link": "https://liberal.com.br/cultura/cultura-na-regiao/street-fighter-traz-lutas-dos-videogames-aos-cinemas-da-regiao",
-      "fonte": "liberal.com.br",
-      "data": "2026-10-15T09:52:12.000Z",
-      "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOVFyMlhSZk5Ra1o1WFQtMWJhTFRXcDhxamxhb3RvYzZCWVV6YmFZOUZNRGlkRVZIeVRKU01USDVQV0pkR3ZwNUtob0JZSW1WaTVJSnUwVklJaFFrQ2JhU0pVazR2YktscnZ2dXBLVXZvSllRc0xBcFBiLXBjOHhvTDNnOHdqazJ6TmVPZFA5SDVkR0pTWFV5TUxhS1JpZkppRDlqRjV3MUNEUFBpVFd0cw?oc=5"
     },
     {
       "t": "LEGO Batman e mais jogos de Xbox com até 90% OFF; confira",
@@ -258,24 +276,6 @@
       "data": "2026-10-14T16:12:12.000Z",
       "c": "PC",
       "img": "https://flowgames.gg/wp-content/uploads/2025/03/download-2-1-1.jpg"
-    },
-    {
-      "t": "Microsoft anuncia Xbox Labs para surfar na onda de ports e games que usam IA",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/microsoft-anuncia-xbox-labs-para-surfar-na-onda-de-ports-e-games-que-usam-ia/",
-      "fonte": "TecMundo",
-      "data": "2026-10-14T15:45:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/ITKSIRHEU5GLZDZXHIKGXZKXMI.jpg?quality=80&auth=32ba154293ff139e719a48c9a3873a66b31bd1351481b1b56155168c4ef2c4f6&width=710"
-    },
-    {
-      "t": "Rumores indicam que a Nvidia RTX 5090 foi cancelada, mas ela é tão cara que isso não chega a importar",
-      "d": "Já havia sido descontinuado para a maioria",
-      "link": "https://br.ign.com/nvidia-rtx-5090/156820/rumores-indicam-que-a-nvidia-rtx-5090-foi-cancelada-mas-ela-e-tao-cara-que-isso-nao-chega-a-importar",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-14T15:43:49.000Z",
-      "c": "PC",
-      "img": "https://sm.ign.com/ign_br/news/n/nvidia-rtx/nvidia-rtx-5090-reportedly-dead-but-its-so-expensive-that-it_b8fg.jpg"
     }
   ],
   "videos": [
@@ -427,7 +427,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6660,
+      "views": 6662,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
