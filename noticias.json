@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-15T04:41:40.491Z",
+  "atualizadoEm": "2026-10-15T05:11:48.518Z",
   "noticias": [
+    {
+      "t": "Microsoft lança um controle Xbox menor e mais barato",
+      "d": "&nbsp;&nbsp; Notebookcheck.info",
+      "link": "https://www.notebookcheck.info/Microsoft-lanca-um-controle-Xbox-menor-e-mais-barato.1424491.0.html",
+      "fonte": "Notebookcheck.info",
+      "data": "2026-10-15T04:19:53.000Z",
+      "c": "Consoles",
+      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/XBOX-Nano-Controller95.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd1BSM25FY1pYYkJteExZOWRhbDlaRTQwcXF6R0JzNmxGdG9CSTNtbzZPMUc0c2Q0Nm1IaUN2MGRHV2swbElSS1lvSkxfSERaRnZHVkh1ZGdzRXM4NmpIZ21VZ0RTWEFhT0lLQWkxRXp2VTVpVm84eDJGenJoVW95ZlY3QWJaNXBRQXpfV1M0UE5fa0I3cjNpLWZnZWd0VDA?oc=5"
+    },
     {
       "t": "LULA REGULAMENTA MARCO DOS GAMES PARA IMPULSIONAR SETOR NO BRASIL",
       "d": "&nbsp;&nbsp; - Bahia Economica",
@@ -40,16 +50,6 @@
       "c": "Consoles",
       "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/10/PlayStation-Plus-Extra-Deluxe-Outubro-2026.webp",
       "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XMjN0Z2x6Si01Y3BGTjJfSEFOYW11MTl4RGVLZ3FiMjFqQTNLTTdKVVZHN1BLSzNwbUswVjhKVnVGVDJZU21TZ1I5dzlCd00tclo0Y1FwYWljS1I5UnROUFNtenNhbGZVQXNsUU5DWDRxV2g4c21VTWIwZkc?oc=5"
-    },
-    {
-      "t": "Lula assina decreto que pode abrir novas oportunidades para desenvolvedores de games no Brasil",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/decreto-marco-legal-jogos-eletronicos-rouanet-games-credito-fsa-como-funciona/",
-      "fonte": "Adrenaline",
-      "data": "2026-10-15T00:36:00.000Z",
-      "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZnFVTFRXTk5lcWNwMGZnYnlSeWxpR19veXRmUFlESGZpWEMtWFItUWxjd3M1NGp1MzZLaW8xMVZENXQ0WlpzdHlVRFM4YkRiTUU1d3RWQy0xN1JkeU04Vi1OUHBzb21zWmhBd1Bld055dUE4Z0t4ekRYRU5MTHdTLWhhaDVsa1VXbGxyemU2UEJmMlk1T3NyRUZSUVE5eDlCWE5EOUM2VFVlRExDMWVuUjB4cVE?oc=5"
     },
     {
       "t": "LEGO Batman e mais jogos de Xbox com até 90% OFF; confira",
@@ -426,7 +426,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6657,
+      "views": 6659,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -442,7 +442,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 19941,
+      "views": 19946,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -474,7 +474,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3051,
+      "views": 3052,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
@@ -482,7 +482,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3494,
+      "views": 3495,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
