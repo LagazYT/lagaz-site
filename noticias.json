@@ -1,25 +1,64 @@
 {
-  "atualizadoEm": "2026-10-15T13:14:22.640Z",
+  "atualizadoEm": "2026-10-15T13:44:31.436Z",
   "noticias": [
     {
-      "t": "A parte 1 do conteúdo extra pago acabou de chegar para Fire Emblem: Fortune's Weave!",
-      "d": "&nbsp;&nbsp; Nintendo",
-      "link": "https://www.nintendo.com/pt-br/whatsnew/a-parte-1-do-conteudo-extra-pago-acabou-de-chegar-para-fire-emblem-fortunes-weave/",
-      "fonte": "Nintendo",
-      "data": "2026-10-15T13:08:36.000Z",
+      "t": "Crusader Kings III: Chapter IV já está disponível para PS5 e Xbox Series X|S",
+      "d": "&nbsp;&nbsp; Pizza Fria",
+      "link": "https://pizzafria.ig.com.br/news/crusader-kings-iii-chapter-iv-lancamento/",
+      "fonte": "Pizza Fria",
+      "data": "2026-10-15T13:36:51.000Z",
       "c": "Consoles",
-      "img": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMnU2WU1wRTZGRFZ6QnJOVDdFc3ZHM2JTSjItUnN6NEl0NVBuWTNqSmEwaG56M1JGaW9nQXVrQnFScFU0Y2otNy02VElGMTB0ZktSQUdCemc0ODVla2dMcTRuaW9FTzJfVFA3bVJYS29IbV9vTk1DSUJuY1Y2X1RERm1iaXZXcXRxR2xQNVVMV21kVEV3WmhlNmRLaTBDNm5RbGNsSkpUd1Z2ZTNLSkY3QVBJVFhCZXcwMXNiZTVGNA?oc=5"
+      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/10/crusader-kings-chapter-5-v-main-5050.webp",
+      "orig": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83ZEF2ZjdTUmdYT3dreUgtd19rbzY0T3E3MjF5Rlk3WVYwNmNsdEZybWZ5YVY5c3pFM0NzVEpWTUtjXzJ5b1JPMHd2MnRiZHFidnpGZjFJUFlNa084OVFHQ3c1ZGFzSEVUdmlUdnNPeVhQMHlGcTB0OVN0MWIyR0E?oc=5"
     },
     {
-      "t": "Novo launcher da Epic Games é mais leve, rápido e 100% feito por IA",
-      "d": "&nbsp;&nbsp; Canaltech",
-      "link": "https://canaltech.com.br/games/novo-launcher-da-epic-games-e-mais-leve-rapido-e-100-feito-por-ia/",
-      "fonte": "Canaltech",
-      "data": "2026-10-15T13:07:00.000Z",
-      "c": "Geral",
-      "img": "https://tl.ctcdn.com.br/mKLx3-K3LUAQyiWq65im2KDj9Qo=/1200x675/smart/filters:format(webp):quality(85)/b3aac4fd-5c43-4036-b050-9d82943c7a04.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVW14TFNNUFVvcTNqWEdhcGh1T0dKYmhlQ3Q3dGVabi0tX0kzUzJjOTZrcEpoN2xZYnotUGpkdGxPcFRMUDFqLU9iMVAwdUZKVDdrSnpCTDBqUlZVVFh6dTZnWU92c19USUlZV1lMUGgzN3ptYUZXZ1RKRVFlZ0pSWXdWTHF6Wi1ZQnU2Y1BoMXRzeS1BSmtXRDM1amFkZw?oc=5"
+      "t": "Slain 2: The Beast Within é confirmado para Nintendo Switch",
+      "d": "&nbsp;&nbsp; Pizza Fria",
+      "link": "https://pizzafria.ig.com.br/news/slain-2-the-beast-within-switch/",
+      "fonte": "Pizza Fria",
+      "data": "2026-10-15T13:30:02.000Z",
+      "c": "Consoles",
+      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2025/04/image-151.png",
+      "orig": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZV2xyLUF4anRhdXJfQUhMVml3emVDck9wVzkxWS1ZRUNBclBSLXp4SE1PWkd0a0pKdTBjeW5sdnNoSm9MLXFaZ3VfaEpXZkpmMm1IZnFtMWhXa0RCZ0NUNmpVREs3bjVZWkx2dzZ5LWF3SWs?oc=5"
+    },
+    {
+      "t": "Presidência e MinC regulamentam Marco Legal dos Games e anunciam medidas de incentivo à indústria brasileira",
+      "d": "&nbsp;&nbsp; Drops de Jogos",
+      "link": "https://dropsdejogos.uai.com.br/noticias/industria/presidencia-e-minc-regulamentam-marco-legal-dos-games-e-anunciam-medidas-de-incentivo-a-industria-brasileira/",
+      "fonte": "Drops de Jogos",
+      "data": "2026-10-15T13:30:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2026/10/lula-2-1-scaled.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOclN0a0ljandJOHJlNWhjTG9qZVdncGI0bWFsZmxuekVRcEk4aUU2dmpxZUdCeVI5R1FTTG1yWjJrV041MzNRNkJYS041YndoaC02RzlZbmRwdVR4QmJRMy13d3lnN25hQk5TUEtiQkNSdVJaU0x2NU5pU1l3V2lndG14blEwMDlvdHpIT0ZzUDhNcm5FUEpwLVYzS0J4YnJvT1lyaWt0SFg3QVh5Nzl6VDAyV3BHWnpCZGluSGRtdzVubXlaWENZX3hGenU3OXB5bHBCZ3d4NndYVjVGaEVXVnplZ2EtZVRDalp2Ry1vZ1JTUQ?oc=5"
+    },
+    {
+      "t": "Tormented Souls 2 já está disponível para Nintendo Switch 2",
+      "d": "&nbsp;&nbsp; Pizza Fria",
+      "link": "https://pizzafria.ig.com.br/news/tormented-souls-2-switch-2-lancamento/",
+      "fonte": "Pizza Fria",
+      "data": "2026-10-15T13:23:39.000Z",
+      "c": "Consoles",
+      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2024/08/key-art-main.png",
+      "orig": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RQUNQWTIxTEhBV0dZWnNEYzh5TENFQ2lyM0dWdUhlOFk2aVdhUThvdmNMdFhtZFFSSWZnazFYeW9zS2RKdHVqVzI3OGF3eHVUYmtJckJaRTh6dllvdHBRR1lpdkZzSHlVVXVnUEg2TUJmeTM3NkpsUUlhVQ?oc=5"
+    },
+    {
+      "t": "GTA 6 ganha BELO trailer de lançamento",
+      "d": "Sem qualquer aviso prévio, a Rockstar Games liberou um empolgante trailer de lançamento do GTA 6. Confira!",
+      "link": "https://flowgames.gg/gta-6-ganha-belo-trailer-de-lancamento/",
+      "fonte": "Flow Games",
+      "data": "2026-10-15T13:17:52.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.youtube.com/embed/rz1B4B2yBZY"
+    },
+    {
+      "t": "GTA 6 ganha trailer de lançamento com música inédita e destaque para o PS5",
+      "d": "&nbsp;&nbsp; Omelete",
+      "link": "https://www.omelete.com.br/games/gta-6-rockstar-games-trailer-de-lancamento",
+      "fonte": "Omelete",
+      "data": "2026-10-15T13:13:00.000Z",
+      "c": "Consoles",
+      "img": "https://cdn.ome.lt/YhAE3Ne8igo7X7gJFO0kTWLaGlg=/1200x630/smart/filters:format(webp)/extras/conteudos/GTAVI_Launch_Trailer_poster.0_q-sdrgufc.webp",
+      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmZ4YjN2YXJZcjEwM0FjeHZVa0RBTzFMV3VzQkpad0pRTUtuWHV3NXduMDFjUlBpT2FYUTN3NXpfVUpwOWZzS1NJUTFaNmczcXhLX1JaOUVuNHNtd1VESTRhT0dONnp0b280aW8wTzFOUDJCdnBwdW5DV1RxVG5vMw?oc=5"
     },
     {
       "t": "Street Fighter é um espetáculo divertido de ação — e não espere mais do que isso",
@@ -31,26 +70,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/blob_gpyc.jpg"
     },
     {
-      "t": "Hokko Spaces será lançado em 29 de outubro para PC e Nintendo Switch",
-      "d": "&nbsp;&nbsp; Pizza Fria",
-      "link": "https://pizzafria.ig.com.br/news/hokko-spaces-lancamento-29-outubro/",
-      "fonte": "Pizza Fria",
-      "data": "2026-10-15T13:00:00.000Z",
-      "c": "PC",
-      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/10/Hokko-Spaces.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uR2x0VWlHNjBYSnA1QVdPSFN2MFczdWRGNEJCSzJBTXdSMkszUWE3c0NmRDY0dU03NXlkaEFUM1JHcjNBV09tSHdJZ1hFRVp0Tk55RUljcmx5LTBMWGRNbXMyOGdrUGZmLWFuZlZqdE5maDRLUXlZ?oc=5"
-    },
-    {
-      "t": "Com 2 anos de atraso, Lula regulamenta marco legal dos games",
-      "d": "&nbsp;&nbsp; Revista Oeste",
-      "link": "https://revistaoeste.com/politica/com-2-anos-de-atraso-lula-regulamenta-marco-legal-dos-games/",
-      "fonte": "Revista Oeste",
-      "data": "2026-10-15T12:56:50.000Z",
-      "c": "Geral",
-      "img": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/lula_meta_shopee-910x568.jpeg.webp",
-      "orig": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSXRRRkY3bEE4M2FpdlpBR2NEZ0kwcndsUGVBN2lhSWpXLVY5Q29aQjMya0xrMlpjVVB2Y1NkTC0zdWVpbnN5eGU5VldxcERnZ3lfdEwwZlJvYy01Q1Y4VWk4Wmx1RVJGSjRFYmIxNTdnM3ZZNFFfVThveEFTaFJPVUxKUHdZakQySkRpeElsUEVKMkxJdkxudDl3?oc=5"
-    },
-    {
       "t": "GOTY? GTA 6 estará entre os indicados no The Game Awards 2026",
       "d": "GTA 6 estará elegível para participar do TGA 2026",
       "link": "https://flowgames.gg/goty-gta-6-estara-no-the-game-awards-2026/",
@@ -58,16 +77,6 @@
       "data": "2026-10-15T12:47:40.000Z",
       "c": "Eventos",
       "img": "https://flowgames.gg/wp-content/uploads/2026/06/GTA-6-capa-2.jpg"
-    },
-    {
-      "t": "Xbox quer saber se The Elder Scrolls e Minecraft devem se tornar exclusivos",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/xbox/xbox-quer-saber-se-the-elder-scrolls-e-minecraft-devem-se-tornar-exclusivos/",
-      "fonte": "Adrenaline",
-      "data": "2026-10-15T12:43:00.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY29McURsTkdoTTVOcWN2VWtOQ0J0bVd5WjIxZ1FtbGRDUDZXX0JKeElRQ1JaU09lakVyd0FBTmZKdGFqTElISFgza2hLZTY2bWk0WUpQU0pRT0hNRVRsS19jMHI2WERqOG5IdnE1dUV2cl9BMmo4RUNtZUZESnlGM2lLc0Y1Wl8tSHJXY1RTSHZWU1NLWm1vSDk4Q1JLeGZZVGtMM01XRlZiREJRVVpScXZWTEdjWEFm?oc=5"
     },
     {
       "t": "RTX Spark: NVIDIA e Microsoft mostram como os jogos vão rodar em notebooks com chip Arm",
@@ -267,15 +276,6 @@
       "data": "2026-10-14T16:43:07.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/news/b/battlefiel/battlefield-6-skins-with-way-too-many-pistols-and-spelling-e_46ab.jpg"
-    },
-    {
-      "t": "Epic Games Store libera novo launcher alfinetando Steam",
-      "d": "A Epic Games Store acabou de liberar um novo launcher que traz mais recursos e aproveitou a ocasião para alfinetar a Steam",
-      "link": "https://flowgames.gg/epic-games-store-libera-launcher-alfinetando-steam/",
-      "fonte": "Flow Games",
-      "data": "2026-10-14T16:39:08.000Z",
-      "c": "PC",
-      "img": "https://flowgames.gg/wp-content/uploads/2025/03/Epic-Games-Store.jpg"
     }
   ],
   "videos": [
@@ -283,7 +283,7 @@
       "id": "fu7tRT_y3is",
       "t": "GOD OF WAR 3 REMASTERED - NATIVE PC PORT RTX 5070 | 1440P 60 FPS",
       "data": "2026-10-12T17:27:55Z",
-      "views": 1085,
+      "views": 1096,
       "img": "https://i.ytimg.com/vi/fu7tRT_y3is/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=fu7tRT_y3is"
     },
@@ -427,7 +427,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6660,
+      "views": 6662,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -483,7 +483,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3497,
+      "views": 3498,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
