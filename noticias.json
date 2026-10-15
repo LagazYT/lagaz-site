@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-14T23:39:47.328Z",
+  "atualizadoEm": "2026-10-15T00:09:55.877Z",
   "noticias": [
+    {
+      "t": "Deep Dish Dungeon é lançado para PC e Xbox com estreia no Game Pass",
+      "d": "&nbsp;&nbsp; GameBlast",
+      "link": "https://www.gameblast.com.br/2026/10/deep-dish-dungeon-e-lancado-para-pc-e-xbox-com-estreia-no-game-pass.html",
+      "fonte": "GameBlast",
+      "data": "2026-10-14T23:40:20.000Z",
+      "c": "PC",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPazNvSTVrRG1GY2EyanRzWUZid0FQSDczX2VNdmxtbXh1dEctZjl6THU5azdBTEJHUkw3QkNYWElxdktHblU5UG54dDhFWk1TM2Y2b051QndpakpNWU9lVGJTREtGY284a0NjeGdHWU9heXp2SE5TUzdzYjZSUXJlbkd2dXVvclFCakE5NGF4S0JBT01GOHlGdmRDLU5QM1huTjJ4UDRQYUhrQjRyNWc?oc=5"
+    },
     {
       "t": "Em Brasília por PEC 6x1, Lula assina decreto de games e aciona TSE contra Meta",
       "d": "&nbsp;&nbsp; Band",
@@ -40,16 +50,6 @@
       "c": "Lançamentos",
       "img": "https://www.crunchyroll.com/news/img/favicons/favicon-v2-96x96.png",
       "orig": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcklxbkt6LUxkVWtlakY3MUZiaXl1SVpBTDRHU01HeGQ3U0lKc3cyYzRWbWVhc1ptaUpoR1c2b3NfX0RGd2MtWWFGX3RYZWdYajJBU3RSakkzZktLM0VMWG5BUkhqQjA4TzdfYk9sdTBFM0U2ZmcwR2o5c1VOa2tmUk9zNlZtRkljNjBJdmN4Y2R0UFBlUnI0ZG9XN3BlYXVMN1RRN0s2ZTk2SGdXNmZQMEZHUkFfMTdrZ05F?oc=5"
-    },
-    {
-      "t": "Lula regulamenta mercado games anuncia R$ 200 mi p o setor",
-      "d": "&nbsp;&nbsp; Claudio Dantas",
-      "link": "https://claudiodantas.com.br/lula-regulamenta-mercado-de-games/",
-      "fonte": "Claudio Dantas",
-      "data": "2026-10-14T21:58:39.000Z",
-      "c": "Lançamentos",
-      "img": "https://claudiodantas.com.br/wp-content/uploads/2026/07/lulacachaca.png",
-      "orig": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFeHgtV2ZBSVdxOU5OVkhaNEFvR1hqalFmRXZhdERIMlFhRGtMM3pheGR3aVI4OGMtenZHTFBSRW5OSlJDb0FxZWc5cm82WllOelY3bEdBdHU1eExVTmhrSzNkcEV1c1Z5WkVVYTByWGM?oc=5"
     },
     {
       "t": "Lula regulamenta Marco Legal dos Jogos Eletrônicos com o decreto Desenvolve Gamers Brasil",
@@ -426,7 +426,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6654,
+      "views": 6657,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -488,202 +488,6 @@
     }
   ],
   "lancamentos": [
-    {
-      "t": "Desolus",
-      "data": "2026-10-15",
-      "plats": [
-        "Xbox",
-        "Switch 2",
-        "PC",
-        "PS5"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8pt9.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/desolus"
-    },
-    {
-      "t": "Odd Town",
-      "data": "2026-10-15",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod0el.jpg",
-      "hype": 4,
-      "link": "https://www.igdb.com/games/odd-town--1"
-    },
-    {
-      "t": "Chained Beasts",
-      "data": "2026-10-15",
-      "plats": [
-        "Xbox",
-        "PC",
-        "PS5",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2kz.jpg",
-      "hype": 4,
-      "link": "https://www.igdb.com/games/chained-beasts"
-    },
-    {
-      "t": "Thalia",
-      "data": "2026-10-15",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9yb1.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/thalia"
-    },
-    {
-      "t": "Fatal Train",
-      "data": "2026-10-15",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobhrr.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/fatal-train"
-    },
-    {
-      "t": "Dupery: A Game of Solo Deduction",
-      "data": "2026-10-15",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8mo.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/dupery-a-game-of-solo-deduction"
-    },
-    {
-      "t": "We Are So Cooked",
-      "data": "2026-10-15",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobgud.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/we-are-so-cooked"
-    },
-    {
-      "t": "Castlevania: Belmont's Curse",
-      "data": "2026-10-15",
-      "plats": [
-        "Xbox",
-        "PC",
-        "PS5",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrky.jpg",
-      "hype": 82,
-      "link": "https://www.igdb.com/games/castlevania-belmonts-curse"
-    },
-    {
-      "t": "Hypnostasis",
-      "data": "2026-10-15",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblhd.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/hypnostasis"
-    },
-    {
-      "t": "Bluey's Happy Snaps",
-      "data": "2026-10-15",
-      "plats": [
-        "Xbox",
-        "Switch 2",
-        "PC",
-        "PS5",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtwy.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/blueys-happy-snaps"
-    },
-    {
-      "t": "Toy Story: Retro Roundup!",
-      "data": "2026-10-15",
-      "plats": [
-        "Xbox",
-        "Switch 2",
-        "PC",
-        "PS5",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5v8.jpg",
-      "hype": 4,
-      "link": "https://www.igdb.com/games/toy-story-retro-roundup--1"
-    },
-    {
-      "t": "Toy Story 3: Complete Edition",
-      "data": "2026-10-15",
-      "plats": [
-        "Xbox",
-        "Switch 2",
-        "PC",
-        "PS5",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5v1.jpg",
-      "hype": 5,
-      "link": "https://www.igdb.com/games/toy-story-3-complete-edition"
-    },
-    {
-      "t": "Toy Story: Retro Roundup! + Toy Story 3: Complete Edition Double Pack",
-      "data": "2026-10-15",
-      "plats": [
-        "Xbox",
-        "Switch 2",
-        "PC",
-        "PS5",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocadw.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/toy-story-retro-roundup-plus-toy-story-3-complete-edition-double-pack"
-    },
-    {
-      "t": "FreshWomen: Season 3",
-      "data": "2026-10-15",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocle4.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/freshwomen-season-3"
-    },
-    {
-      "t": "Ball Picker: Clean Up the Golf Yard",
-      "data": "2026-10-15",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod34f.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/ball-picker-clean-up-the-golf-yard"
-    },
-    {
-      "t": "Gran Turismo 7: Spec IV",
-      "data": "2026-10-15",
-      "plats": [
-        "PS5"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctkf.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/gran-turismo-7-spec-iv"
-    },
-    {
-      "t": "Quarantine Zone: Miami Zero",
-      "data": "2026-10-15",
-      "plats": [
-        "Xbox",
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocy5j.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/quarantine-zone-miami-zero"
-    },
     {
       "t": "Tenebris Somnia",
       "data": "2026-10-16",
@@ -1828,6 +1632,17 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwhx.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/brotato-primal-dread"
+    },
+    {
+      "t": "Marvel Tokon: Fighting Souls - Year 1 DLC Character: Phoenix Cyclops",
+      "data": "2026-11-02",
+      "plats": [
+        "PC",
+        "PS5"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod3zo.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops"
     },
     {
       "t": "Sunset Artisan Chocolate",
@@ -4761,6 +4576,169 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1w5.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/killer-chat-extended-edition"
+    },
+    {
+      "t": "Beyond Astra",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8wys.jpg",
+      "hype": 5,
+      "link": "https://www.igdb.com/games/beyond-astra"
+    },
+    {
+      "t": "The Infectious Madness of Doctor Dekker 2",
+      "data": "2026-12-31",
+      "plats": [
+        "Xbox",
+        "PC",
+        "PS5",
+        "Switch"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zra.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/the-infectious-madness-of-doctor-dekker-2"
+    },
+    {
+      "t": "Animal Use Protocol",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zro.jpg",
+      "hype": 14,
+      "link": "https://www.igdb.com/games/animal-use-protocol"
+    },
+    {
+      "t": "Nonolith",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zxt.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/nonolith"
+    },
+    {
+      "t": "Don't Wake the Beast",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co92a1.jpg",
+      "hype": 5,
+      "link": "https://www.igdb.com/games/dont-wake-the-beast"
+    },
+    {
+      "t": "Void Dungeon",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co92a6.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/void-dungeon"
+    },
+    {
+      "t": "Rottenroots",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocaqd.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/rottenroots"
+    },
+    {
+      "t": "Haunted by Femboy",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa6o1.jpg",
+      "hype": 29,
+      "link": "https://www.igdb.com/games/haunted-by-femboy"
+    },
+    {
+      "t": "Nox Mortalis",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9tph.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/nox-mortalis"
+    },
+    {
+      "t": "Scorched Warfare",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwng.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/scorched-warfare"
+    },
+    {
+      "t": "Expedition: Into Darkness",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co946c.jpg",
+      "hype": 4,
+      "link": "https://www.igdb.com/games/expedition-into-darkness"
+    },
+    {
+      "t": "A Tiny Wander",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94pe.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/a-tiny-wander"
+    },
+    {
+      "t": "Life of a Lonely Indie Game Developer",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94pg.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/life-of-a-lonely-indie-game-developer"
+    },
+    {
+      "t": "Pinbleton Park",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94zs.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/pinbleton-park"
+    },
+    {
+      "t": "Feltopia",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co954f.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/feltopia"
+    },
+    {
+      "t": "Snake in the Dark",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co958h.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/snake-in-the-dark"
     }
   ],
   "musicas": []
