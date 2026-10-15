@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-15T19:17:09.831Z",
+  "atualizadoEm": "2026-10-15T19:47:19.484Z",
   "noticias": [
     {
       "t": "Nintendo Switch 2 cai de preço no Brasil antes de novo Zelda",
@@ -2271,6 +2271,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa7pa.jpg",
       "hype": 6,
       "link": "https://www.igdb.com/games/gothic-3-classic"
+    },
+    {
+      "t": "Appulse",
+      "data": "2026-11-26",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9u83.jpg",
+      "hype": 8,
+      "link": "https://www.igdb.com/games/appulse"
     },
     {
       "t": "Am I Nima",
@@ -4733,16 +4743,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94pe.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/a-tiny-wander"
-    },
-    {
-      "t": "Life of a Lonely Indie Game Developer",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94pg.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/life-of-a-lonely-indie-game-developer"
     }
   ],
   "musicas": []
