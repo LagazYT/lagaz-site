@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-15T10:43:40.177Z",
+  "atualizadoEm": "2026-10-15T11:13:48.814Z",
   "noticias": [
     {
       "t": "Lula diz que desenvolvedores de games brasileiros não serão inferiores aos estrangeiros",
@@ -151,6 +151,16 @@
       "img": "https://www.estadao.com.br/resizer/v2/ZLXD3U6XQZCNRLMSHBLYIKSS5A.jpg?quality=80&auth=721f3c1a9769b833f614e01368eb7556f76e2a24b6cd8e19a6d1df6f1ec7a4f5&width=710"
     },
     {
+      "t": "Jogos em oferta na Steam por menos de R$ 10; até 95% de desconto",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-em-oferta-na-steam-por-menos-de-r-10-ate-95-de-desconto/",
+      "fonte": "Adrenaline",
+      "data": "2026-10-14T18:25:00.000Z",
+      "c": "Ofertas",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaDJtQU9aS3A1MUF0eFR4LUZtTWVTbW9wTERQd3hjemtjWHJLZjZPVEo1VGppRzZvVHd4TUxxS29wTlZFYURiRnBHQlptUDJKUFlPQlFXYy1wck0tczdQQ2lvN1FaRlRqR0dFODdiZlY4RU42dE1hYXpMSU9lUUpHYUpNYWxXdlpmbmw4eFVwYWswLWl2N0hTNXVtWFhUaktGcklidDBqU1AzWXc?oc=5"
+    },
+    {
       "t": "Lula assina Marco dos Jogos Eletrônicos com Rouanet Games e plataforma grátis",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/lula-assina-marco-dos-jogos-eletronicos-que-inclui-a-lei-rouanet-games-e-plataforma-gratis/",
@@ -266,15 +276,6 @@
       "data": "2026-10-14T15:40:19.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2026/09/GTA-6-Lucia-praticando-boxe.jpg"
-    },
-    {
-      "t": "DLSS 5 chega a Hogwarts Lecady, RTX Remix e mais em breve",
-      "d": "O novo DLSS 5 da NVIDIA ganhou novidades e mais jogos vão ganhar o recurso em breve",
-      "link": "https://flowgames.gg/dlss-5-chega-hogwarts-lecady-rtx-remix-mais-em-breve/",
-      "fonte": "Flow Games",
-      "data": "2026-10-14T15:11:22.000Z",
-      "c": "PC",
-      "img": "https://www.youtube.com/embed/DUp0h7TCeuM"
     }
   ],
   "videos": [
@@ -282,7 +283,7 @@
       "id": "fu7tRT_y3is",
       "t": "GOD OF WAR 3 REMASTERED - NATIVE PC PORT RTX 5070 | 1440P 60 FPS",
       "data": "2026-10-12T17:27:55Z",
-      "views": 1085,
+      "views": 1086,
       "img": "https://i.ytimg.com/vi/fu7tRT_y3is/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=fu7tRT_y3is"
     },
@@ -426,7 +427,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6660,
+      "views": 6659,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -482,7 +483,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3497,
+      "views": 3496,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
