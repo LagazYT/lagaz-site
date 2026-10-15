@@ -1,45 +1,82 @@
 {
-  "atualizadoEm": "2026-10-15T13:44:53.833Z",
+  "atualizadoEm": "2026-10-15T14:15:06.582Z",
   "noticias": [
     {
-      "t": "Crusader Kings III: Chapter IV já está disponível para PS5 e Xbox Series X|S",
-      "d": "&nbsp;&nbsp; Pizza Fria",
-      "link": "https://pizzafria.ig.com.br/news/crusader-kings-iii-chapter-iv-lancamento/",
-      "fonte": "Pizza Fria",
-      "data": "2026-10-15T13:36:51.000Z",
+      "t": "Microsoft consulta fãs sobre decisão polêmica de tornar 3 franquias exclusivas do XBOX",
+      "d": "&nbsp;&nbsp; Canaltech",
+      "link": "https://canaltech.com.br/games/microsoft-consulta-fas-sobre-decisao-polemica-de-tornar-3-franquias-exclusivas-do-xbox/",
+      "fonte": "Canaltech",
+      "data": "2026-10-15T14:11:00.000Z",
       "c": "Consoles",
-      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/10/crusader-kings-chapter-5-v-main-5050.webp",
-      "orig": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83ZEF2ZjdTUmdYT3dreUgtd19rbzY0T3E3MjF5Rlk3WVYwNmNsdEZybWZ5YVY5c3pFM0NzVEpWTUtjXzJ5b1JPMHd2MnRiZHFidnpGZjFJUFlNa084OVFHQ3c1ZGFzSEVUdmlUdnNPeVhQMHlGcTB0OVN0MWIyR0E?oc=5"
+      "img": "https://tl.ctcdn.com.br/4fQ7fwmq1vx3TVZj62lXaw_UVOE=/1200x675/smart/filters:format(webp):quality(85)/46942796-5b02-4741-b4b0-959fa2364881.png",
+      "orig": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakFKaFVpTk5yMjFuOWJ1MGJ0VUxjNUVSN25SVUwxaWRXZ1BYWVN3STBZTnE1UlZWRmhTa0k4WXlkNmxJYUJVMlhJYVNWYkozd00yVXFWcjE4TXhHaVl5WW55Zm5fWUhwSXJ5U3I5dFNqU1RSbTN4X18weXdzZFUwWDMwdVN2MDdwMDdKVWlFbXJTNzRYWGxvWmpxeHpfSU11NGI0OURUaklXcnBMeEhMa3dNNDdDcTdDRUE?oc=5"
     },
     {
-      "t": "Slain 2: The Beast Within é confirmado para Nintendo Switch",
-      "d": "&nbsp;&nbsp; Pizza Fria",
-      "link": "https://pizzafria.ig.com.br/news/slain-2-the-beast-within-switch/",
-      "fonte": "Pizza Fria",
-      "data": "2026-10-15T13:30:02.000Z",
+      "t": "GTA 6 ganha trailer de lançamento com foco no PS5",
+      "d": "&nbsp;&nbsp; Alternativa Nerd",
+      "link": "https://alternativanerd.com.br/games/gta-6-ganha-trailer-de-lancamento-com-foco-no-ps5/",
+      "fonte": "Alternativa Nerd",
+      "data": "2026-10-15T14:09:01.000Z",
       "c": "Consoles",
-      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2025/04/image-151.png",
-      "orig": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZV2xyLUF4anRhdXJfQUhMVml3emVDck9wVzkxWS1ZRUNBclBSLXp4SE1PWkd0a0pKdTBjeW5sdnNoSm9MLXFaZ3VfaEpXZkpmMm1IZnFtMWhXa0RCZ0NUNmpVREs3bjVZWkx2dzZ5LWF3SWs?oc=5"
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV01PS0JjdVQtOXQwUklkSGRFbkZvT3l2SmxpMTBDV0xtR0xwTlNmODlISVhQdnFwQkY4R04wVDI0UTNBeFVudnhXZVA0dXpQalM2OEFVLVp1NTBPd1Q5NElnRlNJZXVuNFV0WHZwSUpVY05yZHNXQjFLcEY3cmVBMExfdlNsY1gtMWsxMHJFMkM?oc=5"
     },
     {
-      "t": "Presidência e MinC regulamentam Marco Legal dos Games e anunciam medidas de incentivo à indústria brasileira",
-      "d": "&nbsp;&nbsp; Drops de Jogos",
-      "link": "https://dropsdejogos.uai.com.br/noticias/industria/presidencia-e-minc-regulamentam-marco-legal-dos-games-e-anunciam-medidas-de-incentivo-a-industria-brasileira/",
-      "fonte": "Drops de Jogos",
-      "data": "2026-10-15T13:30:00.000Z",
-      "c": "Lançamentos",
-      "img": "https://dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2026/10/lula-2-1-scaled.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOclN0a0ljandJOHJlNWhjTG9qZVdncGI0bWFsZmxuekVRcEk4aUU2dmpxZUdCeVI5R1FTTG1yWjJrV041MzNRNkJYS041YndoaC02RzlZbmRwdVR4QmJRMy13d3lnN25hQk5TUEtiQkNSdVJaU0x2NU5pU1l3V2lndG14blEwMDlvdHpIT0ZzUDhNcm5FUEpwLVYzS0J4YnJvT1lyaWt0SFg3QVh5Nzl6VDAyV3BHWnpCZGluSGRtdzVubXlaWENZX3hGenU3OXB5bHBCZ3d4NndYVjVGaEVXVnplZ2EtZVRDalp2Ry1vZ1JTUQ?oc=5"
+      "t": "Forge of the Fae será lançado em março de 2027 para Nintendo Switch",
+      "d": "&nbsp;&nbsp; Nintendo Blast",
+      "link": "https://www.nintendoblast.com.br/2026/10/forge-of-the-fae-sera-lancado-em-marco-de-2027-para-nintendo-switch.html",
+      "fonte": "Nintendo Blast",
+      "data": "2026-10-15T14:05:37.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTkNfWTcxRWRPX2RRNk1jSTBRS24wR3VMazQ0bEtKdzJLSlQ1RWZuUDR2VVdVcnBCSTNWeUY0MXlBUWNhYW1xVnI0WGxPcUFoU2l3ckpFMlZKdGZITWZVbndkOUxIOWtSOG55NkRjWnkyWUlyYUl6TmVsRm11U1J3dDhiUHJnMjlmeHV4MGJrOHI1QU01RjUxeVNrWXFSdXRocmVIM1hiWTh4UG91aFU3SFZ0dw?oc=5"
     },
     {
-      "t": "Tormented Souls 2 já está disponível para Nintendo Switch 2",
-      "d": "&nbsp;&nbsp; Pizza Fria",
-      "link": "https://pizzafria.ig.com.br/news/tormented-souls-2-switch-2-lancamento/",
-      "fonte": "Pizza Fria",
-      "data": "2026-10-15T13:23:39.000Z",
+      "t": "GTA 6 ganha novo wallpaper oficial em altíssima qualidade",
+      "d": "Baixe agora mesmo o wallpaper do Jason e da Lucia de GTA 6 em alta resolução",
+      "link": "https://flowgames.gg/gta-6-ganha-novo-wallpaper-oficial-alta-qualidade/",
+      "fonte": "Flow Games",
+      "data": "2026-10-15T14:03:34.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/10/gta-6-novo-wallpaper.jpg"
+    },
+    {
+      "t": "Natal conquista título geral do Bear Games Nordeste 2026",
+      "d": "&nbsp;&nbsp; Blog do BG",
+      "link": "https://www.blogdobg.com.br/natal-conquista-titulo-geral-do-bear-games-nordeste-2026/",
+      "fonte": "Blog do BG",
+      "data": "2026-10-15T13:59:57.000Z",
+      "c": "Geral",
+      "img": "https://assets.blogdobg.com.br/uploads/2026/10/WhatsApp-Image-2026-10-15-at-10.33.52-893x1024.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3o4RGt1LWtFTDZxS2puaEFaX2dtQ252dFpMeHBkOGhIQ1JWeFVsQk9KdUlxTnhWS3BidGhYbUhUQm8wSGQ4QVRWV0xVaVNhLVktX0k1QmNvMGN5OE1tbE15eUZNT2lwYUUwVWRlOEY3U2VSalRqdVNPcmRjMXV3aFdoQ3FCa2xsSG1uZW1n?oc=5"
+    },
+    {
+      "t": "Menor e mais barato: Xbox Nano é novo controle da marca anunciado",
+      "d": "No Brasil, o Xbox Nano será vendido pelo preço sugerido de R$ 379",
+      "link": "https://flowgames.gg/menor-e-mais-barato-xbox-nano-e-novo-controle-marca/",
+      "fonte": "Flow Games",
+      "data": "2026-10-15T13:59:27.000Z",
       "c": "Consoles",
-      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2024/08/key-art-main.png",
-      "orig": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RQUNQWTIxTEhBV0dZWnNEYzh5TENFQ2lyM0dWdUhlOFk2aVdhUThvdmNMdFhtZFFSSWZnazFYeW9zS2RKdHVqVzI3OGF3eHVUYmtJckJaRTh6dllvdHBRR1lpdkZzSHlVVXVnUEg2TUJmeTM3NkpsUUlhVQ?oc=5"
+      "img": "https://flowgames.gg/wp-content/uploads/2026/10/XBOX-Nano-Controller_Minecraft-Dungeons-II-7aa527a9b3e125426fac-1900x1080-1.jpg"
+    },
+    {
+      "t": "Nintendo Switch 2 despenca de preço nas vésperas do novo Zelda",
+      "d": "&nbsp;&nbsp; Canaltech",
+      "link": "https://canaltech.com.br/games/nintendo-switch-2-despenca-de-preco-nas-vesperas-do-novo-zelda/",
+      "fonte": "Canaltech",
+      "data": "2026-10-15T13:48:56.000Z",
+      "c": "Consoles",
+      "img": "https://tl.ctcdn.com.br/jRTwDL7_1g2wTpgCDJtQtWkrvT8=/1200x675/smart/filters:format(webp):quality(85)/6cb076ae-4e0d-42c6-8167-fadf5a7c7638.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYk1Rc1J3a0xhZ0xSNHlFR0VuQU53SGpTNnJnaEY2R2Nrc2NwelBEUGd3VXBjS1JLanB0RDJpT3ZKTHA2RVpYV1hNTUdnT3hRN3FKNzNOMVl4cDRKVERCXzNhT1VyREpBNHJTb3dhUUM2ZkFBRkVfNmMtNXlxQnhuVGw1ZDJObHRTbVZsdFFfMHo5SzNyX2d4MUdn?oc=5"
+    },
+    {
+      "t": "Imperdível: controle Dualshock para Playstation 4 por menos de R$ 160",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/controle-dualshock-para-palystation-4-fica-pelo-menor-valor-no-mercado-livre/",
+      "fonte": "TecMundo",
+      "data": "2026-10-15T13:34:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.estadao.com.br/resizer/v2/KLF22NNIFBD7LFVMXQCZGYK4FY.jpg?quality=80&auth=90c5197aa505ef60855778efa4b2e5e3de5c84d2902366cba83a0c2b94fd1a0f&width=710"
     },
     {
       "t": "GTA 6 ganha BELO trailer de lançamento",
@@ -49,16 +86,6 @@
       "data": "2026-10-15T13:17:52.000Z",
       "c": "Lançamentos",
       "img": "https://www.youtube.com/embed/rz1B4B2yBZY"
-    },
-    {
-      "t": "GTA 6 ganha trailer de lançamento com música inédita e destaque para o PS5",
-      "d": "&nbsp;&nbsp; Omelete",
-      "link": "https://www.omelete.com.br/games/gta-6-rockstar-games-trailer-de-lancamento",
-      "fonte": "Omelete",
-      "data": "2026-10-15T13:13:00.000Z",
-      "c": "Consoles",
-      "img": "https://cdn.ome.lt/YhAE3Ne8igo7X7gJFO0kTWLaGlg=/1200x630/smart/filters:format(webp)/extras/conteudos/GTAVI_Launch_Trailer_poster.0_q-sdrgufc.webp",
-      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmZ4YjN2YXJZcjEwM0FjeHZVa0RBTzFMV3VzQkpad0pRTUtuWHV3NXduMDFjUlBpT2FYUTN3NXpfVUpwOWZzS1NJUTFaNmczcXhLX1JaOUVuNHNtd1VESTRhT0dONnp0b280aW8wTzFOUDJCdnBwdW5DV1RxVG5vMw?oc=5"
     },
     {
       "t": "Street Fighter é um espetáculo divertido de ação — e não espere mais do que isso",
@@ -249,33 +276,6 @@
       "data": "2026-10-14T17:49:30.000Z",
       "c": "Lançamentos",
       "img": "https://sm.ign.com/ign_br/video/m/marvel-cos/marvel-cosmic-invasion-the-siege-of-castle-doom-gameplay-tra_6tpy.jpg"
-    },
-    {
-      "t": "Ubisoft demite 70 funcionários da equipe de desenvolvimento de Skull and Bones e encerra atividades do estúdio RedLynx, responsável por Trials",
-      "d": "A Ubisoft continua cortando custos em todas as áreas da empresa",
-      "link": "https://br.ign.com/skull-and-bones-1/156829/ubisoft-demite-70-funcionarios-da-equipe-de-desenvolvimento-de-skull-and-bones-e-encerra-atividades",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-14T17:03:28.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/u/ubisoft-cu/ubisoft-cuts-70-staff-from-skull-and-bones-dev-shuts-down-tr_ran8.jpg"
-    },
-    {
-      "t": "Nintendo revela novo trailer de Zelda Ocarina of Time Remake e primeiras impressões do jogo",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/nintendo-revela-novo-trailer-de-zelda-ocarina-of-time-remake-e-primeiras-impressoes-do-jogo/",
-      "fonte": "TecMundo",
-      "data": "2026-10-14T16:45:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/B5XPTSVOONG7NGCLWIWDGRWZQM.jpg?quality=80&auth=863aebfe8f5c2fb3363b8c08f9e78a57a6a1b94e2d032508440213d617feb878&width=710"
-    },
-    {
-      "t": "Skins de Battlefield 6 com pistolas em excesso e erros ortográficos geram acusações de uso de IA",
-      "d": "“Por que esse cara tem cinco pistolas?”",
-      "link": "https://br.ign.com/battlefield-6/156828/skins-de-battlefield-6-com-pistolas-em-excesso-e-erros-ortograficos-geram-acusacoes-de-uso-de-ia",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-14T16:43:07.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/b/battlefiel/battlefield-6-skins-with-way-too-many-pistols-and-spelling-e_46ab.jpg"
     }
   ],
   "videos": [
