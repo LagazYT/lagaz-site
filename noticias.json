@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-16T02:49:45.726Z",
+  "atualizadoEm": "2026-10-16T03:19:51.975Z",
   "noticias": [
+    {
+      "t": "Brasil regulamenta setor de games com incentivos e apoio a estúdios nacionais",
+      "d": "&nbsp;&nbsp; Times Brasil | CNBC",
+      "link": "https://timesbrasil.com.br/brasil/entenda-os-detalhes-sobre-a-regulamentacao-de-jogos-eletronicos/",
+      "fonte": "Times Brasil | CNBC",
+      "data": "2026-10-16T02:59:00.000Z",
+      "c": "Geral",
+      "img": "https://storage.googleapis.com/bucket.timesbrasil.com.br/sites/2026/10/34f6fd26-veja-detalhes-sobre-regulamentacao-de-jogos-eletronicos-no-brasil.webp",
+      "orig": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOckxWR3htZlJiQ1lwVHlqX2t4MHhUUWpzQ2JLMmVlYU9uV2hhc083SjNDSUVSUUpoMXozdWpvSl9wLWJKQzhfeUxzMWNwNWI0b01yY2p1RUxGeENGWGRJSVIybkNQVXpQXzJqODc1WWVaX2xaLWM4THJzVlFRWjBOa2hpbjZSVEhFeUE3MmMyc2lLM3MxNC1RbEZweUtCdUU?oc=5"
+    },
     {
       "t": "A Rockstar Games divulgou o trailer de lançamento de Grand Theft Auto VI, o jogo mais aguardado do ano, a pouco mais de um mês de sua chegada ao mercado. O estúdio confirmou que o título será lançado no dia 19 de novembro para PlayStation 5 e Xbo",
       "d": "&nbsp;&nbsp; Instagram",
@@ -268,16 +278,6 @@
       "c": "Ofertas",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNmdfVDBnYk5oV1NYUTVhWHZLanlVVFFBWEhReTRpbFRtVHlEcVZ4WkI5dElzeDZCazNvOTRwUmF4R0IwQXh1S3UzMGsyNFRtbG5Pbm5nV3V5ZTRlNkE3dUFOalAtVDJadjJVMG03U3JtbmxrLTZhUGZNSS1QOGpqSnlybVZIZ2F0QzVsUkRDdF9DaU51NVhwZQ?oc=5"
-    },
-    {
-      "t": "Humankind 2: o novo jogo de estratégia da Amplitude Studios anunciado para 2027 no PC",
-      "d": "&nbsp;&nbsp; Sortir à Paris",
-      "link": "https://www.sortiraparis.com/pt/o-que-fazer-em-paris/jogos-gaming/articles/354770-humankind-2-o-novo-jogo-de-estrategia-da-amplitude-studios-anunciado-para-2027-no-pc",
-      "fonte": "Sortir à Paris",
-      "data": "2026-10-15T14:39:32.000Z",
-      "c": "PC",
-      "img": "https://cdn.sortiraparis.com/images/80/66131/1326835-humankind-2-le-nouveau-jeu-de-strategie-d-amplitude-studios-annonce-pour-2027-sur-pc.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVG00ZzdWZzBPVTJHSkxwS0gtZVhSelVMTFExa3l1YkU1TGZkX3oyODBVbTl2SXF2WGlWTTBnbEtINndYSTBoTWIxVVV4ejhua2ZrRlhYemZQdkZILWVRSks4LTFPMF9lQUpyVkM4UzF3Qkl3aTQ4SWFqeGQzOVV6ZV83cnNWTWZ4TDg1b1RaWDRuc0V6WWdiaVMyVThaSlBRczlsc3JoczZzWVF0cVJDeXI0elZNb29Cc3lQR0NfbHJsMUVVQnpLdlp5QzJ5X1NJbFdNbXk1TWZ6S05MNXQ5OHp5RllwMUxUTWpTWlFZZUxXaGlycWx2QUdB?oc=5"
     }
   ],
   "videos": [
@@ -429,7 +429,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6662,
+      "views": 6663,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -445,7 +445,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 19961,
+      "views": 19964,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -1705,18 +1705,6 @@
       "link": "https://www.igdb.com/games/emery-hearts"
     },
     {
-      "t": "Edge of Memories",
-      "data": "2026-11-05",
-      "plats": [
-        "Xbox",
-        "PC",
-        "PS5"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gem.jpg",
-      "hype": 20,
-      "link": "https://www.igdb.com/games/edge-of-memories"
-    },
-    {
       "t": "Glory On Pluto",
       "data": "2026-11-05",
       "plats": [
@@ -1864,14 +1852,14 @@
       "link": "https://www.igdb.com/games/ashes-of-the-singularity-ii"
     },
     {
-      "t": "Australia Did It",
+      "t": "Australia Did It: End-of-the-World Railway Defense Business",
       "data": "2026-11-10",
       "plats": [
         "PC"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod5hd.jpg",
       "hype": 2,
-      "link": "https://www.igdb.com/games/australia-did-it"
+      "link": "https://www.igdb.com/games/australia-did-it-end-of-the-world-railway-defense-business"
     },
     {
       "t": "Warhammer Survivors",
@@ -2300,6 +2288,18 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod0pb.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/waltz-and-jam"
+    },
+    {
+      "t": "Edge of Memories",
+      "data": "2026-12-03",
+      "plats": [
+        "Xbox",
+        "PC",
+        "PS5"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gem.jpg",
+      "hype": 20,
+      "link": "https://www.igdb.com/games/edge-of-memories"
     },
     {
       "t": "Akashic Slingshot",
