@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-16T00:49:11.008Z",
+  "atualizadoEm": "2026-10-16T01:19:20.577Z",
   "noticias": [
     {
       "t": "Activision confirma que uma nova subfranquia de Call of Duty está em desenvolvimento, gerando intensa especulação entre os fãs",
@@ -12,13 +12,12 @@
     },
     {
       "t": "Persona 3 Reload e mais games de PS5 e PS4 com até 90% OFF",
-      "d": "&nbsp;&nbsp; Estadão",
-      "link": "https://www.estadao.com.br/em-alta/tecmundo/voxel/persona-3-reload-e-mais-games-de-ps5-e-ps4-com-ate-90-off/",
-      "fonte": "Estadão",
-      "data": "2026-10-15T23:41:14.000Z",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/persona-3-reload-e-mais-games-de-ps5-e-ps4-com-ate-90-off/",
+      "fonte": "TecMundo",
+      "data": "2026-10-15T23:30:00.000Z",
       "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/JGC3ONGTZ5FHFNS7EF46ZTXMXY.jpg?quality=80&auth=f82323436915227efd259ef69ba2167fcc187007bd7489c6b30e3bc266ef2c4e&width=1200&height=630&smart=true",
-      "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVU1qcUR5YWFyejZ5YzQzTDhKZ2oxUHFyZEVTV0hMTjZYeXNwd2FqM2ZFc3dHcFduN195cHRpMllmeXBOWkNKUk1KR2Npa09udTJRRDNQdzhOSDBuWm9CZlBFUmV1ajJReFhjUWhySDVaZmpTSVVYTHlMYmJSLWg2SVpQVlM1RmFMeEFhdDZXUXUzT1htaDhEeDRVZ2lXSWVjVVZMZzQ2a2Y0N1li?oc=5"
+      "img": "https://www.estadao.com.br/resizer/v2/XUGLGOOYPRN7BBJUPO2DCEBAGE.jpg?quality=80&auth=fd9b6ef8fb2fb4f97a76ae6f38b868524583216b2399c10f53d21924ae140ae8&width=710"
     },
     {
       "t": "ASUS começa a vender o ROG Xbox Ally X20 nos EUA",
@@ -29,16 +28,6 @@
       "c": "Consoles",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQzhLWmdfcXBySVlyZV9qcUM0ZTd1ejNTVzYza0VpQzVfSWtLTGt0Yk1kUU81eVlpOFhlN2F1RE5sQTZMbmxpamFtOURuZjNleXBVMFpfcURhVV93cWVMdnJPazB2MzM4RlF2RUpKSHRrLXk1dGw2RlNqcWYwMW9MWkVuMmp3TndrekRlbjJiYXZhYlllSXZuQXpwNmg1RWJPVTE3ZnR3?oc=5"
-    },
-    {
-      "t": "When Sirens Fall Silent chega ao PS5 e Xbox",
-      "d": "&nbsp;&nbsp; einerd.com",
-      "link": "https://www.einerd.com/when-sirens-fall-silent-ps5-xbox/",
-      "fonte": "einerd.com",
-      "data": "2026-10-15T21:30:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.einerd.com/wp-content/uploads/2026/10/When-Sirens-Fall-Silent.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03a0FZS3NYMTNjLUxrNmhYbXVBcUl4cnZCUU1jbEpmd3VDT1R0UWZLNE84dUN3MDltMFB3b29naTBmYTRCVXJqQ21YTUh2SlhrOWgyNHgyUmJYcVp2bHF2ejRPclgzNm8?oc=5"
     },
     {
       "t": "Temporada 5 de Overwatch é uma das melhores até agora!",
@@ -85,6 +74,15 @@
       "data": "2026-10-15T21:04:31.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/blob_g3ub.png"
+    },
+    {
+      "t": "Brasil Game Show 2026 | Tudo o que jogamos no evento",
+      "d": "&nbsp;&nbsp; Omelete",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnJ5QUpkZDlvV2FPbFJObHhTS19KYndRd2pYQ2xqRTZYWmtaVTE0SU9tZFpCNmtvMkJUREExNmZ3UUpfblBjOVRuMU04R0J6UWdOaUlWTnhqOFp1aUJPY1o4RzBheU16WUh2MUVOS25YUzYwMzI0SkhialZxVkkxdEpIWGxiOWwtM1Nz?oc=5",
+      "fonte": "Omelete",
+      "data": "2026-10-15T20:58:00.000Z",
+      "c": "Eventos",
+      "img": ""
     },
     {
       "t": "\"Sem querer ofender Zelda, mas [GTA e COD] são os dois maiores jogos do ano”: Activision acredita que o GTA 6 vai, na verdade, ajudar o Modern Warfare 4",
@@ -285,7 +283,7 @@
       "id": "fu7tRT_y3is",
       "t": "GOD OF WAR 3 REMASTERED - NATIVE PC PORT RTX 5070 | 1440P 60 FPS",
       "data": "2026-10-12T17:27:55Z",
-      "views": 1141,
+      "views": 1147,
       "img": "https://i.ytimg.com/vi/fu7tRT_y3is/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=fu7tRT_y3is"
     },
@@ -293,7 +291,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8010,
+      "views": 8011,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -429,7 +427,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6662,
+      "views": 6663,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -445,7 +443,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 19961,
+      "views": 19963,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -453,7 +451,7 @@
       "id": "GnGWWpjnYsk",
       "t": "CONSIGA TODAS HABILIDADES DO MONOCO FACILMENTE | EXPEDITION 33",
       "data": "2025-05-14T15:00:34Z",
-      "views": 4240,
+      "views": 4241,
       "img": "https://i.ytimg.com/vi/GnGWWpjnYsk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=GnGWWpjnYsk"
     },
@@ -485,7 +483,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3501,
+      "views": 3502,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
