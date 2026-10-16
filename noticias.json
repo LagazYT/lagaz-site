@@ -1,12 +1,22 @@
 {
-  "atualizadoEm": "2026-10-16T21:57:24.275Z",
+  "atualizadoEm": "2026-10-16T22:27:34.458Z",
   "noticias": [
+    {
+      "t": "ASUS lança dock que converte ROG XBOX Ally em console de mesa superpoderoso",
+      "d": "&nbsp;&nbsp; Canaltech",
+      "link": "https://canaltech.com.br/hardware/asus-lanca-dock-que-converte-rog-ally-em-console-de-mesa-superpoderoso/",
+      "fonte": "Canaltech",
+      "data": "2026-10-16T22:10:02.000Z",
+      "c": "Consoles",
+      "img": "https://tl.ctcdn.com.br/1TYSAZrZO3qfmIDxFoZuRpumcvc=/1200x675/smart/filters:format(webp):quality(85)/c158aae2-9607-40fc-a1ab-130e096aa31f.png",
+      "orig": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONjVQcmRoTjgtZ3pPNW9SQjJJYk84OVVoQlJBNG9BeFc4ellnVTlWNE9qcFlVZWpOVDIydTl1U3E2cUNFa3R6U2ROV25MZzUzdTZOdnhvM19JREFnMXJFSjJic2NpbEVrUTZRQ19pcmFKYkxvcjZsYlJHTzkyMVJHM01CbkZmSnJFM1U3UHJ0eXBkdXF5cUZfakRBWTVWd2VIMExUSjRBTWY?oc=5"
+    },
     {
       "t": "Hora de completar sua biblioteca: seleção de jogos Xbox em promoção na Amazon",
       "d": "&nbsp;&nbsp; Olhar Digital",
       "link": "https://olhardigital.com.br/2026/10/16/reviews/hora-de-completar-sua-biblioteca-selecao-de-jogos-xbox-em-promocao-na-amazon/",
       "fonte": "Olhar Digital",
-      "data": "2026-10-16T21:55:57.000Z",
+      "data": "2026-10-16T21:55:27.000Z",
       "c": "Ofertas",
       "img": "https://img.odcdn.com.br/wp-content/uploads/2026/10/hero-jogos-xbox-14.jpg",
       "orig": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYk4zd1JWY2ZZbC1Jcm9UbTFKMngtOUhyZkNsS3pnTmlpVTZVdTd2dlhiM184MjRmNl9ZbnVqSldHaGp6MEJIeVJfTEk5a1JnX3F1eHNmTEF3anZXSEFSMUY0Sks3ODlrdG9tdXFVR2lETkh3R3dWOGZVQkdqdnB0enVzeWhtNG9mSV81SktHOFdpS2xkVTdLN0RkS3FnVTVCSHZOQlQ2alpRS3o1aWh6ZEFGZi1taFAwZUtzSjQ3X3V3dw?oc=5"
@@ -265,15 +275,6 @@
       "data": "2026-10-16T13:39:30.000Z",
       "c": "Ofertas",
       "img": "https://flowgames.gg/wp-content/uploads/2023/01/kamil-s-SuPAbuuK7f4-unsplash-2-2.jpg"
-    },
-    {
-      "t": "O que é recompilação? Entenda a tecnologia que está levando jogos antigos ao PC",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/o-que-e-recompilacao-entenda-a-tecnologia-que-esta-levando-jogos-antigos-ao-pc/",
-      "fonte": "TecMundo",
-      "data": "2026-10-16T12:15:00.000Z",
-      "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/JMV3LQLKNBPYFJ7NWC7MLIBJE4.jpg?quality=80&auth=d3de4f59d3fcbd4fa82dd82b90b47ade7395bcf9cfc2e20f832011000ab225b3&width=710"
     }
   ],
   "videos": [
@@ -2175,6 +2176,16 @@
       "link": "https://www.igdb.com/games/knights-province"
     },
     {
+      "t": "Black Mesa: Classic",
+      "data": "2026-12-01",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa0gu.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/black-mesa-classic"
+    },
+    {
       "t": "Hela: Of Mice & Magic",
       "data": "2026-12-01",
       "plats": [
@@ -3350,6 +3361,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6i0x.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/tako-no-himitsu-ocean-of-secrets--1"
+    },
+    {
+      "t": "Spaceman Memories",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc17s.jpg",
+      "hype": 4,
+      "link": "https://www.igdb.com/games/spaceman-memories"
     },
     {
       "t": "Haruka: Beyond the Stars",
@@ -4711,26 +4732,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co98in.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/star-life"
-    },
-    {
-      "t": "Froggo's Adventure: Drifting Sky",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakvj.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/froggos-adventure-drifting-sky"
-    },
-    {
-      "t": "Elflock",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co99t6.jpg",
-      "hype": 8,
-      "link": "https://www.igdb.com/games/elflock"
     }
   ],
   "musicas": []
