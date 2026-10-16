@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-16T14:54:31.847Z",
+  "atualizadoEm": "2026-10-16T14:54:58.151Z",
   "noticias": [
     {
       "t": "EUA propõem lei para garantir que jogadores sejam donos dos games que compram",
@@ -40,16 +40,6 @@
       "orig": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZczFWcldFZkdZZ2VyZFp1T2prVUpFbl9kSVVOTlFXcFNxQU5JQlE4MS1sZkc4VE1WMXBXTE5xVk1nb1BUSTFDN0VFQk9PY1JWS2ppSWp4MEwzaE03NXhpdU1ZY1lQVm03S0wzMExfRUxtQW82SWc?oc=5"
     },
     {
-      "t": "Tales of Eternia Remastered já está disponível nos consoles e PC",
-      "d": "&nbsp;&nbsp; Alternativa Nerd",
-      "link": "https://alternativanerd.com.br/games/tales-of-eternia-remastered-ja-esta-disponivel-nos-consoles-e-pc/",
-      "fonte": "Alternativa Nerd",
-      "data": "2026-10-16T14:31:08.000Z",
-      "c": "PC",
-      "img": "https://uploads.alternativanerd.com.br/wp-content/uploads/2026/06/AN_TALES-OF-ETERNIA-REMASTERED.webp",
-      "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUks0cGM0ZUV2NmxhdWdXcHJtaDQwV2ZBUmZncGRldk1QUjBxRVRYZ2dlRkRQV0o0dHFXZVExZUVGMnR6VjE3QkdqamFWOVRud0h0M003V0RfdTZZQ2NSRlRNOGtZWElXZlZvOVZNZUtvN2JaXzFleTBDMmZHZFpEZzFka1llZ0k3NzJfcFNwbmtxTlUwVVpTTUV5Nm44YTNUVnBUVA?oc=5"
-    },
-    {
       "t": "Próxima Semana em XBOX: novos jogos de 19 a 23 de outubro",
       "d": "&nbsp;&nbsp; Xboxers",
       "link": "https://xboxers.com.br/proxima-semana-em-xbox-novos-jogos-de-19-a-23-de-outubro/",
@@ -68,6 +58,16 @@
       "c": "Consoles",
       "img": "https://cromossomonerd.com.br/wp-content/uploads/2026/10/XBOX-Nano-Controller_Minecraft-Dungeons-II-7aa527a9b3e125426fac-1900x1080-1.jpg",
       "orig": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pazloWnRHYzBCVjk4T1BodWYxUDUyUk9uVEs1SUc4Wjl1S2JCY1Vmc1h2S2FoYkhzY2pFaWZIQ0x6NXlPZHBiQ3JFakw1aTVyTTdSc2k0VU8wcXNuMUw5Y0F1ZFZ3Zw?oc=5"
+    },
+    {
+      "t": "PEAK será lançado no Xbox Series X|S em outubro com crossplay e todas as atualizações",
+      "d": "&nbsp;&nbsp; Central Xbox",
+      "link": "https://centralxbox.com.br/2026/10/16/peak-sera-lancado-no-xbox-series-xs-em-outubro-com-crossplay-e-todas-as-atualizacoes/",
+      "fonte": "Central Xbox",
+      "data": "2026-10-16T14:18:39.000Z",
+      "c": "Consoles",
+      "img": "https://centralxbox.com.br/wp-content/uploads/2026/10/peak.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMmsyMXVpcnFrU05jUVRGZ21hOHNDV2JSTHJrVDZxZ0pVODE0YkdCWGFRSk5TQkFrLVVSbFhiZUNSQjk3dzdkalpOTDE3R1NFWS1HLU1FbnRwVmRPbGVRMkpxaFlyN21wc2JRemRlMXFqT0lvdl9sRUE4Tkx1aTRwajhuN0VvR0o4elZNQlFyLVdEbVpCa1lheTBUQ2Q0RGtUak9JNjlwcmVDUWNtdml5T1p3UmJ0b1NDN1V5UHVsU04?oc=5"
     },
     {
       "t": "Miami é tomada por carros reais de GTA 6!",
@@ -348,7 +348,7 @@
       "id": "A-HOvar8L8o",
       "t": "ESSA É A BUILD MAIS BRUTAL DO JOGO | EXPEDITION 33!",
       "data": "2025-05-31T22:30:02Z",
-      "views": 1378,
+      "views": 1379,
       "img": "https://i.ytimg.com/vi/A-HOvar8L8o/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=A-HOvar8L8o"
     },
@@ -372,7 +372,7 @@
       "id": "zUskua35owE",
       "t": "FARM BRUTAL DE TOM DE LUMINA 1 MILHÃO POR HORA | EXPEDITION 33!",
       "data": "2025-05-23T22:23:39Z",
-      "views": 3518,
+      "views": 3519,
       "img": "https://i.ytimg.com/vi/zUskua35owE/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=zUskua35owE"
     },
@@ -412,7 +412,7 @@
       "id": "3G_pEJcUfYU",
       "t": "ESSA É A MELHOR BUILD DO JOGO | EXPEDITION 33",
       "data": "2025-05-18T22:30:01Z",
-      "views": 2358,
+      "views": 2359,
       "img": "https://i.ytimg.com/vi/3G_pEJcUfYU/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=3G_pEJcUfYU"
     },
