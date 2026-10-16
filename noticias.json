@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-16T10:53:00.818Z",
+  "atualizadoEm": "2026-10-16T11:23:08.047Z",
   "noticias": [
     {
       "t": "Activision quer atrair novos jogadores com Call of Duty Modern Warfare 4 no Switch 2: ‘Oportunidade’",
@@ -252,7 +252,7 @@
       "img": "https://www.youtube.com/embed/EDWeb7r26ao"
     },
     {
-      "t": "Epic Games Store libera novo jogo gratuito nesta quinta (15)! Resgate agora",
+      "t": "Epic Games Store libera dois novos jogos gratuitos nesta quinta (15)! Resgate agora",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-store-libera-novo-jogo-gratuito-nesta-quinta-15-resgate-agora/",
       "fonte": "TecMundo",
@@ -3586,17 +3586,6 @@
       "link": "https://www.igdb.com/games/archetype-blue"
     },
     {
-      "t": "Undefeated: Genesis",
-      "data": "2026-12-31",
-      "plats": [
-        "PC",
-        "PS5"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co70lt.jpg",
-      "hype": 4,
-      "link": "https://www.igdb.com/games/undefeated-genesis"
-    },
-    {
       "t": "Killa",
       "data": "2026-12-31",
       "plats": [
@@ -4741,6 +4730,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat6g.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/nightmare-circus--1"
+    },
+    {
+      "t": "Project TurboBlast",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coak0j.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/project-turboblast"
     }
   ],
   "musicas": []
