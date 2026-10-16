@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-16T05:20:55.130Z",
+  "atualizadoEm": "2026-10-16T05:51:11.694Z",
   "noticias": [
+    {
+      "t": "Controle especial de Xbox para Microsoft Flight Simulator chega em 20 de novembro, reservas abertas",
+      "d": "&nbsp;&nbsp; Notebookcheck.info",
+      "link": "https://www.notebookcheck.info/Controle-especial-de-Xbox-para-Microsoft-Flight-Simulator-chega-em-20-de-novembro-reservas-abertas.1425731.0.html",
+      "fonte": "Notebookcheck.info",
+      "data": "2026-10-16T05:04:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/Honeycomb-XPC.png",
+      "orig": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc0hzRE1YdHg5cXRuQUEzNmRkcC1LSDlVYlpPbFQ2VmVUZEc3TzU5LU1OTmJESmJORmgyRFFkenNYZlZkaDZqM0tFS21aRHQ3WENxYng2MXBYdFFFNlFKVllFZjZSZ3hxZkMycC1sWThOTmkzSjNEMEdxYklNS2xqVVowcHFrR0FRMENzb2NhVjNZWEhYajUyNzJUOTU5NmRTXzR0UHJ5U1NDYUxBTXRjQlJIbEFZSFYyb2VOdXNxZzRIYjNnY0FNUnNYY2hrSERHZXN4bFNZc2ZQLWZU?oc=5"
+    },
     {
       "t": "A Bird Story chega ao PS5, Xbox Series e Switch em 4K e 120Hz",
       "d": "&nbsp;&nbsp; Última Ficha",
@@ -40,16 +50,6 @@
       "c": "Geral",
       "img": "https://storage.googleapis.com/bucket.timesbrasil.com.br/sites/2026/10/34f6fd26-veja-detalhes-sobre-regulamentacao-de-jogos-eletronicos-no-brasil.webp",
       "orig": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOckxWR3htZlJiQ1lwVHlqX2t4MHhUUWpzQ2JLMmVlYU9uV2hhc083SjNDSUVSUUpoMXozdWpvSl9wLWJKQzhfeUxzMWNwNWI0b01yY2p1RUxGeENGWGRJSVIybkNQVXpQXzJqODc1WWVaX2xaLWM4THJzVlFRWjBOa2hpbjZSVEhFeUE3MmMyc2lLM3MxNC1RbEZweUtCdUU?oc=5"
-    },
-    {
-      "t": "Nintendo anuncia aumento nos preços de reparos do Switch 2 e Switch no Japão a partir de novembro",
-      "d": "&nbsp;&nbsp; Universo Nintendo",
-      "link": "https://universonintendo.com/nintendo-anuncia-aumento-nos-precos-de-reparos-do-switch-2-e-switch-no-japao-a-partir-de-novembro/",
-      "fonte": "Universo Nintendo",
-      "data": "2026-10-16T01:49:43.000Z",
-      "c": "Consoles",
-      "img": "https://universonintendo.com/wp-content/uploads/2024/09/Nintendo-keyart.png",
-      "orig": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM2xyQXJoNzFsMUxKbGt3bExwanhDMkhITm1YREhQSHVIWlo3WW1pU0VvTDFPRXlsUUExMGpEeW0zMWYzcTR6cGh6WlJaMFh5MUNTcm9ZWUVtcld4VV90cGlkQmR1b3IxNlBwQWZCVjZpN0h5X0NrRUdPTktNcWhYVTJCV25kX1RoT1ZqRExNeXdWVE1JN2xMSXJ5U2tJTVFHVDJGaTZiOW1NaExKaXZMeDQybjBrcFJGZ0h0eW9RZWh6bUQ5bWc?oc=5"
     },
     {
       "t": "Activision confirma que uma nova subfranquia de Call of Duty está em desenvolvimento, gerando intensa especulação entre os fãs",
@@ -741,6 +741,16 @@
       "link": "https://www.igdb.com/games/pao-pao"
     },
     {
+      "t": "Giggleland",
+      "data": "2026-10-26",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9p8t.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/giggleland"
+    },
+    {
       "t": "Fangtopia",
       "data": "2026-10-26",
       "plats": [
@@ -996,6 +1006,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coawen.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/sepulchron"
+    },
+    {
+      "t": "Mega Met",
+      "data": "2026-10-28",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9745.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/mega-met"
     },
     {
       "t": "Zombie Assault: Resurgence",
@@ -4721,27 +4741,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat6g.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/nightmare-circus--1"
-    },
-    {
-      "t": "Project TurboBlast",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coak0j.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/project-turboblast"
-    },
-    {
-      "t": "The Dropouts",
-      "data": "2026-12-31",
-      "plats": [
-        "PC",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqq6.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/the-dropouts--1"
     }
   ],
   "musicas": []
