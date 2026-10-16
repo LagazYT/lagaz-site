@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-16T07:51:51.118Z",
+  "atualizadoEm": "2026-10-16T08:21:59.778Z",
   "noticias": [
     {
       "t": "Controle especial de Xbox para Microsoft Flight Simulator chega em 20 de novembro, reservas abertas",
@@ -1016,6 +1016,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9745.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/mega-met"
+    },
+    {
+      "t": "Neuron Activation",
+      "data": "2026-10-28",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba28.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/neuron-activation"
     },
     {
       "t": "Zombie Assault: Resurgence",
@@ -4727,20 +4737,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co99t6.jpg",
       "hype": 8,
       "link": "https://www.igdb.com/games/elflock"
-    },
-    {
-      "t": "Nightmare Circus",
-      "data": "2026-12-31",
-      "plats": [
-        "Xbox",
-        "Switch 2",
-        "PC",
-        "PS5",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat6g.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/nightmare-circus--1"
     }
   ],
   "musicas": []
