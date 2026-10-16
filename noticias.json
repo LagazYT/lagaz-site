@@ -1,6 +1,25 @@
 {
-  "atualizadoEm": "2026-10-16T22:27:34.458Z",
+  "atualizadoEm": "2026-10-16T22:57:42.255Z",
   "noticias": [
+    {
+      "t": "Windows 10 e 11 recebem várias correções, modo XBOX melhorado, novas opções para Lupa e mais",
+      "d": "&nbsp;&nbsp; TudoCelular.com",
+      "link": "https://www.tudocelular.com/software/noticias/n265275/windows-10-e-11-varias-modo-xbox-melhorado.html",
+      "fonte": "TudoCelular.com",
+      "data": "2026-10-16T22:51:45.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcGVYOUtoX3VSTm14azR2ZEMybFJiNGVMdHpHYkRUMVVhaHFWcTR3N1FMY3dFMUszUlYyUU4yWUhXVFl0a3d0UnI0bU5zdW5kXy1QVENXenB6emlWUjRrQjI1RXRpeEpUeFZ6WTJLMDdCa2JtcDRZa29nZU1PSnhCNG1oU0dkRHJ1U0djanJldC1kWGVCVzZVUW9vWDFUN1Z1NWZz?oc=5"
+    },
+    {
+      "t": "Resident Evil Requiem e mais jogos para Switch com até 91% OFF na eShop",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/resident-evil-requiem-e-mais-jogos-para-switch-com-ate-91-off-na-eshop/",
+      "fonte": "TecMundo",
+      "data": "2026-10-16T22:30:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.estadao.com.br/resizer/v2/DKZGALGPCJNGNA6H7VLDYFCTNY.jpg?quality=80&auth=c3193361f1e526d00f273d07a05b5e23ff40647304386b9cfe1d4e42db18e09c&width=710"
+    },
     {
       "t": "ASUS lança dock que converte ROG XBOX Ally em console de mesa superpoderoso",
       "d": "&nbsp;&nbsp; Canaltech",
@@ -76,16 +95,6 @@
       "c": "Consoles",
       "img": "https://tl.ctcdn.com.br/Y8mkOARiGWzeALFP06JJa28mZGM=/1200x675/smart/filters:format(webp):quality(85)/bbf62a61-001e-4ad9-bf8c-6cf13fef2248.png",
       "orig": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdFNXRzNoTndjR211VnBXZFVncGFSVHE3aGF5WnJPRU1ZUTJDcGVqQVhoblBEVFdzZklsY25ST2pES2lLdmpGSC1LZDQwaTdjc1Mwd29nZHYzanBYN1VDSlJLS2hkNGZhaGpZOFpoMkVfV1RHaWVjSUhBY0pEMDVQX2JQR2JveHZpai0td3RhZXY0a3RJb2FFYm9xQk9LSThHckE3OUdIMllmd1gtdnNxWUlXVC03STIwa3dnanRFaw?oc=5"
-    },
-    {
-      "t": "LANÇAMENTOS DA SEMANA | Call of Duty, Final Fantasy e mais jogos",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/lancamentos-da-semana-call-of-duty-final-fantasy-e-mais-jogos/",
-      "fonte": "Adrenaline",
-      "data": "2026-10-16T21:10:00.000Z",
-      "c": "Lançamentos",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVUppclZheUhmWWt0ekh3NURUeUtDdjBGY1hCZDJzclh6T0FqUXB4cmdxRHlnX2htU0QyZXZyNkdPM1dyNV9fMkVDcVREQlhHUFpLMHVITGgtYkViaDdORTRCNGJLajlMcTc0UW1Vc0hTRUhlVlYyOGNNSmVvUWt1QTVLZjJmUkdmY2VhQ2l0dWNXTm1pR3hEWFJUblRrUlU?oc=5"
     },
     {
       "t": "Um dos jogos de maior sucesso de 2025 finalmente poderá ser jogado nos consoles ainda este mês",
@@ -266,15 +275,6 @@
       "data": "2026-10-16T14:00:00.000Z",
       "c": "Geral",
       "img": "https://www.estadao.com.br/resizer/v2/G6WUHUPXYFCXXKJS7MMLL4CL74.png?quality=80&auth=be981048453eecea23aa084f3f0f4191326f8502509fd8c1a84038059d5d72a9&width=710"
-    },
-    {
-      "t": "Xbox tem NBA 2K27 e mais 5 jogos grátis no fim de semana",
-      "d": "Disponível até domingo (18), os membros do Game Pass têm uma nova seleção de jogos grátis para aproveitar",
-      "link": "https://flowgames.gg/xbox-tem-nba-2k27-5-jogos-gratis-no-fim-de-semana/",
-      "fonte": "Flow Games",
-      "data": "2026-10-16T13:39:30.000Z",
-      "c": "Ofertas",
-      "img": "https://flowgames.gg/wp-content/uploads/2023/01/kamil-s-SuPAbuuK7f4-unsplash-2-2.jpg"
     }
   ],
   "videos": [
@@ -3132,16 +3132,6 @@
       "link": "https://www.igdb.com/games/littlelands"
     },
     {
-      "t": "Play Rough",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wp8.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/play-rough"
-    },
-    {
       "t": "Astromeda",
       "data": "2026-12-31",
       "plats": [
@@ -4328,6 +4318,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtpi.jpg",
       "hype": 5,
       "link": "https://www.igdb.com/games/dawn-of-defense"
+    },
+    {
+      "t": "Footsy",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co99ix.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/footsy"
     },
     {
       "t": "Trifoil",
