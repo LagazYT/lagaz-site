@@ -1,6 +1,55 @@
 {
-  "atualizadoEm": "2026-10-16T19:56:49.825Z",
+  "atualizadoEm": "2026-10-16T20:26:59.820Z",
   "noticias": [
+    {
+      "t": "Deadlock, jogo secreto da Valve, bate recorde de jogadores antes de ser lançado oficialmente",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/deadlock-jogo-secreto-da-valve-bate-recorde-de-jogadores-antes-de-ser-lancado-oficialmente/",
+      "fonte": "TecMundo",
+      "data": "2026-10-16T20:15:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.estadao.com.br/resizer/v2/2X3WZFWDVJAIJMUGZ3LKFX6WME.png?quality=80&auth=73a4988be994a94c6dffd5bbdc508193f11ec1598343f4522324424e66f8d26d&width=710"
+    },
+    {
+      "t": "Microsoft lança Xbox Nano Controller focando em praticidade",
+      "d": "&nbsp;&nbsp; GKPB - Geek Publicitário",
+      "link": "https://gkpb.com.br/199773/xbox-nano-controller/",
+      "fonte": "GKPB - Geek Publicitário",
+      "data": "2026-10-16T20:15:00.000Z",
+      "c": "Consoles",
+      "img": "https://gkpb.com.br/wp-content/uploads/2026/10/gkpb-xbox-nano-controller-banner.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YQmF3NC1USEdNM3h5bFNPN2o2SDJaRVN3S0tXSS1ERGhzRzJBTGtGSElTbldGY0N2ZlJ0SVVBMGFXak9VOU92X2U3U28ySFFzTS1YX1RrU1ZVcGFQ?oc=5"
+    },
+    {
+      "t": "Sana e-Xperience reúne games e experiências interativas gratuitas em Fortaleza",
+      "d": "&nbsp;&nbsp; Diário do Nordeste",
+      "link": "https://diariodonordeste.verdesmares.com.br/ceara/sana-e-xperience-reune-games-e-experiencias-interativas-gratuitas-em-fortaleza-1.3798913",
+      "fonte": "Diário do Nordeste",
+      "data": "2026-10-16T20:08:15.000Z",
+      "c": "Geral",
+      "img": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3798914:1792095301/Sana%20eXperience%20-%20Portal%20e%20Feed.webp?f=16x9&h=720&w=1280&$p$f$h$w=4b21c5b",
+      "orig": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM1FkQjhDWElGdXk3ZVBLYzBlXzlqX3RHelhMWGNfQzNrS1pjWk5IMDJQZ0UtS3l6bVJfM3oySFRpUHYyMTBZLTB2dVBJTUZTUnVCMWRuQ3BfWWhubnZwWlRLYUVKU2xtYS1XVjZPV0ttc0NwR0RqS25md2lqRDZHM1ZSMzQzckpiUm1mM0dXdl8zc2V2Mm41YzV4R3JIaTFEc0F6SUpkRmpPOWdtTHRELWZBSnA4a3NDa28weE0tcUFxUXlnM1k4b1o2Q0hDUGI2QWVBSw?oc=5"
+    },
+    {
+      "t": "Vixen 357 chega ao Nintendo Switch em 23 de outubro",
+      "d": "&nbsp;&nbsp; Nintendo Blast",
+      "link": "https://www.nintendoblast.com.br/2026/10/vixen-357-chega-ao-nintendo-switch-em-23-de-outubro.html",
+      "fonte": "Nintendo Blast",
+      "data": "2026-10-16T20:06:24.000Z",
+      "c": "Consoles",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb4zjXBrltOP5p-F4gSr2ZhyKJfdiF4yi5gghiX7nHLF6pGe4G0JHKjMU-T3CBaNRh6UUo_M7tmqib6JPgNzTgECaAsc-3mKeUJk1rVi_qLRaBZ8_9Gjnbuzn8xJDo4ubMRQnWQZybQmE3XLl-BkAcUauXRCLaptdbl7lVjovuY8cgc_FqWV-disR_c78/w1200-h630-p-k-no-nu/AA.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYjlSV1lDQXRYem5RTnhCcmtOeXF1ZXhMYkVIejdmUnpvV3VKRlZYSkFFZzJsNmp1SGQ4dVlJZzVZUkd1LXlUM1R3d2hhMHlPeFF2ei15cmQ5Z0Y1ckhWWUJ5dDNBS3NQcE90SFU5c0JCQUpkYzZBVlZNMzEtS2JYTnZ2ZmhGNjBZQThTd3p3NlM2Y0ZHaUJyUTVwRE1RQQ?oc=5"
+    },
+    {
+      "t": "PlayStation lista 20 jogos para aproveitar neste Halloween no PS5",
+      "d": "&nbsp;&nbsp; PSX Brasil",
+      "link": "https://psxbrasil.com.br/playstation-lista-20-jogos-para-aproveitar-neste-halloween-no-ps5/",
+      "fonte": "PSX Brasil",
+      "data": "2026-10-16T20:01:54.000Z",
+      "c": "Consoles",
+      "img": "https://psxbrasil.com.br/wp-content/uploads/2026/10/PfyocBv_ZAE_maxres.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaTd6LXZ1OTA5M1dlQlIweEg3c0J0RVV1eUVmZC1KenU4cldXZzRmd1dUODgyNV9FR0RVeE5FV2xrU3dvSTFvQl9ad0tUaUotdGNGU2xsUVNyYXU1QnRXeXNSd0NOSzN4Q0V3eFVLd3RoTVZzWTNBbVdWdkRjeWw1eC1EQlRDXy1kLVZQX2dGX19tRXdTdWc?oc=5"
+    },
     {
       "t": "BGS 2026 x BGS 2016: como a maior feira de games da América Latina encolheu em 10 anos",
       "d": "&nbsp;&nbsp; Canaltech",
@@ -10,26 +59,6 @@
       "c": "Eventos",
       "img": "https://tl.ctcdn.com.br/37FlMFYoISLqdT9_mC5XhELsxxs=/1200x675/smart/filters:format(webp):quality(85)/99a3bd5e-25bd-4cc8-8adf-2f062cff8460.jpg",
       "orig": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUFyNWNYNnRuSDZPNmk3SGtjamJmZUJ6dFhxM21JR1VfREI2LXNNVkZ4WHU4clR1aDRlNTZzOUdnN3UyVDlyTjhhckdzVURBYnZna05ocVdFdGhYUVprdGJURGV3TzhTVTlpclRweU5MXzhnTnVFekk5ZndrTmtYQ0ZzVnpWV0hhT0w4Zm5IemFsSjhxQWRnTFRHdVM4cTllZ0NQUTNOZ1diUQ?oc=5"
-    },
-    {
-      "t": "Cult of the Lamb chega ao Switch 2 em 22 de outubro com atualização gratuita",
-      "d": "&nbsp;&nbsp; Universo Nintendo",
-      "link": "https://universonintendo.com/cult-of-the-lamb-chega-ao-switch-2-em-22-de-outubro-com-atualizacao-gratuita/",
-      "fonte": "Universo Nintendo",
-      "data": "2026-10-16T19:33:47.000Z",
-      "c": "Consoles",
-      "img": "https://universonintendo.com/wp-content/uploads/2024/08/Cult-of-the-Lamb-KEYART.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUFl1NHh5cUJtZC1KMjVCM0VzdGxTUTNxY1dtMlVBSmxWVFpQRW5TaHJfNE5memNOLUhfTmpZU3U0cVRrdnpZTnkwTXFrQXJyNUh4cUtwZlkzWUVBWklQRHZVZVpCUExvekVUclh1TS1qaFpsN2VtNlFCSENOT3R3c2YxQTVZM1dRdEI4SGFESFp5ZmNUam5ubGRiSEZLdVFjcEFBS09lRkZBdw?oc=5"
-    },
-    {
-      "t": "Lelu: metroidvania monocromático é anunciado para PC, Xbox e Nintendo Switch 2",
-      "d": "&nbsp;&nbsp; GameBlast",
-      "link": "https://www.gameblast.com.br/2026/10/lelu-metroidvania-monocromatico-e-anunciado-para-pc-xbox-e-nintendo-switch-2.html",
-      "fonte": "GameBlast",
-      "data": "2026-10-16T19:29:17.000Z",
-      "c": "PC",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMC3eJ3wNxpqzHQhzm7HUtjRe1mGypk68VXTieRYyh0S3LyVI5fA_5S6UiQolmhKKVEIFBqsX9mHswcfFmwxCRx-YY_5kSIS01mY0hTDmyGJKPQkzBhsM388JJfy1DVI7uVNEvL9YTWiXEAMOEsWrZcsTF4Gf-YYCs8EOrohEffBq6jpJSvj3eApkB_aEM/w1200-h630-p-k-no-nu/lelu_main_capsule.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1F3YjBoa1pyQmUwVVRkTklOd1huVnhrdVFhZ0htLWlPWmRya016NGlSTmNxb3pTdl9BQkxIQkZNeGhYNGRTZGRzRlh0ZXJ6c0VQZWpNbWUzQWNfRHFac2NXaHFsM0xlTl9iMzlvY1ZvWFNIZ3F4VWJJWUZvSVA1bHRiSFlVaVV3a1NMalBteFFBbmg4LVBRYjBZdExyLU8wY0JLY3pCdy0tVkZXdl92NTRmbkpnMFNvMnc?oc=5"
     },
     {
       "t": "Steam recebe 5 jogos grátis nesta semana! Veja lista e resgate (16)",
@@ -48,26 +77,6 @@
       "data": "2026-10-16T19:23:51.000Z",
       "c": "PC",
       "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_j5ac.jpg"
-    },
-    {
-      "t": "Brasil cria regras para games e prevê apoio a estúdios nacionais",
-      "d": "&nbsp;&nbsp; Fast Company Brasil",
-      "link": "https://fastcompanybrasil.com/games/brasil-cria-regras-games-preve-apoio-estudios-nacionais/",
-      "fonte": "Fast Company Brasil",
-      "data": "2026-10-16T19:07:04.000Z",
-      "c": "Geral",
-      "img": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/games-br.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM01sWVM4ejg1RHZhWm1CaDFTaG9HdEEyeE1rZGJlM2JEb3hMTzVwc0JweVY5M2ZFbXRnbmZXOHFSaVl5Y3ZUSW4yOUtLQnozSEF4SEsyZF92Z2I3Q2w4SVFkT1dHN0hCYVVKSkJ3cDlGVTZ3YjVDYnRfeGJNc2dxRUViXy01Sk0zdG9oLVpQUkhrVEU0bHRF?oc=5"
-    },
-    {
-      "t": "10 curiosidades sobre o PlayStation 2 que até os fãs da Sony desconhecem",
-      "d": "&nbsp;&nbsp; Proddigital POP",
-      "link": "https://pop.proddigital.com.br/curiosidades/curiosidades-de-games/10-curiosidades-sobre-o-playstation-2-que-ate-os-fas-da-sony-desconhecem",
-      "fonte": "Proddigital POP",
-      "data": "2026-10-16T19:06:13.000Z",
-      "c": "Consoles",
-      "img": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2026/10/10-curiosidades-sobre-o-playstation-2-que-ate-os-fas-da-sony-desconhecem.png",
-      "orig": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUUJKaU1iQ1V0T3Nia2RKT3pvY0pRY2lfTjZwQnktdXYwd1M5amt2OHMzWnlYN2QxanJLdjJmYU5JbXNMYVY0S2VIOWs2M1NsRzhpMmlfXzE4YXR4Qi13VnpOMmZoRGdZZGw0T2F0aFpaaVB5bExsMXpuZTVySm9rd3hDa0psZVM1VUwtd2lZV1ZhblF6a2RxLTZkVGhGSTJ3bGpTazZCeFFsNlNEbER2emUwU213X1A1N0FDY3J1b2thcXRPdTRCRWFkczFaT0hmM045NQ?oc=5"
     },
     {
       "t": "PlayStation 5: loja de jogos piratas sai do ar",
@@ -267,15 +276,6 @@
       "data": "2026-10-15T23:30:00.000Z",
       "c": "Consoles",
       "img": "https://www.estadao.com.br/resizer/v2/XUGLGOOYPRN7BBJUPO2DCEBAGE.jpg?quality=80&auth=fd9b6ef8fb2fb4f97a76ae6f38b868524583216b2399c10f53d21924ae140ae8&width=710"
-    },
-    {
-      "t": "DLSS 5 fica 20% mais leve e Frame Gen dá mais FPS com updates da Nvidia",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/dlss-5-fica-20-mais-leve-e-frame-gen-da-mais-fps-com-updates-da-nvidia/",
-      "fonte": "TecMundo",
-      "data": "2026-10-15T21:15:00.000Z",
-      "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/VRHNKZZ6HZCWHFVJYJ5VVGBJKA.jpeg?quality=80&auth=ae9b3286ec12a80429849159d6d7225c9885ea6a1683805684678b5739f97646&width=710"
     }
   ],
   "videos": [
@@ -627,7 +627,7 @@
         "Switch 2"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7mb.jpg",
-      "hype": 16,
+      "hype": 17,
       "link": "https://www.igdb.com/games/nintendo-switch-sports-resort"
     },
     {
