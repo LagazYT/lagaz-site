@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-17T04:29:45.266Z",
+  "atualizadoEm": "2026-10-17T04:59:54.120Z",
   "noticias": [
     {
       "t": "2 por 1! Combo com dois jogos da saga Marvel’s Spider-Man para PS5 sai pelo preço de um em oferta exclusiva da Amazon",
@@ -35,7 +35,7 @@
       "d": "&nbsp;&nbsp; NintendoBoy",
       "link": "https://nintendoboy.com.br/2026/10/review-manairons/",
       "fonte": "NintendoBoy",
-      "data": "2026-10-17T00:34:28.000Z",
+      "data": "2026-10-17T00:33:58.000Z",
       "c": "Consoles",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TRFFZcHpSN1BvR1JraW9jdnBPY1dsOG5wekwzeGJNSnBOUmtteEpfbjY1Nl9nd1A5MS12dE16MmE1U1ZFNGNUQXJINkp0bnRXMFYtVTBaSTlkcmdDUER0VzVR?oc=5"
@@ -442,7 +442,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 19974,
+      "views": 19984,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -2154,6 +2154,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9u83.jpg",
       "hype": 8,
       "link": "https://www.igdb.com/games/appulse"
+    },
+    {
+      "t": "Reshine",
+      "data": "2026-11-26",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobylu.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/reshine"
     },
     {
       "t": "Am I Nima",
@@ -4722,16 +4732,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyw1.jpg",
       "hype": 6,
       "link": "https://www.igdb.com/games/golf-with-your-friends-2"
-    },
-    {
-      "t": "Star Life",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co98in.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/star-life"
     }
   ],
   "musicas": []
