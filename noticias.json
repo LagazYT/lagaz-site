@@ -1,6 +1,54 @@
 {
-  "atualizadoEm": "2026-10-17T13:03:05.344Z",
+  "atualizadoEm": "2026-10-17T13:33:15.667Z",
   "noticias": [
+    {
+      "t": "Mouthwashing | Jogo ganhará adaptação no cinema, aponta insider",
+      "d": "&nbsp;&nbsp; Omelete",
+      "link": "https://www.omelete.com.br/games/mouthwashing-jogo-adaptacao-cinema-rumor",
+      "fonte": "Omelete",
+      "data": "2026-10-17T13:23:00.000Z",
+      "c": "Geral",
+      "img": "https://cdn.ome.lt/3MKTeJdn7gxRMMERQ6Nr2hCLrHc=/1200x630/smart/filters:format(webp)/extras/conteudos/mouthwashing.webp",
+      "orig": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0R2RLeEdBVG1vdTBiTWt0NnFscGR0Wk9qTEVzVFlWd1h3eWRKajhFeW85a0EyS29nRnlGTTJiS0Z2YllOT0JDcDF5Y2pfanBaaXhFMEw1WC1hUm56Zl9FOHNrSUpIVWJ5c0lZcTRkZEpLbTVqbWt6OWxUeWd5UQ?oc=5"
+    },
+    {
+      "t": "Nintendo quer “envelhecer seu público” com Call of Duty: Modern Warfare 4, diz Activsion",
+      "d": "&nbsp;&nbsp; NintendoBoy",
+      "link": "https://nintendoboy.com.br/2026/10/nintendo-quer-envelhecer-seu-publico-com-call-of-duty-modern-warfare-4-diz-activsion/",
+      "fonte": "NintendoBoy",
+      "data": "2026-10-17T13:14:10.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUNpRWczM3FBeEdRSUhPeFJfRjZyeTIxU0NlUC1wMmFFNlRzU29KVlQxRlo3dmQxaUtaOHY1WjJYY3Fzc0hwX0M0aWJMbXdKTU9YdTVWa2cteWN5Yk9fUDJrNmNxX3hZdXZVcWxsdWp5RTJDU2VSSEdoOUZISldvYjNMT1RvVWVWSVdmbXNPY05MUEdNc0R4MDFKUjRnOGJSSVlOalQ2RVFNYTg5XzFJakhpTFVhalZTSGFjbA?oc=5"
+    },
+    {
+      "t": "Não termine GTA 6 apenas uma vez! A Rockstar confirma que seu jogo foi projetado para ser jogado várias vezes, assim como Red Dead Redemption 2",
+      "d": "Embora a Rockstar Games veja isso como a promessa definitiva de uma experiência orgânica, essa comparação deixa alguns jogadores apreensivos",
+      "link": "https://br.ign.com/grand-theft-auto-vi/156895/nao-termine-gta-6-apenas-uma-vez-a-rockstar-confirma-que-seu-jogo-foi-projetado-para-ser-jogado-vari",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-17T13:00:35.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/photo/default/capture-14-1792073949914_fw7m.jpg"
+    },
+    {
+      "t": "Zelda do Switch ganha versão nativa para PC",
+      "d": "Jogo de Switch nativo no PC? Um dos Zeldas foi o primeiro a ser recompilado nativamente",
+      "link": "https://flowgames.gg/zelda-do-switch-ganha-versao-nativa-para-pc/",
+      "fonte": "Flow Games",
+      "data": "2026-10-17T13:00:29.000Z",
+      "c": "PC",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/10/image-29.jpg"
+    },
+    {
+      "t": "Sindicalização na indústria de games cresce em meio a denúncias de jornadas excessivas",
+      "d": "&nbsp;&nbsp; Olhar Digital",
+      "link": "https://olhardigital.com.br/2026/10/17/games-e-consoles/sindicalizacao-nos-games-por-que-desenvolvedores-buscam-melhores-condicoes/",
+      "fonte": "Olhar Digital",
+      "data": "2026-10-17T13:00:00.000Z",
+      "c": "Geral",
+      "img": "https://img.odcdn.com.br/wp-content/uploads/2026/10/SEGA-Meio-BIT.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPazlxMlRFd2JrdFU3T1FabTRmZ3pqcnlJc2Rxa2o4bVpEVUZlcVJPZTZDczVzdU1odFRJNks0SDRQWHZXQnZ4VHk0UndvbVFJRnlqelN1UlZVcjg2dHVFSHJjcU1SNFhjZXVpWUs5bFlLcHRWdXh5Z1dMc2MtY0Y1WHhYRXBLYUdnbDVVd3F4MlB4bnZURGJySVQwbEc5T3pWMHlOU05ObmZmc05GTDdaT1AxMTQ1RVpuR2U2dzF3RnpWRTBhOGxCbTFibw?oc=5"
+    },
     {
       "t": "Roombattle é anunciado para Nintendo Switch",
       "d": "&nbsp;&nbsp; Nintendo Blast",
@@ -20,36 +68,6 @@
       "c": "Consoles",
       "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdoxp7wY8EaoxVoq9zeYXQUfK6dxw3wQKZTSJEl6QtRDSPcjbRCSCHLxQWyGZ7fN_wl130bA_p6zBNvE4bKgSZwT74tOCwFk63oaubLfRvzJJ6sIV4SRVfiSoiBQddzr0zb2afPcyH_C4flJgN3vCT1V1fd_gjn-hvUiaktxfsesSy4byu75tHknSUtEOV/w1200-h630-p-k-no-nu/1000356507.jpg",
       "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSG94YzYwWHJLbllHY1U2RURkV3poTHpXdnVPTk5RcnN6Z19KdS1xdmdweGJlRl9BNzljVk9PbEVJN2F2WVIzcXZ0SWFOOXNZbFQ5LXFoWXAzU3Z2MXpLUTdTTG1MTGM4SlkxaTNZNjJsX2dNR0pkWmFHNWZ5MUtkbGVfYjg0WkhmYlpZRnd5eWhDaFRQNUxrWVI0VzBoeFFKM3NTcXRfYw?oc=5"
-    },
-    {
-      "t": "Review EA FC 27 | Simulador quer mostrar que há vida além do Ultimate Team",
-      "d": "&nbsp;&nbsp; Canaltech",
-      "link": "https://canaltech.com.br/games/review-ea-fc-27/",
-      "fonte": "Canaltech",
-      "data": "2026-10-17T12:30:04.000Z",
-      "c": "Geral",
-      "img": "https://tl.ctcdn.com.br/QO15m669XCuq82eCnAop4LSb-nQ=/1200x675/smart/filters:format(webp):quality(85)/a09172e3-b4cf-4bc9-935d-3464a775c45a.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hMmlrbTJrb0FxclNIaWdkVS1iVUdwLU1LenNqaHdpcG1Ic3ZhUHRLNU1CRFdzdEd6RGRiQzhJT0ZSOUhzbzB3aElXVlI3MjJ6UjZCQTZPcEtreVU?oc=5"
-    },
-    {
-      "t": "GTA 6 | Rockstar criou um estúdio inteiro para desenvolver NPCs",
-      "d": "&nbsp;&nbsp; Omelete",
-      "link": "https://www.omelete.com.br/games/gta-6-rockstar-criou-um-estudio-inteiro-desenvolver-npcs",
-      "fonte": "Omelete",
-      "data": "2026-10-17T12:30:00.000Z",
-      "c": "Geral",
-      "img": "https://cdn.ome.lt/LMGb-3PbkjENFP7eM8kRhNNT8Qc=/1200x630/smart/filters:format(webp)/extras/conteudos/GTA-6-Grand-Theft-Auto-VI-Artes.webp",
-      "orig": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVHRWRmdpdXhpZTZ1UHNPcFFZd2xLM0JvUkJLdXd3NmszSGRQZ252M2hqbWtkLTBXbTd3ekUzMGFkUnNuVTBTR2dtSTZfM1EwZE1iWndaUExEQnZfTXAzcEZBdFBsOXpRdjZRVm9UUjRTVjU4N0Z6WmhiSmFuTzRQV3ZsbnBPSE5hWXF6azRUSXdla0E?oc=5"
-    },
-    {
-      "t": "Ofertas de games: 007 First Light , Hogwarts Legacy e mais jogos em promoção",
-      "d": "&nbsp;&nbsp; Terra",
-      "link": "https://www.terra.com.br/gameon/plataformas-e-consoles/ofertas-de-games-007-first-light-hogwarts-legacy-e-mais-jogos-em-promocao,d62f464e80c07ec70443aabeb0bc5ac89qjzls45.html",
-      "fonte": "Terra",
-      "data": "2026-10-17T12:12:00.000Z",
-      "c": "Ofertas",
-      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/16/007-first-light-1iyhp2i60nrjo.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNGRubjRMZmJiNVFTc3c4V2pNMlUtd0JwUHplVWtrekZla0pNNWdrS0dyWkhDUGcyOHVrUWt1eFd5TjNwUC1DUVdmTG1aVEFFZ2h5UGZYZmRCcjJwcXg0RkVBMmxKWFE5dVdaVW54NmJMVGhPQmZwVkdVZmZ2bEROWWRueVdDdzQ4S1d2bGJlRmJKN0xSSkpDZHB0ZG1ob1ZfaFd1Nl9YWjlrRG44V0pZeVFuNEdtOGE4Nll4R1FLUE5XNm93eFZsTEhJd0FBX1hyMGxDa2FTb0Z1Z0FTR3lLLTVzTjcxVzNxVXFKZFN1QzZaNlhTTGVmTFg5ekt5aVNZU1Qxag?oc=5"
     },
     {
       "t": "“É um presente maravilhoso”: 9 anos atrás, ele era considerado o maior motivo de vergonha da Marvel; agora, o Punho de Ferro está tendo uma segunda chance",
@@ -160,15 +178,6 @@
       "img": "https://sm.ign.com/ign_br/gallery/g/gta-6-laun/gta-6-launch-trailer-screenshots_y9d5.jpg"
     },
     {
-      "t": "Um dos jogos de maior sucesso de 2025 finalmente poderá ser jogado nos consoles ainda este mês",
-      "d": "Prepare-se para escalada",
-      "link": "https://br.ign.com/peak/156885/um-dos-jogos-de-maior-sucesso-de-2025-finalmente-podera-ser-jogado-nos-consoles-ainda-este-mes",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-16T21:02:42.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/blob_8cgc.jpg"
-    },
-    {
       "t": "Deadlock, jogo secreto da Valve, bate recorde de jogadores antes de ser lançado oficialmente",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/produto-e-review/deadlock-jogo-secreto-da-valve-bate-recorde-de-jogadores-antes-de-ser-lancado-oficialmente/",
@@ -266,15 +275,6 @@
       "data": "2026-10-16T14:44:03.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2024/03/Captura-de-tela-2024-03-19-182500.png"
-    },
-    {
-      "t": "Assassin’s Creed Destiny tem vídeo de jogabilidade vazado",
-      "d": "O Assassin's Creed Destiny, que foi cancelado em março do ano passado, acaba de ter um vídeo vazado que mostra como estava sua jogabilidade",
-      "link": "https://flowgames.gg/assassins-creed-destiny-tem-video-jogabilidade-vazado/",
-      "fonte": "Flow Games",
-      "data": "2026-10-16T14:34:15.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/10/Assassins-Creed-Destiny.jpg"
     }
   ],
   "videos": [
