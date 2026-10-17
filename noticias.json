@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-17T18:04:55.953Z",
+  "atualizadoEm": "2026-10-17T18:35:05.001Z",
   "noticias": [
     {
       "t": "Olha aí mais 3 novos headsets de Pokémon da Razer",
@@ -9,6 +9,16 @@
       "data": "2026-10-17T18:00:50.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2024/10/Charizard-Pokemon-presente-em-Rodeo.jpg"
+    },
+    {
+      "t": "Shrek 2 Remastered revelado por engano na Xbox Store, com trailer ao estilo de GTA 6",
+      "d": "&nbsp;&nbsp; OtakuPT",
+      "link": "https://www.otakupt.com/jogos/shrek-2-remastered-vazado-xbox-store-trailer-gta-6/",
+      "fonte": "OtakuPT",
+      "data": "2026-10-17T17:48:38.000Z",
+      "c": "Consoles",
+      "img": "https://www.otakupt.com/wp-content/uploads/2026/10/Shrek-2-Remastered-thumb.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdWVwRnhnQVBQSENxT0F5elhRVGR3T2FlTk9IdWRSbl9pM09jdXR0TWQwY2pKRVZyMk5NU2RXQkFsX19XNmxfdDdBeUxHMFBXVFhYUjdmUUZqU3M2VHNVVEZWSlFvYlN2Z3JBX2J5cEoya2sxVmNQd1pXdTlEekJlazhiVDAxTFJV?oc=5"
     },
     {
       "t": "LEGO Harry Potter Collection chega ao Nintendo Switch 2 com todos os DLCs",
@@ -52,13 +62,12 @@
     },
     {
       "t": "Xbox Game Pass recebe Battlefield 6 e mais jogos esta semana! Veja os lançamentos (17)",
-      "d": "&nbsp;&nbsp; Estadão",
-      "link": "https://www.estadao.com.br/em-alta/tecmundo/voxel/xbox-game-pass-recebe-battlefield-6-e-mais-jogos-esta-semana-veja-os-lancamentos-17/",
-      "fonte": "Estadão",
-      "data": "2026-10-17T16:28:09.000Z",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-battlefield-6-e-mais-jogos-esta-semana-veja-os-lancamentos-17/",
+      "fonte": "TecMundo",
+      "data": "2026-10-17T16:15:00.000Z",
       "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/WDBWBLMLL5HQHBW5TIOBUZPCHI.jpg?quality=80&auth=bcc38582a08debeeb953349395d09786dde0f4aeac743edfaeb879f5318448b5&width=1200&height=630&smart=true",
-      "orig": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb1FYcWlvYTV6RU1XNVZxSWdCV0RydUlKb0pPdm9TdjFNM1kwVmhYTExZUFU1SmtXNG8xRkh6Y2YtbFpZdHFFQUJpUE1MUjA0WTB2RURjekFNQjRVYlNCN0ZEbnVrckxCSDZrUERHdHdiMW4wUHN2amVZRFFpeXFjWUdHdDJ3WXMyY1BYblQ3ZC05a1pZdXh1cm5wTUZ5ckRWRnBHNnEtMlhJQ1MxMW1CLXNiVkpCSFJUM3QzemdvUnBmemJIbHZYaXp1ZlIyRW8?oc=5"
+      "img": "https://www.estadao.com.br/resizer/v2/WDBWBLMLL5HQHBW5TIOBUZPCHI.jpg?quality=80&auth=bcc38582a08debeeb953349395d09786dde0f4aeac743edfaeb879f5318448b5&width=710"
     },
     {
       "t": "5 jogos de terror para zerar até o Halloween",
@@ -266,15 +275,6 @@
       "data": "2026-10-16T16:28:36.000Z",
       "c": "Ofertas",
       "img": "https://www.youtube.com/embed/rC9q9xOYWbM"
-    },
-    {
-      "t": "Total War Shogun 2 Remaster lança desastroso e é retirado das lojas",
-      "d": "Total War Shogun 2 ganhou um remaster, mas está com tantos problemas que a SEGA removeu o jogo das lojas",
-      "link": "https://flowgames.gg/total-war-shogun-2-remaster-estreia-mal-retirado-loja/",
-      "fonte": "Flow Games",
-      "data": "2026-10-16T16:23:13.000Z",
-      "c": "Lançamentos",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/10/image-38-1.jpg"
     }
   ],
   "videos": [
@@ -282,7 +282,7 @@
       "id": "fu7tRT_y3is",
       "t": "GOD OF WAR 3 REMASTERED - NATIVE PC PORT RTX 5070 | 1440P 60 FPS",
       "data": "2026-10-12T17:27:55Z",
-      "views": 1190,
+      "views": 1191,
       "img": "https://i.ytimg.com/vi/fu7tRT_y3is/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=fu7tRT_y3is"
     },
@@ -290,7 +290,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8034,
+      "views": 8035,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -370,7 +370,7 @@
       "id": "zUskua35owE",
       "t": "FARM BRUTAL DE TOM DE LUMINA 1 MILHÃO POR HORA | EXPEDITION 33!",
       "data": "2025-05-23T22:23:39Z",
-      "views": 3520,
+      "views": 3521,
       "img": "https://i.ytimg.com/vi/zUskua35owE/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=zUskua35owE"
     },
@@ -482,7 +482,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3513,
+      "views": 3516,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
