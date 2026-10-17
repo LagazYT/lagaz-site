@@ -1,6 +1,25 @@
 {
-  "atualizadoEm": "2026-10-17T19:35:19.677Z",
+  "atualizadoEm": "2026-10-17T20:05:28.929Z",
   "noticias": [
+    {
+      "t": "Nintendo não gostou nem um pouco de esquete de Elon Musk como Wario",
+      "d": "Em 2021, o Saturday Night Live fez uma esquete com Elon Musk fantasiado de Wario (e a Nintendo odiou)",
+      "link": "https://flowgames.gg/nintendo-detestou-esquete-elon-musk-como-wario-no-snl/",
+      "fonte": "Flow Games",
+      "data": "2026-10-17T20:00:53.000Z",
+      "c": "Consoles",
+      "img": "https://www.youtube.com/embed/jrTXBFcvoMQ"
+    },
+    {
+      "t": "Switch 2 Edition: todos os jogos da Nintendo e os preços",
+      "d": "&nbsp;&nbsp; Project N",
+      "link": "https://projectn.com.br/lista-jogos-nintendo-switch-2-edition-preco-upgrade/",
+      "fonte": "Project N",
+      "data": "2026-10-17T20:00:00.000Z",
+      "c": "Consoles",
+      "img": "https://projectn.com.br/wp-content/uploads/2026/10/Lista-Switch-2-Edition-capa.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY3FYdUU1VVFlVDBCdm5ZVFZEd2hXWEExN3hpNzFwZVRSQ3RlQVBNVkVBLWZCRFo3bkxNVWFLZU9Vb0NFME1vYXpBMXFoTTBTd2J2aWhNS2FYZUNZbWwtTlE3REZYY1pLcmdpOFk4Y0dVVTJqOHdLV29YRWk5dlZQbk9B?oc=5"
+    },
     {
       "t": "Veja os lançamentos da PlayStation Store entre 18 e 24 de outubro de 2026",
       "d": "&nbsp;&nbsp; PSX Brasil",
@@ -49,16 +68,6 @@
       "c": "Consoles",
       "img": "https://pclabs.com.br/wp-content/uploads/2026/10/resident-evil-4-remake-lancamento-leon-floresta.avif",
       "orig": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40MGdNa002cUNfMEN2NGI5LWdHRTV1a3hpWElUaEt6bWtvMjNnaUFFRkVaNFJ3VEozdDZ6NEY1VlNJZURMSURVLVphUW93TC1OM3Z3MTZJbkV6MGZlTVVJVF9xQnpfVURxNVdWV3RPZw?oc=5"
-    },
-    {
-      "t": "Américas | Nintendo Store: Top 50 jogos que são tendência – Minecraft retoma topo do ranking",
-      "d": "&nbsp;&nbsp; Universo Nintendo",
-      "link": "https://universonintendo.com/americas-nintendo-store-top-50-jogos-que-sao-tendencia-minecraft-retoma-topo-do-ranking/",
-      "fonte": "Universo Nintendo",
-      "data": "2026-10-17T18:39:15.000Z",
-      "c": "Consoles",
-      "img": "https://universonintendo.com/wp-content/uploads/2026/06/Minecraft-KEYART.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQjBiOXBhUFF6ZHlrS09lV1l6LUljRnFoXzltNnpxWTkzaGl0SjVIRHhaUHJLT1RIeDhid2tsTFJsdXFjUnY3RDR6Qm5GeDBSVzlGVTFHeG1QUHNuVHdROTQ0cXdQZEp6MlZLOUNCNDZ5bURBYjFVZzkwRUtmemYtc0ZvWnBHdmtIa3kwZXBzcmlmR1FySldndEk4OWhhRFlfcmJkZjFOOTdoa1lCdHNWeG1ma0xqQ1hk?oc=5"
     },
     {
       "t": "Olha aí mais 3 novos headsets de Pokémon da Razer",
@@ -266,15 +275,6 @@
       "data": "2026-10-16T17:17:00.000Z",
       "c": "Lançamentos",
       "img": "https://www.estadao.com.br/resizer/v2/LC4XSCCMFVC2FJ72INZF7MXRW4.jpg?quality=80&auth=848dc95e7129cc3968a714112200801f3af8eab2fbdcc222167cfb809855e6af&width=710"
-    },
-    {
-      "t": "Steam: 5 jogos com descontos que valem comprar agora",
-      "d": "O Flow Games separou 5 jogos que estão com ótimos descontos na Steam. Confira quais são!",
-      "link": "https://flowgames.gg/steam-5-jogos-com-descontos-que-valem-comprar-agora/",
-      "fonte": "Flow Games",
-      "data": "2026-10-16T16:28:36.000Z",
-      "c": "Ofertas",
-      "img": "https://www.youtube.com/embed/rC9q9xOYWbM"
     }
   ],
   "videos": [
@@ -695,7 +695,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
-      "hype": 52,
+      "hype": 53,
       "link": "https://www.igdb.com/games/call-of-duty-modern-warfare-4"
     },
     {
