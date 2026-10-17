@@ -1,6 +1,46 @@
 {
-  "atualizadoEm": "2026-10-16T23:58:00.103Z",
+  "atualizadoEm": "2026-10-17T00:28:10.773Z",
   "noticias": [
+    {
+      "t": "Rouanet Games: o que muda com a nova lei dos jogos e o pacote de Lula para o setor",
+      "d": "&nbsp;&nbsp; Gazeta de São Paulo",
+      "link": "https://www.gazetasp.com.br/cotidiano/rouanet-games-o-que-muda-com-a-nova-lei-dos-games-e-o-pacote-de-lula-para-o-setor/",
+      "fonte": "Gazeta de São Paulo",
+      "data": "2026-10-17T00:15:00.000Z",
+      "c": "Geral",
+      "img": "https://cdn.gazetasp.com.br/uploads/2026/10/pessoa-jogando-videogame-jeshoots-com-unsplash-WEB.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdjBObWRPeVFsaTFISXRaVEMyWkxNakJ6c1l3WVc1UnJYd3N4WVJHOFAyNG9YeElxUlFpcFkxSjVDSExkdmdmdVJiZ1dlS1IyaWNvaExsa0k4N0VBN1VGVXlpaFVGT2R2b1hKRk5xOTBYNGlrbE1WMDhTajVxQjB3QzVfY2VVd21oYUhDcHdHMTZWNTZIZlBsR1dFSG10WTdTSkktUmFVa0V0U0traFctckZsNE4wQzczX2UtSw?oc=5"
+    },
+    {
+      "t": "Wild cede apenas dois games a Kicker e faz semi em Santa Cruz",
+      "d": "&nbsp;&nbsp; TenisBrasil",
+      "link": "https://tenisbrasil.uol.com.br/wild-cede-apenas-dois-games-a-kicker-e-faz-semi-em-santa-cruz.html",
+      "fonte": "TenisBrasil",
+      "data": "2026-10-17T00:06:23.000Z",
+      "c": "Geral",
+      "img": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/10/wild-santofagasta-vibra-2026.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYk9XLVo1bWdkZkxXOWl0SDJnc2VzbGZBZjVJTjdfNjNjZjJkTTJqMGFCTlI5VU5uQzhOQXFTT0RzblVVdXItc1dvX2t4aTlMQ1JXMlIwTFZaUEVDMHU1cTZMZ25NZmRjMlBKUkNmSVZ2TXhvSU0wMkIwandpZXhvazBGMUpnbXhvcU9OclNFb0RSWm9sb3FTamNocmZ3UQ?oc=5"
+    },
+    {
+      "t": "Jogatina de FDS #80: o que estamos jogando",
+      "d": "&nbsp;&nbsp; Nintendo Blast",
+      "link": "https://www.nintendoblast.com.br/2026/10/jogatina-de-fds-80-o-que-estamos-jogando.html",
+      "fonte": "Nintendo Blast",
+      "data": "2026-10-17T00:01:15.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSHlPOGExc2x3NU1idkZPeTZEcDl2d0Q4WVBodURZYWQ2Qi1HVno4OTh6Zkdwa3FKdVpIZTA2dWxFbjlPc0VvRlpWOGRBZC1IemllQmlwYmRUQkpMSzcwSXNzQl9oZmxrZU05aXRFNnY2a0s3Q0FhX0ZsdkV1NlREMDd4VlNoQmNnQ29iajk5aw?oc=5"
+    },
+    {
+      "t": "PlayStation 5 desbloqueado começa a rodar jogos de PS2 em disco",
+      "d": "&nbsp;&nbsp; Canaltech",
+      "link": "https://canaltech.com.br/games/playstation-5-desbloqueado-comeca-a-rodar-jogos-de-ps2-em-disco/",
+      "fonte": "Canaltech",
+      "data": "2026-10-17T00:00:02.000Z",
+      "c": "Consoles",
+      "img": "https://tl.ctcdn.com.br/GNxv-d9T9DiWr0N9WgVP6NFQ8Qw=/1200x675/smart/filters:format(webp):quality(85)/6ecb3cd8-0815-458f-a5e0-9da4949d4625.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNajdXZmViVmFvTEFVM0x4TDlUaUZMdlpXZHV0VVJLNlBRak1YX3dRTE00QVRtX0JqZXVoRkdyT0hYaEF6ZDNfaE5YT0ZBSkgxeHRoajl3TnZqbDBXOG1SQUdDaThKbHRfMHRQOFBGZXdnQzMtUWNLZEl0V1JydVp0N2NpbXdXWHFBQ2U4RnJjeS0wQUtYdEZoWmMzbw?oc=5"
+    },
     {
       "t": "Street Fighter: ação e nostalgia dos games na tela grande do Cine Marquise",
       "d": "&nbsp;&nbsp; PocosCom",
@@ -21,36 +61,6 @@
       "img": "https://www.estadao.com.br/resizer/v2/YPNLETGIJVGFLMQB5BBTIV4RCI.png?quality=80&auth=9f9ef3af4cfcf7f3c802f1d3a6b06418c477ed3551471a2d80b0255f334ab442&width=710"
     },
     {
-      "t": "Boulevard Shopping BH sorteia PlayStation 5 Pro e kit gamer – até 12/11",
-      "d": "&nbsp;&nbsp; Agenda BH",
-      "link": "https://www.agendabh.com.br/boulevard-shopping-bh-sorteia-playstation-5-pro-e-kit-gamer-ate-12-11/",
-      "fonte": "Agenda BH",
-      "data": "2026-10-16T23:09:57.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdTZqQnJNRF9fU3I1MXRUWDcwZEF2NE16cllDZXptNGZ2VUhZZmh2U3ZveU95eEFJWTFYMmZtNDhzY1p4eGNjNU1rYzlkQ3VXZ3FTTUhMdzhza20zVGxjUlBxa1p1MVM1TFFNeFI3WmFleXpRa2E2M3ZxbVhERkxXMVNqQW1vOTNUamhIMTRsem9HS2FUM3VyV251OWoxWkk?oc=5"
-    },
-    {
-      "t": "O fim da mídia física - Criador do PlayStation alerta fãs",
-      "d": "&nbsp;&nbsp; einerd.com",
-      "link": "https://www.einerd.com/fim-da-midia-fisica-playstation-ken-kutaragi/",
-      "fonte": "einerd.com",
-      "data": "2026-10-16T23:00:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.einerd.com/wp-content/uploads/2026/07/Midia-fisica-playstation.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAybTFidGtXYzJWOW1RZ1g2aFM1TE1sVWlhdUJPMEMwZjdDeUtYNU9JZ0dsaXpKdmtEQjE4ekdqNlJEZy1GYWJHR2xFN0FJQkRyYmlQV0J4TG16LW5EUzM0Sm9VTkczSk1EZG5XUElqNVNhXzJlU0Q0?oc=5"
-    },
-    {
-      "t": "Windows 10 e 11 recebem várias correções, modo XBOX melhorado, novas opções para Lupa e mais",
-      "d": "&nbsp;&nbsp; TudoCelular.com",
-      "link": "https://www.tudocelular.com/software/noticias/n265275/windows-10-e-11-varias-modo-xbox-melhorado.html",
-      "fonte": "TudoCelular.com",
-      "data": "2026-10-16T22:51:45.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcGVYOUtoX3VSTm14azR2ZEMybFJiNGVMdHpHYkRUMVVhaHFWcTR3N1FMY3dFMUszUlYyUU4yWUhXVFl0a3d0UnI0bU5zdW5kXy1QVENXenB6emlWUjRrQjI1RXRpeEpUeFZ6WTJLMDdCa2JtcDRZa29nZU1PSnhCNG1oU0dkRHJ1U0djanJldC1kWGVCVzZVUW9vWDFUN1Z1NWZz?oc=5"
-    },
-    {
       "t": "Resident Evil Requiem e mais jogos para Switch com até 91% OFF na eShop",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/resident-evil-requiem-e-mais-jogos-para-switch-com-ate-91-off-na-eshop/",
@@ -58,16 +68,6 @@
       "data": "2026-10-16T22:30:00.000Z",
       "c": "Consoles",
       "img": "https://www.estadao.com.br/resizer/v2/DKZGALGPCJNGNA6H7VLDYFCTNY.jpg?quality=80&auth=c3193361f1e526d00f273d07a05b5e23ff40647304386b9cfe1d4e42db18e09c&width=710"
-    },
-    {
-      "t": "Resident Evil 2, 3 e 4 chegam ao Switch 2 em novas versões",
-      "d": "&nbsp;&nbsp; Fast Company Brasil",
-      "link": "https://fastcompanybrasil.com/games/resident-evil-2-3-4-chegam-switch-2-novas-versoes/",
-      "fonte": "Fast Company Brasil",
-      "data": "2026-10-16T22:11:35.000Z",
-      "c": "Consoles",
-      "img": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/residentevil-nintendo.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPanVkZkVnWmNCZHV3a2ZXM0JRWUdtdm8yMWk0dGJoZ0R3M3VGSGRyRXhCdkFQRmNYMjA4TF9NMzFqTGExLVNxSWEtUE9fenZkcUdQb3RxbExGR0t5ajVUZlM4blpCdDV6LXRodHBLTDFDWkI1WWJlNGtZd01tRi1LUmluV2VoX1VBNl95TlRlMA?oc=5"
     },
     {
       "t": "Este RPG de sobrevivência foi lançado ontem e, segundo o Metacritic, é um dos melhores jogos de todos os tempos",
