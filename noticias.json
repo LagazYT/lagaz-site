@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-17T04:59:54.120Z",
+  "atualizadoEm": "2026-10-17T05:30:05.656Z",
   "noticias": [
     {
       "t": "2 por 1! Combo com dois jogos da saga Marvel’s Spider-Man para PS5 sai pelo preço de um em oferta exclusiva da Amazon",
@@ -9,6 +9,16 @@
       "data": "2026-10-17T03:30:17.000Z",
       "c": "Ofertas",
       "img": "https://sm.ign.com/ign_br/screenshot/default/ign-20_zdx9.jpg"
+    },
+    {
+      "t": "Adrenaline será membro do júri do The Game Awards 2026; Brasil terá 14 representantes",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/games/the-game-awards-2026-adrenaline/",
+      "fonte": "Adrenaline",
+      "data": "2026-10-17T02:19:00.000Z",
+      "c": "Eventos",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hckVCZHczNHl0WGttQWpGcnA3MVI4XzVTUno4bjROdXZwUVl5TmVjRFlWTXoyVWUwcUFEbl9DQmVvRFpiTnJaanR3ZW1zUU5oOHNkbjhidVh6Ym05a0VqNzRLa2VLay13T0d0UzdkOWtKTEdUWk0w?oc=5"
     },
     {
       "t": "A Riot Games está encerrando o League of Legends Classic apenas 3 meses após o lançamento",
@@ -49,16 +59,6 @@
       "c": "Geral",
       "img": "https://cdn.gazetasp.com.br/uploads/2026/10/pessoa-jogando-videogame-jeshoots-com-unsplash-WEB.jpg",
       "orig": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdjBObWRPeVFsaTFISXRaVEMyWkxNakJ6c1l3WVc1UnJYd3N4WVJHOFAyNG9YeElxUlFpcFkxSjVDSExkdmdmdVJiZ1dlS1IyaWNvaExsa0k4N0VBN1VGVXlpaFVGT2R2b1hKRk5xOTBYNGlrbE1WMDhTajVxQjB3QzVfY2VVd21oYUhDcHdHMTZWNTZIZlBsR1dFSG10WTdTSkktUmFVa0V0U0traFctckZsNE4wQzczX2UtSw?oc=5"
-    },
-    {
-      "t": "Wild cede apenas dois games a Kicker e faz semi em Santa Cruz",
-      "d": "&nbsp;&nbsp; TenisBrasil",
-      "link": "https://tenisbrasil.uol.com.br/wild-cede-apenas-dois-games-a-kicker-e-faz-semi-em-santa-cruz.html",
-      "fonte": "TenisBrasil",
-      "data": "2026-10-17T00:06:23.000Z",
-      "c": "Geral",
-      "img": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/10/wild-santofagasta-vibra-2026.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYk9XLVo1bWdkZkxXOWl0SDJnc2VzbGZBZjVJTjdfNjNjZjJkTTJqMGFCTlI5VU5uQzhOQXFTT0RzblVVdXItc1dvX2t4aTlMQ1JXMlIwTFZaUEVDMHU1cTZMZ25NZmRjMlBKUkNmSVZ2TXhvSU0wMkIwandpZXhvazBGMUpnbXhvcU9OclNFb0RSWm9sb3FTamNocmZ3UQ?oc=5"
     },
     {
       "t": "Brasil tem um dos maiores júris do The Game Awards 2026, incluindo Voxel! Confira lista de membros",
@@ -442,7 +442,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 19984,
+      "views": 19974,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
