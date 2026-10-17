@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-17T06:00:38.246Z",
+  "atualizadoEm": "2026-10-17T06:30:56.968Z",
   "noticias": [
+    {
+      "t": "Zelda: Ocarina of Time ganha novo vídeo com Dark Link; veja novidades e data de lançamento para Nintendo Switch 2",
+      "d": "&nbsp;&nbsp; O GLOBO",
+      "link": "https://oglobo.globo.com/cultura/noticia/2026/10/17/zelda-ocarina-of-time-ganha-novo-video-com-dark-link-veja-novidades-e-data-de-lancamento-para-nintendo-switch-2.ghtml",
+      "fonte": "O GLOBO",
+      "data": "2026-10-17T06:00:00.000Z",
+      "c": "Consoles",
+      "img": "https://s2-oglobo.glbimg.com/gQNdz1tXzlhuVoANfRAA8W6JJug=/1272x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/P/p/n8mccmRRqNQZ7QJDP6Vg/zelda3.png",
+      "orig": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTFFtWDlWVVBKRVBkQjVENXVvWkxhbHNOQ0lnVWw3bXhTODl3eTVIX1pRWGg5MTktc1pIeU1CVmZvV2M3eGJBRDEwRkxkTnBPMWxJaWEzVHg1N1RUUWxhd0ktUERHeExLdUJLeWxLVXNRTzN3V0thLWhCUDh2clZHNHRvakRxckFkWTRFdnZoaVhYdnpweHd6c1JkLTdJT0M5ZWtmQ1V3SGFfM205WlNKQW85bWp0bTk3ZUtyRFc1aF9IRTZXMm9GcWFvM3VlVFMyYzJRVkhjVk5jek1VVC1QelAzRzhCcXJQZDZMMTBoWkx5WURXSklMeE1JbmZYd9IBjAJBVV95cUxPSUxld1hEdWNVdjRhY2tZSHByM3FyNjBpeUZPTGhOV1VuOTd5QjctNm9BOGZNU2xZaUZMYmh0Q0VmVzVOSkJkdWJ2MS1mb0tGMG1yd00wNlVXLXg3UnlBLXpkNlBzQnRoRkRUX3JHX0UyU09HVlhETGZ3a3BUVG5pT0t0TjFPOENKV01DcUYyVHJ2aDcyOEpPb3N1QVdkemNFYTlVWXUtNTJDblNFb2ZGaUtZZ3ZuUWlMWlJDMi1FYkZucU1KRlZjbk10eXJOaDFMWk9taElBSUU4ZFFjZ3RwZW54emxEVkFrVVBZLWtwMi1CRmN6VlktckczeVowdGxleXhRMFFUV0pNUGlX?oc=5"
+    },
     {
       "t": "Vixen 357 será lançado para PS5, Xbox Series, PS4, Xbox One, Switch e PC em 23 de outubro",
       "d": "&nbsp;&nbsp; GameBlast",
@@ -49,16 +59,6 @@
       "c": "Consoles",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TRFFZcHpSN1BvR1JraW9jdnBPY1dsOG5wekwzeGJNSnBOUmtteEpfbjY1Nl9nd1A5MS12dE16MmE1U1ZFNGNUQXJINkp0bnRXMFYtVTBaSTlkcmdDUER0VzVR?oc=5"
-    },
-    {
-      "t": "Rouanet Games: o que muda com a nova lei dos jogos e o pacote de Lula para o setor",
-      "d": "&nbsp;&nbsp; Gazeta de São Paulo",
-      "link": "https://www.gazetasp.com.br/cotidiano/rouanet-games-o-que-muda-com-a-nova-lei-dos-games-e-o-pacote-de-lula-para-o-setor/",
-      "fonte": "Gazeta de São Paulo",
-      "data": "2026-10-17T00:15:00.000Z",
-      "c": "Geral",
-      "img": "https://cdn.gazetasp.com.br/uploads/2026/10/pessoa-jogando-videogame-jeshoots-com-unsplash-WEB.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdjBObWRPeVFsaTFISXRaVEMyWkxNakJ6c1l3WVc1UnJYd3N4WVJHOFAyNG9YeElxUlFpcFkxSjVDSExkdmdmdVJiZ1dlS1IyaWNvaExsa0k4N0VBN1VGVXlpaFVGT2R2b1hKRk5xOTBYNGlrbE1WMDhTajVxQjB3QzVfY2VVd21oYUhDcHdHMTZWNTZIZlBsR1dFSG10WTdTSkktUmFVa0V0U0traFctckZsNE4wQzczX2UtSw?oc=5"
     },
     {
       "t": "Brasil tem um dos maiores júris do The Game Awards 2026, incluindo Voxel! Confira lista de membros",
@@ -650,7 +650,7 @@
         "Switch"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7q4.jpg",
-      "hype": 32,
+      "hype": 31,
       "link": "https://www.igdb.com/games/final-fantasy-resonance"
     },
     {
