@@ -1,6 +1,15 @@
 {
-  "atualizadoEm": "2026-10-17T10:01:54.222Z",
+  "atualizadoEm": "2026-10-17T10:32:00.212Z",
   "noticias": [
+    {
+      "t": "Um dos melhores animes de ficção científica dos últimos anos anuncia nova produção",
+      "d": "A grande dúvida no momento é quando poderemos assistir à novidade",
+      "link": "https://br.ign.com/dr-stone/156831/um-dos-melhores-animes-de-ficcao-cientifica-dos-ultimos-anos-anuncia-nova-producao",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-17T10:00:40.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/blob_bp5m.png"
+    },
     {
       "t": "SEGA lança Sonic de US$ 20 mil com DNA sintético dentro de esmeralda",
       "d": "&nbsp;&nbsp; Fast Company Brasil",
@@ -31,6 +40,16 @@
       "orig": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lZHc4N19iOGJ5dWtwZTNrcFBkQmRlUUx2c0hpNUcxMXhhZUxfRTBHUlpYRkMzS0hoS3pVYXVOV2pObDVMZk1INVJJOFJLbEp1MW5FMlMwcFI5THZacTNQSks3b2JfeTA0VzY1V0VMbS1UaDRsTC0yUGNR?oc=5"
     },
     {
+      "t": "Fim da espera no Switch 2: 007 First Light ganha data de lançamento com traje de GoldenEye",
+      "d": "&nbsp;&nbsp; TudoCelular.com",
+      "link": "https://www.tudocelular.com/novos-produtos/noticias/n265141/007-first-light-data-lancamento-nintendo-switch-2.html",
+      "fonte": "TudoCelular.com",
+      "data": "2026-10-17T08:06:12.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlNHX1o5SFJ1VEtWTDdtc1prZ3Q0Y28zTHpjN3FUaUJoUUFRT3pBVmtScHR3bDVkTndEZWlOREJRZHYybElmQ0xXV2tqaG14Z29XajUzMXlVLU5wV2ZFalF1LWo0Tk9IUVNLS1diSjhjTmE5YUdlQ3FiaUtPaUV5WkZxMHl4RTVQcU1LVXVIRVVWdU93eTFiQ3QzdTg3WlRsUlpLdDJ2STRCRUdZOXQ4d0RVNHc?oc=5"
+    },
+    {
       "t": "Zelda: Ocarina of Time ganha novo vídeo com Dark Link; veja novidades e data de lançamento para Nintendo Switch 2",
       "d": "&nbsp;&nbsp; O GLOBO",
       "link": "https://oglobo.globo.com/cultura/noticia/2026/10/17/zelda-ocarina-of-time-ganha-novo-video-com-dark-link-veja-novidades-e-data-de-lancamento-para-nintendo-switch-2.ghtml",
@@ -58,16 +77,6 @@
       "data": "2026-10-17T03:30:17.000Z",
       "c": "Ofertas",
       "img": "https://sm.ign.com/ign_br/screenshot/default/ign-20_zdx9.jpg"
-    },
-    {
-      "t": "Adrenaline será membro do júri do The Game Awards 2026; Brasil terá 14 representantes",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/the-game-awards-2026-adrenaline/",
-      "fonte": "Adrenaline",
-      "data": "2026-10-17T02:19:00.000Z",
-      "c": "Eventos",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hckVCZHczNHl0WGttQWpGcnA3MVI4XzVTUno4bjROdXZwUVl5TmVjRFlWTXoyVWUwcUFEbl9DQmVvRFpiTnJaanR3ZW1zUU5oOHNkbjhidVh6Ym05a0VqNzRLa2VLay13T0d0UzdkOWtKTEdUWk0w?oc=5"
     },
     {
       "t": "Brasil tem um dos maiores júris do The Game Awards 2026, incluindo Voxel! Confira lista de membros",
@@ -149,15 +158,6 @@
       "data": "2026-10-16T20:42:32.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/thumb-ign-id-pop-blanka_eue4.jpg"
-    },
-    {
-      "t": "Oferta: Star Wars Zero Company para PS5 está saindo por menos de R$ 240 na Amazon",
-      "d": "Estratégia em turnos da EA e da Respawn foi criada por veteranos de XCOM e se passa no fim das Guerras Clônicas",
-      "link": "https://br.ign.com/descontos/156882/oferta-star-wars-zero-company-para-ps5-esta-saindo-por-menos-de-r-240-na-amazon",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-16T20:26:20.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/news/s/star-wars-/star-wars-zero-company-was-originally-pitched-as-a-titanfall_5e1z.jpg"
     },
     {
       "t": "Deadlock, jogo secreto da Valve, bate recorde de jogadores antes de ser lançado oficialmente",
@@ -442,7 +442,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 19984,
+      "views": 19985,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
