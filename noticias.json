@@ -1,6 +1,15 @@
 {
-  "atualizadoEm": "2026-10-17T22:06:28.901Z",
+  "atualizadoEm": "2026-10-17T22:36:38.718Z",
   "noticias": [
+    {
+      "t": "O que é TCG? Conheça 7 jogos de cartas colecionáveis",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/tcg-o-que-e-e-7-melhores-jogos-de-cartas-para-pc-e-console/",
+      "fonte": "TecMundo",
+      "data": "2026-10-17T22:15:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/2TIXFQIXHRNGRDZ53PW2DZIGDI.jpg?quality=80&auth=d5976a5586210153c146be46cd33957023198f65655b21180497e0d0a7ee8bdc&width=710"
+    },
     {
       "t": "Review | Clive Barker’s Hellraiser: Revival",
       "d": "&nbsp;&nbsp; NintendoBoy",
@@ -266,15 +275,6 @@
       "data": "2026-10-16T18:13:00.000Z",
       "c": "Geral",
       "img": "https://www.estadao.com.br/resizer/v2/XJZO7Z6WCZHAZPF63BNEALSGMY.jpg?quality=80&auth=65026cbdb69863e3862b4141b0a6e9656c46c55a59413586e89f1a5fe48e0618&width=710"
-    },
-    {
-      "t": "Rockstar leva carros de GTA 6 para as ruas de Miami antes do lançamento do game",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/rockstar-leva-carros-de-gta-6-para-as-ruas-de-miami-antes-do-lancamento-do-game/",
-      "fonte": "TecMundo",
-      "data": "2026-10-16T17:17:00.000Z",
-      "c": "Lançamentos",
-      "img": "https://www.estadao.com.br/resizer/v2/LC4XSCCMFVC2FJ72INZF7MXRW4.jpg?quality=80&auth=848dc95e7129cc3968a714112200801f3af8eab2fbdcc222167cfb809855e6af&width=710"
     }
   ],
   "videos": [
@@ -290,7 +290,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8035,
+      "views": 8037,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -378,7 +378,7 @@
       "id": "gZSUZuB5jJ0",
       "t": "PICTO INSANO MUITO ROUBADO TENHA MAIS TURNOS | EXPEDITION 33",
       "data": "2025-05-22T17:01:01Z",
-      "views": 2337,
+      "views": 2338,
       "img": "https://i.ytimg.com/vi/gZSUZuB5jJ0/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=gZSUZuB5jJ0"
     },
@@ -394,7 +394,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3486,
+      "views": 3487,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -418,7 +418,7 @@
       "id": "Vi2sXRDf-AM",
       "t": "PICTO INSANO MUITO ROUBADO TENHA O DANO DOBRADO | EXPEDITION 33",
       "data": "2025-05-17T20:00:15Z",
-      "views": 3984,
+      "views": 3986,
       "img": "https://i.ytimg.com/vi/Vi2sXRDf-AM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Vi2sXRDf-AM"
     },
@@ -426,7 +426,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6664,
+      "views": 6665,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -474,7 +474,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3057,
+      "views": 3058,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
