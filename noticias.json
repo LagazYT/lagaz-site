@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-17T08:01:25.852Z",
+  "atualizadoEm": "2026-10-17T08:31:33.888Z",
   "noticias": [
     {
       "t": "Zelda: Ocarina of Time ganha novo vídeo com Dark Link; veja novidades e data de lançamento para Nintendo Switch 2",
@@ -31,6 +31,16 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/ign-20_zdx9.jpg"
     },
     {
+      "t": "Adrenaline será membro do júri do The Game Awards 2026; Brasil terá 14 representantes",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/games/the-game-awards-2026-adrenaline/",
+      "fonte": "Adrenaline",
+      "data": "2026-10-17T02:19:00.000Z",
+      "c": "Eventos",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hckVCZHczNHl0WGttQWpGcnA3MVI4XzVTUno4bjROdXZwUVl5TmVjRFlWTXoyVWUwcUFEbl9DQmVvRFpiTnJaanR3ZW1zUU5oOHNkbjhidVh6Ym05a0VqNzRLa2VLay13T0d0UzdkOWtKTEdUWk0w?oc=5"
+    },
+    {
       "t": "Shopping Del Rey sorteia PlayStation 5 – até 12/11",
       "d": "&nbsp;&nbsp; Agenda BH",
       "link": "https://www.agendabh.com.br/shopping-del-rey-sorteia-playstation-5-ate-12-11/",
@@ -49,16 +59,6 @@
       "c": "Geral",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU25sdV8zdXNGcjFmNlJDbXN4WXpEZkFxTVdBX2l4MzFkb1JYSm55TkhKWURTbElPRmw4MkVycHBDSncxQ2xCaHFVR2dHX2MxZVU0TU9CY2ZLRFNHMkt5YmZ5bkR1czQtSHYtanBuZk1rcmNYc1MwSWJHT1RiY29NQlVFR3FFOEgtbldBaUhMMUdQUWFMLWFMRDZ2dm5TMF9wY0pzUVBnWWZabEtLNHBJ?oc=5"
-    },
-    {
-      "t": "Review | Manairons",
-      "d": "&nbsp;&nbsp; NintendoBoy",
-      "link": "https://nintendoboy.com.br/2026/10/review-manairons/",
-      "fonte": "NintendoBoy",
-      "data": "2026-10-17T00:33:58.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TRFFZcHpSN1BvR1JraW9jdnBPY1dsOG5wekwzeGJNSnBOUmtteEpfbjY1Nl9nd1A5MS12dE16MmE1U1ZFNGNUQXJINkp0bnRXMFYtVTBaSTlkcmdDUER0VzVR?oc=5"
     },
     {
       "t": "Brasil tem um dos maiores júris do The Game Awards 2026, incluindo Voxel! Confira lista de membros",
@@ -290,7 +290,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8031,
+      "views": 8034,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -450,7 +450,7 @@
       "id": "GnGWWpjnYsk",
       "t": "CONSIGA TODAS HABILIDADES DO MONOCO FACILMENTE | EXPEDITION 33",
       "data": "2025-05-14T15:00:34Z",
-      "views": 4242,
+      "views": 4243,
       "img": "https://i.ytimg.com/vi/GnGWWpjnYsk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=GnGWWpjnYsk"
     },
