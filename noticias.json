@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-17T01:28:51.187Z",
+  "atualizadoEm": "2026-10-17T01:58:58.603Z",
   "noticias": [
+    {
+      "t": "PS6 pode custar mais de US$ 1.000 e transformar console em produto de luxo",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/games/ps6-pode-custar-mais-de-us-1-000-e-transformar-console-em-produto-de-luxo/",
+      "fonte": "Adrenaline",
+      "data": "2026-10-17T01:33:00.000Z",
+      "c": "Geral",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU25sdV8zdXNGcjFmNlJDbXN4WXpEZkFxTVdBX2l4MzFkb1JYSm55TkhKWURTbElPRmw4MkVycHBDSncxQ2xCaHFVR2dHX2MxZVU0TU9CY2ZLRFNHMkt5YmZ5bkR1czQtSHYtanBuZk1rcmNYc1MwSWJHT1RiY29NQlVFR3FFOEgtbldBaUhMMUdQUWFMLWFMRDZ2dm5TMF9wY0pzUVBnWWZabEtLNHBJ?oc=5"
+    },
     {
       "t": "Review | Manairons",
       "d": "&nbsp;&nbsp; NintendoBoy",
@@ -40,16 +50,6 @@
       "c": "Consoles",
       "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYIK2FVPMqO1WzkctPxrOA5EdUsKQ36zKALVpMfqZPFs-_FxxW8EdBtiHxedJADX5ii_tG1Kg6d9fqV5GFZEUX4oBusGZ8YGWt_KgvAEUl1EhfgyIpLu0Mblipry7cStitWlgdp1x_2ZU_5emoA5sGsN1XWF_nSlSd4y55WMS8xqxNP_L4XWwRjIUb_TM/w1200-h630-p-k-no-nu/jogo-do-mario-bros-1-.webp",
       "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSHlPOGExc2x3NU1idkZPeTZEcDl2d0Q4WVBodURZYWQ2Qi1HVno4OTh6Zkdwa3FKdVpIZTA2dWxFbjlPc0VvRlpWOGRBZC1IemllQmlwYmRUQkpMSzcwSXNzQl9oZmxrZU05aXRFNnY2a0s3Q0FhX0ZsdkV1NlREMDd4VlNoQmNnQ29iajk5aw?oc=5"
-    },
-    {
-      "t": "PlayStation 5 desbloqueado começa a rodar jogos de PS2 em disco",
-      "d": "&nbsp;&nbsp; Canaltech",
-      "link": "https://canaltech.com.br/games/playstation-5-desbloqueado-comeca-a-rodar-jogos-de-ps2-em-disco/",
-      "fonte": "Canaltech",
-      "data": "2026-10-17T00:00:02.000Z",
-      "c": "Consoles",
-      "img": "https://tl.ctcdn.com.br/GNxv-d9T9DiWr0N9WgVP6NFQ8Qw=/1200x675/smart/filters:format(webp):quality(85)/6ecb3cd8-0815-458f-a5e0-9da4949d4625.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNajdXZmViVmFvTEFVM0x4TDlUaUZMdlpXZHV0VVJLNlBRak1YX3dRTE00QVRtX0JqZXVoRkdyT0hYaEF6ZDNfaE5YT0ZBSkgxeHRoajl3TnZqbDBXOG1SQUdDaThKbHRfMHRQOFBGZXdnQzMtUWNLZEl0V1JydVp0N2NpbXdXWHFBQ2U4RnJjeS0wQUtYdEZoWmMzbw?oc=5"
     },
     {
       "t": "Brasil tem um dos maiores júris do The Game Awards 2026, incluindo Voxel! Confira lista de membros",
@@ -695,7 +695,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
-      "hype": 50,
+      "hype": 51,
       "link": "https://www.igdb.com/games/call-of-duty-modern-warfare-4"
     },
     {
@@ -3805,7 +3805,7 @@
         "PC"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8e8r.jpg",
-      "hype": 1,
+      "hype": 2,
       "link": "https://www.igdb.com/games/soul-blade--1"
     },
     {
