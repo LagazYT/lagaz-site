@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-17T05:30:05.656Z",
+  "atualizadoEm": "2026-10-17T06:00:16.431Z",
   "noticias": [
+    {
+      "t": "Vixen 357 será lançado para PS5, Xbox Series, PS4, Xbox One, Switch e PC em 23 de outubro",
+      "d": "&nbsp;&nbsp; GameBlast",
+      "link": "https://www.gameblast.com.br/2026/10/vixen-357-lancamento-ps5-xbox-series-ps4-xbox-one-switch-pc-23-outubro.html",
+      "fonte": "GameBlast",
+      "data": "2026-10-17T05:34:28.000Z",
+      "c": "PC",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjMxcnBnc3JBUURBVTEybzlwQ3AzMlFINEFwY3g0TWRVbEdrU2l0OGxwSDdlOU52UjExUms0clhwNHdUUjBDOU9MZTQ4T3hEcFVJeXpoTl9ocTQ0bDdxT2laWllOUzIyenRpOHBtMGxzbGV6eWF3OW9CSHRubGdtUmZZUURHeDVZQ1dSbjdmM2dSTHRJd1RUYW53VV80b0pZZXdNS05Sb2RfVExoNUExdlVR?oc=5"
+    },
     {
       "t": "2 por 1! Combo com dois jogos da saga Marvel’s Spider-Man para PS5 sai pelo preço de um em oferta exclusiva da Amazon",
       "d": "Peter Parker e Miles Morales reunidos no PS5 em um único combo. Confira a oferta na Amazon e leve duas aventuras de mundo aberto para a sua coleção! Homem-Aranha com desconto na Amazon!",
@@ -9,16 +19,6 @@
       "data": "2026-10-17T03:30:17.000Z",
       "c": "Ofertas",
       "img": "https://sm.ign.com/ign_br/screenshot/default/ign-20_zdx9.jpg"
-    },
-    {
-      "t": "Adrenaline será membro do júri do The Game Awards 2026; Brasil terá 14 representantes",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/the-game-awards-2026-adrenaline/",
-      "fonte": "Adrenaline",
-      "data": "2026-10-17T02:19:00.000Z",
-      "c": "Eventos",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hckVCZHczNHl0WGttQWpGcnA3MVI4XzVTUno4bjROdXZwUVl5TmVjRFlWTXoyVWUwcUFEbl9DQmVvRFpiTnJaanR3ZW1zUU5oOHNkbjhidVh6Ym05a0VqNzRLa2VLay13T0d0UzdkOWtKTEdUWk0w?oc=5"
     },
     {
       "t": "A Riot Games está encerrando o League of Legends Classic apenas 3 meses após o lançamento",
@@ -290,7 +290,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8031,
+      "views": 8033,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -370,7 +370,7 @@
       "id": "zUskua35owE",
       "t": "FARM BRUTAL DE TOM DE LUMINA 1 MILHÃO POR HORA | EXPEDITION 33!",
       "data": "2025-05-23T22:23:39Z",
-      "views": 3519,
+      "views": 3520,
       "img": "https://i.ytimg.com/vi/zUskua35owE/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=zUskua35owE"
     },
@@ -442,7 +442,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 19974,
+      "views": 19984,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -450,7 +450,7 @@
       "id": "GnGWWpjnYsk",
       "t": "CONSIGA TODAS HABILIDADES DO MONOCO FACILMENTE | EXPEDITION 33",
       "data": "2025-05-14T15:00:34Z",
-      "views": 4242,
+      "views": 4243,
       "img": "https://i.ytimg.com/vi/GnGWWpjnYsk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=GnGWWpjnYsk"
     },
@@ -2443,6 +2443,18 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod36z.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/sombras-negative-frames"
+    },
+    {
+      "t": "Acts of Blood",
+      "data": "2026-12-04",
+      "plats": [
+        "Xbox",
+        "PC",
+        "PS5"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6oq.jpg",
+      "hype": 58,
+      "link": "https://www.igdb.com/games/acts-of-blood"
     },
     {
       "t": "Muri: Wildwoods",
@@ -4719,19 +4731,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coacts.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/the-patient-can-you-escape"
-    },
-    {
-      "t": "Golf With Your Friends 2",
-      "data": "2026-12-31",
-      "plats": [
-        "Xbox",
-        "Switch 2",
-        "PC",
-        "PS5"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyw1.jpg",
-      "hype": 6,
-      "link": "https://www.igdb.com/games/golf-with-your-friends-2"
     }
   ],
   "musicas": []
