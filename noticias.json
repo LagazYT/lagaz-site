@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-17T08:31:33.888Z",
+  "atualizadoEm": "2026-10-17T09:01:41.072Z",
   "noticias": [
+    {
+      "t": "PlayStation 6 pode gerar frames com IA",
+      "d": "&nbsp;&nbsp; MaisTecnologia",
+      "link": "https://www.maistecnologia.com/playstation-6-pode-gerar-frames-com-ia/",
+      "fonte": "MaisTecnologia",
+      "data": "2026-10-17T08:48:45.000Z",
+      "c": "Consoles",
+      "img": "https://www.maistecnologia.com/wp-content/uploads/2026/10/playstation-6-pode-gerar-frames-com-ia-maistecnologia.com.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lZHc4N19iOGJ5dWtwZTNrcFBkQmRlUUx2c0hpNUcxMXhhZUxfRTBHUlpYRkMzS0hoS3pVYXVOV2pObDVMZk1INVJJOFJLbEp1MW5FMlMwcFI5THZacTNQSks3b2JfeTA0VzY1V0VMbS1UaDRsTC0yUGNR?oc=5"
+    },
     {
       "t": "Zelda: Ocarina of Time ganha novo vídeo com Dark Link; veja novidades e data de lançamento para Nintendo Switch 2",
       "d": "&nbsp;&nbsp; O GLOBO",
@@ -18,7 +28,7 @@
       "fonte": "GameBlast",
       "data": "2026-10-17T05:34:28.000Z",
       "c": "PC",
-      "img": "",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ9kB7sRBfREudKO08c8sVn11BQqzV_HlffXMsCCA11IevG4Ywshpw-L_ICIzBuig-6OKQTRKrf-Iph4Z6gt1qlFOE-45RFrSm9lggJAEliVY6WEOtValG-sC1pkaYuojHJn5aL54VkcHcnHeoQH_Vtjode52zj10FNaFq3dD4aSbPKEheXho6SpNGHHoK/w1200-h630-p-k-no-nu/vixen_357_lancamento_ps5_xbox_series_ps4_xbox_one_switch_pc_23_outubro.jpg",
       "orig": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjMxcnBnc3JBUURBVTEybzlwQ3AzMlFINEFwY3g0TWRVbEdrU2l0OGxwSDdlOU52UjExUms0clhwNHdUUjBDOU9MZTQ4T3hEcFVJeXpoTl9ocTQ0bDdxT2laWllOUzIyenRpOHBtMGxzbGV6eWF3OW9CSHRubGdtUmZZUURHeDVZQ1dSbjdmM2dSTHRJd1RUYW53VV80b0pZZXdNS05Sb2RfVExoNUExdlVR?oc=5"
     },
     {
@@ -49,16 +59,6 @@
       "c": "Consoles",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGlyYS0tdW9tV29XdnQzOWVKcEUtcWpXaldVRFVycWVpc2w2NzJIX3lYOUFnbUtON2pOOXFMUEh3QzRzeWwzREhndVJ6aXZ3MUhVLVhmTTZNQ0wzakpyV2Jqb0V0cHlnTjBYWTViOHNNd21lOEJSanhtODBKVkcwM3Y5MA?oc=5"
-    },
-    {
-      "t": "PS6 pode custar mais de US$ 1.000 e transformar console em produto de luxo",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/ps6-pode-custar-mais-de-us-1-000-e-transformar-console-em-produto-de-luxo/",
-      "fonte": "Adrenaline",
-      "data": "2026-10-17T01:33:00.000Z",
-      "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU25sdV8zdXNGcjFmNlJDbXN4WXpEZkFxTVdBX2l4MzFkb1JYSm55TkhKWURTbElPRmw4MkVycHBDSncxQ2xCaHFVR2dHX2MxZVU0TU9CY2ZLRFNHMkt5YmZ5bkR1czQtSHYtanBuZk1rcmNYc1MwSWJHT1RiY29NQlVFR3FFOEgtbldBaUhMMUdQUWFMLWFMRDZ2dm5TMF9wY0pzUVBnWWZabEtLNHBJ?oc=5"
     },
     {
       "t": "Brasil tem um dos maiores júris do The Game Awards 2026, incluindo Voxel! Confira lista de membros",
@@ -426,7 +426,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6663,
+      "views": 6664,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -442,7 +442,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 19984,
+      "views": 19985,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
